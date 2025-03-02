@@ -69,6 +69,8 @@ docker run --rm -it -p 8888:8888 -v $(pwd):/home/jovyan/work dsci-310-analysis
 - After clone the repository, pull from DockerHub:
 ```sh
 docker pull yuwen07/dsci-310-group-01:latest
+```
+```sh
 docker run --rm -it -p 8888:8888 -v $(pwd):/home/jovyan/work yuwen07/dsci-310-group-01
 ```
 - Then, open a browser and go to http://localhost:8888. to access the Jupyter Lab.
