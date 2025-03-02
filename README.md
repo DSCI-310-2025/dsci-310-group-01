@@ -62,7 +62,6 @@ docker-compose down
   - `caret` 
   - `randomForest` 
   - `e1071` 
-  - `pROC`
 
 All dependencies are installed automatically when running the Docker container.
 
