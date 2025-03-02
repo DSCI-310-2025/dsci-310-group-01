@@ -41,7 +41,7 @@ Once the container has launched, retrieve the Jupyter Lab URL with the access to
 docker logs dsci-310-group-01-analysis-1
 ```
 
-Copy the full URL from the output (e.g., **http://127.0.0.1:8888/tree?token=379908fc5210652a35167325ba496af32271f1bf80129edc**) and paste it into your web browser to access Jupyter Lab.
+Copy the full URL from the output (e.g., *http://127.0.0.1:8888/tree?token=379908fc5210652a35167325ba496af32271f1bf80129edc*) and paste it into your web browser to access Jupyter Lab.
 
 **4. Open & Run the Notebook**
 Once in Jupyter Lab, navigate to `analysis.ipynb` and run the notebook to execute the analysis.
