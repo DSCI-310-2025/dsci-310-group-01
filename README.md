@@ -29,19 +29,22 @@ cd dsci-310-group-01
 ```
 **2. Start the Docker Container**
 
-Ensure Docker Desktop is installed and running. Then, in the project directory, run:
+Ensure Docker Desktop is installed and running. Then, in your terminal, navigate to the root of this project repository and run:
 ```sh
 docker-compose up -d
 ```
-Once the container has launched, open http://localhost:8787 in your web browser.
 
-**3. Access RStudio**
-- Go to: http://localhost:8787
-- Username: rstudio
-- Password: (leave blank)
+**3. Retrieve the Jupyter Access Token**
 
-**4. Run the Analysis**
-Open `analysis.ipynb` and run the notebook to execute the analysis.
+Once the container has launched, retrieve the Jupyter Lab URL with the access token by running:
+```sh
+docker logs dsci-310-group-01-analysis-1
+```
+
+Copy the full URL from the output (e.g., **http://127.0.0.1:8888/tree?token=379908fc5210652a35167325ba496af32271f1bf80129edc**) and paste it into your web browser to access Jupyter Lab.
+
+**4. Open & Run the Notebook**
+Once in Jupyter Lab, navigate to `analysis.ipynb` and run the notebook to execute the analysis.
 
 **5. Stop the Container (When Done)**
 To stop and remove the container, run:
@@ -51,7 +54,18 @@ docker-compose down
 
 
 ## Dependencies
-...**TODO**
+- **R version:** 4.3.1 (installed inside Docker)
+- **Jupyter Lab** (included in the Docker container)
+- **Installed R packages:**
+  - `IRkernel` 
+  - `tidyverse` 
+  - `caret` 
+  - `randomForest` 
+  - `e1071` 
+  - `pROC`
+
+All dependencies are installed automatically when running the Docker container.
+
 
 ## Licenses
 MIT License, [see the license file](LICENSE.md).
