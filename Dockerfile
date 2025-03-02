@@ -1,17 +1,26 @@
-# Use a base R image with Tidyverse installed
-FROM rocker/tidyverse:latest
+# Use Jupyter Notebook with R pre-installed
+FROM jupyter/r-notebook:x86_64-ubuntu-22.04
 
-# install packages
-RUN R -e "install.packages(c('tidyverse', 'ggplot2', 'caret'))"
+# Install required R packages
+RUN Rscript -e "install.packages('remotes', repos='https://cloud.r-project.org')"
 
-# Set working directory
-WORKDIR /home/rstudio/project
+# Install additional R packages
+RUN Rscript -e "remotes::install_version('IRkernel', version='1.3.0', repos='https://cloud.r-project.org')"
+RUN Rscript -e "remotes::install_version('tidyverse', version='2.0.0', repos='https://cloud.r-project.org')"
+RUN Rscript -e "remotes::install_version('caret', version='6.0-94', repos='https://cloud.r-project.org')"
+RUN Rscript -e "remotes::install_version('randomForest', version='4.7-1.1', repos='https://cloud.r-project.org')"
+RUN Rscript -e "remotes::install_version('e1071', version='1.7-14', repos='https://cloud.r-project.org')"
+RUN Rscript -e "remotes::install_version('pROC', version='1.18.5', repos='https://cloud.r-project.org')"
 
-# Copy project files into the container
-COPY . .
 
-# Expose port 8787 for RStudio (optional)
-EXPOSE 8787
+# Register IRKernel in Jupyter
+RUN Rscript -e "IRkernel::installspec(user = FALSE)"
 
-# Default command (RStudio server starts automatically)
-CMD ["/init"]
+# Set working directory inside the container
+WORKDIR /home/jovyan/work
+
+# Expose Jupyter Notebook port
+EXPOSE 8888
+
+# Start Jupyter Notebook
+CMD ["start-notebook.sh", "--NotebookApp.token=''", "--NotebookApp.password=''", "--port=8888", "--ip=0.0.0.0", "--allow-root"]

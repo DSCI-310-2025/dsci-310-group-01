@@ -1,8 +1,9 @@
 services:
   analysis:
-    image: yuwen07/dsci-310-group-01:latest  # DockerHub image
+    build: .  # Use local Dockerfile to build the image instead of pulling from DockerHub
     ports:
-      - "8787:8787"  # RStudio Server
+      - "8888:8888"  # Expose Jupyter Notebook instead of RStudio
     volumes:
-      - .:/home/rstudio/project  # Mounts local files into the container
+      - .:/home/jovyan/work  # Ensure local files match container working directory
     restart: unless-stopped
+    command: ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
