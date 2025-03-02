@@ -68,7 +68,7 @@ docker run --rm -it -p 8888:8888 -v $(pwd):/home/jovyan/work dsci-310-analysis
 ### Option 3:
 - After clone the repository, pull from DockerHub:
 ```sh
-docker pull yuwen07/dsci-310-group-01:latest
+docker pull yuwen07/dsci-310-group-01
 ```
 ```sh
 docker run --rm -it -p 8888:8888 -v $(pwd):/home/jovyan/work yuwen07/dsci-310-group-01
