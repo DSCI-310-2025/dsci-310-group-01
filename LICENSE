@@ -1,4 +1,9 @@
-MIT License
+# License Information
+
+## 1. Software License (MIT License)
+The software in this project (e.g., R scripts, workflows, automation) is provided under the [MIT License](https://opensource.org/license/MIT).
+
+**MIT License:**
 
 Copyright (c) 2025 DSCI-310-2025
 
@@ -19,3 +24,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+---
+
+## 2. Project Content License (CC BY 4.0)
+All **non-code materials** (e.g., documentation, reports, figures, data descriptions) are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+**You are free to:**
+- **Share** – Copy and redistribute the material in any medium or format.
+- **Adapt** – Remix, transform, and build upon the material for any purpose, even commercially.
+
+**Under the following terms:**
+- **Attribution** – You must give **appropriate credit**, provide a **link to the license**, and indicate if changes were made.
+- **No additional restrictions** – You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For more details, see the full [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
