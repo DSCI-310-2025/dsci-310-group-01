@@ -11,11 +11,11 @@ Yuwen Luo
 This project aims to predict whether an animal in the **Long Beach Animal Shelter** will be adopted based on its attributes.
 We use **classification modeling** to determine factors that influence adoption outcomes.
 
-### **Problem Statement**
+### Problem Statement
 Animal shelters receive a high number of incoming pets, and not all of them get adopted.  
 Our goal is to build a **predictive model** that helps shelters understand what factors contribute to **higher adoption rates**.
 
-### **Dataset Used**
+### Dataset Used
 - [Long Beach Animal Shelter Data (TidyTuesday, 2025-03-04)](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-03-04/readme.md)
 <!-- - **Source:** [City of Long Beach Animal Care Services](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-03-04) -->
 
