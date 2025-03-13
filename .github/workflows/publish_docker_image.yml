@@ -28,6 +28,7 @@ jobs:
           images: ${{ secrets.DOCKER_USERNAME }}/dsci-310-group-01
           tags: |
             type=ref,event=branch
+            type = sha
             type=raw,value=latest
 
       - name: Build and push Docker image
