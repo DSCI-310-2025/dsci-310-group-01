@@ -6,4 +6,4 @@ services:
     volumes:
       - .:/home/jovyan/work  # Ensure local files match container working directory
     restart: unless-stopped
-    command: ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
+    command: ["jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"] #launch JupyterLab
