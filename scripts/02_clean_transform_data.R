@@ -80,7 +80,7 @@ cat("Starting data transformation and feature engineering. \n")
 longbeach_transformed <- longbeach_cleaned %>% filter(age <= 30)
 cat("After removing ages > 30:", dim(longbeach_cleaned)[1], "rows\n")
 
-# Count frequency of each animal type and intake condition
+# Count frequency of each animal type and intake condition 
 animal_counts <- longbeach_transformed %>% count(animal_type, sort = TRUE)
 cat("Animal type distribution:", "\n")
 print(animal_counts)
@@ -88,6 +88,11 @@ print(animal_counts)
 intake_counts <- longbeach_transformed %>% count(intake_condition, sort = TRUE)
 cat("Intake condition distribution:", "\n")
 print(intake_counts)
+
+# count frequency of each intake type
+intake_type_counts <- longbeach_transformed %>% count(intake_type, sort = TRUE)
+cat("Intake type distribution:", "\n")
+print(intake_type_counts)
 
 # Group rare animal types (less than 200 instances)
 rare_animal_types <- c("reptile", "guinea pig", "livestock", "amphibian")
@@ -100,16 +105,22 @@ rare_intake_conditions <- c("aged", "behavior moderate", "behavior mild",
 longbeach_transformed <- longbeach_transformed %>%
   mutate(intake_condition = ifelse(intake_condition %in% rare_intake_conditions, "Other", intake_condition))
 
+# Group rare intake types (with fewer than 200 instances)
+rare_intake_types <- c("foster", "adopted animal return", "euthanasia required", "trap, neuter, return", "safe keep", "quarantine")
+longbeach_transformed <- longbeach_transformed %>%
+  mutate(intake_type = ifelse(intake_type %in% rare_intake_types, "Other", intake_type))
+
 # Convert categorical variables to factors
 longbeach_transformed$animal_type <- as.factor(longbeach_transformed$animal_type)
 longbeach_transformed$sex <- as.factor(longbeach_transformed$sex)
 longbeach_transformed$intake_condition <- as.factor(longbeach_transformed$intake_condition)
+longbeach_transformed$intake_type <- as.factor(longbeach_transformed$intake_type)
 longbeach_transformed$season <- as.factor(longbeach_transformed$season)
 longbeach_transformed$adopted <- as.factor(longbeach_transformed$adopted)
 
 # Feature selection - keep only necessary columns for modeling
 longbeach_transformed <- longbeach_transformed %>%
-  select(animal_type, age, sex, intake_condition, season, adopted)
+  select(animal_type, age, sex, intake_condition, intake_type, season, adopted)
 
 # Verify no missing values
 missing_values <- colSums(is.na(longbeach_transformed))
@@ -128,6 +139,7 @@ if (!is.null(opt$table_dir)) {
   # Save animal type and intake condition tables
   write_csv(animal_counts, file.path(opt$table_dir, "animal_type_counts.csv"))
   write_csv(intake_counts, file.path(opt$table_dir, "intake_condition_counts.csv"))
+  write_csv(intake_type_counts, file.path(opt$table_dir, "intake_type_counts.csv"))
   
   # Save adoption outcomes distribution
   adopted_summary <- as.data.frame(table(longbeach_cleaned$adopted))
