@@ -287,7 +287,7 @@ cat,tortie,Female,2023-08-04,2023-09-07,normal,stray,otc,2023-10-23,"00 BLOCK E 
 dog,brown brindle,Male,2023-07-26,2023-11-26,ill severe,owner surrender,otc,2023-11-26,"00 BLOCK W PLEASANT ST, LONG BEACH CA",died,TRUE,"33.846061, -118.1936055",No,1,11,Fall
 cat,brown  tabby,Male,2017-10-02,2017-10-26,under age/weight,stray,otc,2017-11-02,"1000 BLK DAWSON AVE, LONG BEACH, CA 90804",euthanasia,TRUE,"33.7789723, -118.1654888",No,7,11,Fall
 dog,brown,Male,2022-12-01,2023-03-16,normal,owner surrender,field,2023-03-16,"00 BLOCK W PLEASANT ST, LONG BEACH CA",transfer,FALSE,"33.846061, -118.1936055",No,2,03,Spring
-dog,tan,Female,2022-03-16,2023-03-16,normal,owner surrender,field,2023-03-16,"00 BLOCK W PLEASANT ST, LONG BEACH CA",transfer,FALSE,"33.846061, -118.1936055",No,2,03,Spring
+dog,tan,Female,2022-03-16,2023-03-16,normal,owner surrender,field,2023-03-16,"00 BLOCK W PLEASANT ST, LONG BEACH CA",transfer,FALSE,"33.846061, -118.1936055",No,3,03,Spring
 dog,tan,Male,2023-12-02,2024-06-29,injured  mild,stray,field,2024-07-06,"1000 BLK DAWSON AVE, LONG BEACH, CA 90804",rescue,FALSE,"33.7789723, -118.1654888",No,1,07,Summer
 dog,black,Male,2022-12-01,2023-03-16,normal,owner surrender,field,2023-03-16,"00 BLOCK W PLEASANT ST, LONG BEACH CA",transfer,FALSE,"33.846061, -118.1936055",No,2,03,Spring
 dog,tan,Unknown,2023-03-15,2023-03-16,normal,owner surrender,field,2023-03-24,"00 BLOCK W PLEASANT ST, LONG BEACH CA",rescue,FALSE,"33.846061, -118.1936055",No,2,03,Spring
@@ -992,7 +992,7 @@ dog,black,Spayed,2024-04-28,2024-11-18,injured  moderate,stray,field,2024-12-28,
 dog,brown,Female,2023-11-10,2023-12-29,i/i report,stray,otc,2023-12-29,1000 BLK LEWIS AVE LONG BEACH CA 90813,transfer,FALSE,"33.7789754, -118.1795513",No,1,12,Winter
 dog,brown,Female,2023-11-10,2023-12-29,under age/weight,stray,otc,2023-12-29,1000 BLK LEWIS AVE LONG BEACH CA 90813,transfer,FALSE,"33.7789754, -118.1795513",No,1,12,Winter
 cat,gray,Female,2018-03-05,2023-03-05,normal,stray,field,2023-03-16,"1100 BLK E 4TH ST. LONG BEACH, CA 90802",transfer,FALSE,"33.7715811, -118.1777235",No,7,03,Spring
-cat,black,Unknown,2024-03-15,2024-05-15,injured  severe,stray,field,2024-05-15,"1000 BLK LEWIS AVE, LONG BEACH, CA",euthanasia,TRUE,"33.7789754, -118.1795513",No,0,05,Spring
+cat,black,Unknown,2024-03-15,2024-05-15,injured  severe,stray,field,2024-05-15,"1000 BLK LEWIS AVE, LONG BEACH, CA",euthanasia,TRUE,"33.7789754, -118.1795513",No,1,05,Spring
 cat,tortie,Spayed,2018-07-25,2023-07-25,injured  severe,owner surrender,field,2023-09-21,"1100 BLK E 5TH ST, LONG BEACH, CA 90802",return to owner,FALSE,"33.7729905, -118.1779927",No,6,09,Fall
 cat,black,Spayed,2019-02-28,2021-02-28,normal,stray,otc,2021-03-05,"1000 BLK LEWIS AVE, LONG BEACH, CA 90813",transfer,FALSE,"33.7789754, -118.1795513",No,6,03,Spring
 bird,gray,Unknown,2021-05-29,2022-05-29,injured  mild,wildlife,field,2022-05-30,"1100 BLK E 64TH ST, LONG BEACH, CA 90805",rescue,FALSE,"33.8709663, -118.1791906",No,3,05,Spring
@@ -1588,7 +1588,7 @@ cat,calico dilute,Spayed,2023-08-20,2023-09-20,under age/weight,stray,otc,2023-1
 cat,gray,Neutered,2023-08-20,2023-09-20,under age/weight,stray,otc,2023-10-10,1100 BLK E ARTESIA BLVD LONG BEACH CA 90805,rescue,FALSE,"33.8743797, -118.1791202",No,1,10,Fall
 cat,calico,Spayed,2023-08-20,2023-09-20,under age/weight,stray,otc,2023-10-10,1100 BLK E ARTESIA BLVD LONG BEACH CA 90805,rescue,FALSE,"33.8743797, -118.1791202",No,1,10,Fall
 bird,gray,Unknown,2018-12-18,2019-12-18,injured  moderate,wildlife,field,2019-12-18,"1200 BLK PIER G WAY, LONG BEACH, CA 90802",transfer,FALSE,"33.7420745, -118.1883076",No,6,12,Winter
-cat,white,Male,2020-03-16,2020-07-16,normal,stray,otc,2020-07-22,"1100 BLK E BROADWAY, LONG BEACH, CA 90802",rescue,FALSE,"33.7684747, -118.178389",No,4,07,Summer
+cat,white,Male,2020-03-16,2020-07-16,normal,stray,otc,2020-07-22,"1100 BLK E BROADWAY, LONG BEACH, CA 90802",rescue,FALSE,"33.7684747, -118.178389",No,5,07,Summer
 dog,tan,Neutered,2017-08-30,2019-08-30,injured  severe,owner surrender,otc,2019-08-31,"1200 BLK PINE AVE, LONG BEACH, CA 90813",euthanasia,TRUE,"33.7814059, -118.192393",No,7,08,Summer
 cat,gray tabby,Spayed,2023-08-16,2023-09-20,under age/weight,stray,otc,2023-11-19,1100 BLK E BURNETT STREET SIGNAL HILL CA 90755,adoption,FALSE,"33.800755, -118.1784908",Yes,1,11,Fall
 cat,brown  tabby,Neutered,2018-09-20,2023-09-20,ill severe,stray,field,2023-10-05,"1200 BLK REDONDO, LB 90804",adoption,FALSE,"33.7817861, -118.1522785",Yes,6,10,Fall
@@ -1855,7 +1855,7 @@ bird,white,Unknown,2021-06-03,2022-06-03,injured  severe,wildlife,field,2022-06-
 cat,black tabby,Male,2020-08-31,2020-09-26,under age/weight,stray,otc,2020-10-01,"12500 BLK SEMORA ST, CERRITOS CA 90703",rescue,FALSE,"33.87031, -118.0663731",No,4,10,Fall
 cat,calico,Female,2016-05-17,2018-05-17,normal,stray,otc,2018-09-20,"1115 SAINT LOUIS AVE, LONG BEACH, CA 90804",adoption,FALSE,"33.7811127, -118.1669173",Yes,8,09,Fall
 cat,gray tabby,Female,2020-08-31,2020-09-26,under age/weight,stray,otc,2020-10-01,"12500 BLK SEMORA ST, CERRITOS, CA 90703",rescue,FALSE,"33.87031, -118.0663731",No,4,10,Fall
-cat,black,Neutered,2018-03-17,2018-05-17,normal,stray,otc,2018-06-01,"1115 SAINT LOUIS AVE, LONG BEACH, CA 90804",transfer,FALSE,"33.7811127, -118.1669173",No,6,06,Summer
+cat,black,Neutered,2018-03-17,2018-05-17,normal,stray,otc,2018-06-01,"1115 SAINT LOUIS AVE, LONG BEACH, CA 90804",transfer,FALSE,"33.7811127, -118.1669173",No,7,06,Summer
 dog,brown,Neutered,2024-03-04,2024-08-04,i/i report,stray,otc,2024-08-15,"12500 BLOCK 195TH ST, CERRITOS CA",adoption,FALSE,"33.8534064, -118.0668787",Yes,1,08,Summer
 cat,black,Male,2022-09-03,2022-09-09,under age/weight,stray,field,2022-09-09,"11200 BLK BEACH ST, CERRITOS, CA 90703",rescue,FALSE,"33.8769481, -118.0949572",No,2,09,Fall
 dog,tan,Male,2016-09-17,2020-09-18,normal,owner surrender,otc,2020-09-19,"11200 BLK BIGELOW ST, CERRITOS, CA 90703",transfer,FALSE,"33.8568711, -118.0941847",No,8,09,Fall
@@ -2523,7 +2523,7 @@ cat,orange,Male,2022-07-26,2022-09-26,normal,stray,field,2022-10-21,"1400 BLK AT
 cat,black,Neutered,2014-01-21,2018-01-21,normal,stray,otc,2018-02-08,"1300 BLK CHERRY AVE, LONG BEACH, CA 90813",transfer,FALSE,"33.7826035, -118.1676517",No,11,02,Winter
 cat,white,Female,2018-09-02,2018-10-06,under age/weight,stray,otc,2018-10-29,"1300 BLK CHERRY AVE, LONG BEACH, CA 90813",rescue,FALSE,"33.7826035, -118.1676517",No,6,10,Fall
 cat,black,Spayed,2017-06-20,2018-06-20,normal,stray,trap,2018-07-11,"1400 BLK BRYANT DR E, LONG BEACH, CA 90815","shelter, neuter, return",FALSE,"33.784939, -118.1244705",No,7,07,Summer
-cat,tortie,Unknown,2022-03-16,2024-03-16,ill severe,stray,field,2024-03-16,1300 BLK CHESTNUT AVE,euthanasia,TRUE,"33.7826062, -118.1963655",No,2,03,Spring
+cat,tortie,Unknown,2022-03-16,2024-03-16,ill severe,stray,field,2024-03-16,1300 BLK CHESTNUT AVE,euthanasia,TRUE,"33.7826062, -118.1963655",No,3,03,Spring
 other,pink,Unknown,2022-08-26,2022-08-29,under age/weight,wildlife,field,2022-08-29,"1400 BLK CATALINA AVE, SEAL BEACH, CA 90740",euthanasia,TRUE,"33.7480774, -118.0970717",No,2,08,Summer
 dog,tan,Male,2016-10-30,2019-10-30,normal,stray,field,2019-11-02,"1300 BLK DAISY AVE, LONG BEACH, CA 90813",return to owner,FALSE,"33.7826064, -118.1993957",No,8,11,Fall
 other,pink,Unknown,2022-08-26,2022-08-29,under age/weight,wildlife,field,2022-08-29,"1400 BLK CATALINA AVE, SEAL BEACH, CA 90740",euthanasia,TRUE,"33.7480774, -118.0970717",No,2,08,Summer
@@ -3472,7 +3472,7 @@ cat,white,Male,2014-06-08,2017-06-08,feral,owner surrender,otc,2017-06-29,"1600 
 cat,brown  tabby,Spayed,2020-06-12,2021-06-12,normal,stray,otc,2021-07-10,"1400 SEABRIGHT AVE, LONG BEACH, CA 90813",community cat,FALSE,"33.7839899, -118.2172863",No,4,07,Summer
 cat,brown  tabby,Male,2018-07-24,2018-08-24,under age/weight,stray,otc,2018-08-24,"1600 ROSE AVE, LONG BEACH, CA 90813",rescue,FALSE,"33.7871997, -118.1695053",No,6,08,Summer
 cat,gray,Female,2018-07-24,2018-08-24,under age/weight,stray,otc,2018-08-24,"1600 ROSE AVE, LONG BEACH, CA 90813",rescue,FALSE,"33.7871997, -118.1695053",No,6,08,Summer
-bird,gray,Unknown,2016-03-17,2017-03-17,injured  severe,wildlife,field,2017-03-17,"1600 S HARBOR SCENIC DR, LONG BEACH, CA 90802",euthanasia,TRUE,"33.73969, -118.1866495",No,8,03,Spring
+bird,gray,Unknown,2016-03-17,2017-03-17,injured  severe,wildlife,field,2017-03-17,"1600 S HARBOR SCENIC DR, LONG BEACH, CA 90802",euthanasia,TRUE,"33.73969, -118.1866495",No,9,03,Spring
 dog,white,Male,2014-11-02,2018-11-02,normal,stray,otc,2018-11-07,"1600 SHERMAN AVE, LONG BEACH, CA 90804",return to owner,FALSE,"33.7872317, -118.1659088",No,10,11,Fall
 dog,white,Female,2012-02-04,2017-02-04,normal,safe keep,owner died,2017-02-09,"1600 STANTON PL, LONG BEACH, CA 90804",return to owner,FALSE,"33.7872995, -118.1643207",No,13,02,Winter
 cat,black,Male,2017-03-25,2017-05-25,normal,stray,otc,2017-06-08,"1400 W 24TH ST, LONG BEACH, CA 90810",transport,FALSE,"33.8113701, -118.2234229",No,7,06,Summer
@@ -3628,7 +3628,7 @@ cat,brown  tabby,Male,2016-07-21,2017-01-21,normal,stray,field,2017-01-27,"1700 
 cat,calico,Unknown,2022-06-10,2022-06-15,under age/weight,stray,otc,2022-08-21,"1500 BLK PACIFIC AVE, LONG BEACH, CA 90813",transfer,FALSE,"33.7853169, -118.1937322",No,2,08,Summer
 cat,orange tabby,Male,2018-10-24,2023-10-24,ill severe,stray,field,2023-10-24,1700 BLK CHERRY AVE,euthanasia,TRUE,"33.7881895, -118.1673638",No,6,10,Fall
 cat,white,Unknown,2022-06-10,2022-06-15,under age/weight,stray,otc,2022-08-21,"1500 BLK PACIFIC AVE, LONG BEACH, CA 90813",transfer,FALSE,"33.7853169, -118.1937322",No,2,08,Summer
-cat,gray tabby,Spayed,2016-03-17,2019-03-17,normal,stray,otc,2019-03-20,"1500 BLK PACIFIC AVE, LONG BEACH, CA 90813",transfer,FALSE,"33.7853169, -118.1937322",No,8,03,Spring
+cat,gray tabby,Spayed,2016-03-17,2019-03-17,normal,stray,otc,2019-03-20,"1500 BLK PACIFIC AVE, LONG BEACH, CA 90813",transfer,FALSE,"33.7853169, -118.1937322",No,9,03,Spring
 cat,black,Male,2021-06-10,2024-06-10,injured  severe,stray,field,2024-06-11,1700 BLK CHERRY AVE,euthanasia,TRUE,"33.7881895, -118.1673638",No,3,06,Summer
 guinea pig,brown,Male,2017-04-23,2017-12-23,normal,owner surrender,otc,2017-12-26,"1500 BLK PACIFIC AVE, LONG BEACH, CA 90813",euthanasia,TRUE,"33.7853169, -118.1937322",No,7,12,Winter
 cat,black,Neutered,2013-03-09,2017-03-09,normal,stray,trap,2017-03-22,"1500 BLK PIER C ST, LONG BEACH, CA 90813","shelter, neuter, return",FALSE,"33.772469, -118.2123469",No,12,03,Spring
@@ -4127,7 +4127,7 @@ cat,lynx point,Spayed,2019-09-05,2020-09-05,normal,stray,otc,2020-10-14,"16100 B
 dog,yellow,Spayed,2007-07-03,2017-07-03,injured  severe,stray,field,2017-07-25,"1800 BLK E MARKET ST, LONG BEACH, CA 90805",rescue,FALSE,"33.8540947, -118.1703502",No,17,07,Summer
 dog,tan,Female,2016-10-14,2017-10-14,injured  severe,stray,field,2017-10-14,"16200 BLK CARMENITA RD, CERRITOS, CA 90703",euthanasia,TRUE,"33.8856344, -118.0458701",No,8,10,Fall
 dog,black,Spayed,2015-08-01,2020-10-17,normal,stray,field,2020-10-18,"1800 BLK E MCKENZIE ST, LONG BEACH, CA 90805",return to owner,FALSE,"33.8719249, -118.1708342",No,9,10,Fall
-dog,tan,Male,2016-03-17,2017-03-17,normal,stray,field,2017-03-23,"1800 BLK E MCKENZIE ST, LONG BEACH, CA 90805",transfer,FALSE,"33.8719249, -118.1708342",No,8,03,Spring
+dog,tan,Male,2016-03-17,2017-03-17,normal,stray,field,2017-03-23,"1800 BLK E MCKENZIE ST, LONG BEACH, CA 90805",transfer,FALSE,"33.8719249, -118.1708342",No,9,03,Spring
 cat,calico,Spayed,2024-04-29,2024-06-05,under age/weight,stray,otc,2024-08-15,16200 BLK ESTELLA AVE CERRITOS CA 90703,adoption,FALSE,"33.8835502, -118.102303",Yes,0,08,Summer
 bird,gray,Unknown,2022-10-14,2023-10-14,ill moderatete,wildlife,field,2023-10-14,1800 BLK E OCEAN AVE,euthanasia,TRUE,"33.7643927, -118.1704594",No,2,10,Fall
 cat,blue point,Neutered,2014-04-21,2017-03-14,feral,stray,field,2017-03-15,"16200 BLK ESTELLA AVE, CERRITOS, CA 90703",return to rescue,FALSE,"33.8835502, -118.102303",No,10,03,Spring
@@ -4188,7 +4188,7 @@ dog,tricolor,Spayed,2009-06-15,2019-06-15,normal,stray,field,2019-06-16,"16800 C
 cat,black,Male,2019-04-12,2019-05-24,under age/weight,stray,field,2019-07-26,"16836 WINDWARD AVE, CERRITOS, CA 90703",adoption,FALSE,"33.87710870000001, -118.0955838",Yes,5,07,Summer
 cat,black,Spayed,2019-09-24,2019-11-24,normal,stray,otc,2020-02-27,"16900 BLK ERIC AVE, CERRITOS, CA 90703",rescue,FALSE,"33.8774972, -118.0949808",No,5,02,Winter
 cat,black,Neutered,2019-09-24,2019-11-24,normal,stray,otc,2020-02-27,"16900 BLK ERIC AVE, CERRITOS, CA 90703",rescue,FALSE,"33.8774972, -118.0949808",No,5,02,Winter
-dog,tan,Female,2022-03-16,2024-03-16,normal,stray,otc,2024-03-19,"16900 BLOCK MARIA AVE, CERRITOS CA",return to owner,FALSE,"33.8780778, -118.0603584",No,2,03,Spring
+dog,tan,Female,2022-03-16,2024-03-16,normal,stray,otc,2024-03-19,"16900 BLOCK MARIA AVE, CERRITOS CA",return to owner,FALSE,"33.8780778, -118.0603584",No,3,03,Spring
 dog,black,Male,2014-09-24,2021-12-23,normal,stray,otc,2021-12-27,"1800 BLK ORANGE AVE, LONG BEACH, CA 90806",return to owner,FALSE,"33.7898538, -118.1762891",No,10,12,Winter
 dog,black,Spayed,2017-09-12,2022-09-12,normal,stray,field,2022-09-16,"1800 BLK ORANGE AVE, LONG BEACH, CA 90806",adoption,FALSE,"33.7898538, -118.1762891",Yes,7,09,Fall
 dog,black,Female,2009-04-01,2017-04-01,normal,owner surrender,otc,2017-04-03,"1800 BLK ORIZABA AVE, LONG BEACH, CA 90804",transfer,FALSE,"33.7898492, -118.1567736",No,15,04,Spring
@@ -4405,7 +4405,7 @@ dog,white,Spayed,2020-01-29,2023-01-29,injured  severe,stray,field,2023-02-23,"1
 dog,white,Neutered,2008-02-01,2018-06-17,normal,stray,field,2018-06-17,"18100 BLOOMFIELD AVE, CERRITOS, CA 90703",return to owner,FALSE,"33.8673456, -118.0636787",No,17,06,Summer
 wild,gray,Unknown,2019-04-12,2019-04-13,normal,wildlife,otc,2019-04-13,"1700 BLK W BORT ST, LONG BEACH, CA 90805",rescue,FALSE,"33.8704558, -118.2045799",No,5,04,Spring
 cat,tortie,Spayed,2020-02-12,2020-11-12,normal,stray,otc,2021-01-17,"1700 BLK W CAMERON ST, LONG BEACH, CA 90810",adoption,FALSE,"33.8235041, -118.2155267",Yes,5,01,Winter
-cat,black,Unknown,2024-03-15,2024-03-30,injured  severe,stray,otc,2024-03-30,"18200 BLOCK MILMORE AVE, CARSON CA",euthanasia,TRUE,"33.8652382, -118.2748495",No,0,03,Spring
+cat,black,Unknown,2024-03-15,2024-03-30,injured  severe,stray,otc,2024-03-30,"18200 BLOCK MILMORE AVE, CARSON CA",euthanasia,TRUE,"33.8652382, -118.2748495",No,1,03,Spring
 cat,orange tabby,Female,2018-07-05,2018-08-20,fractious,stray,otc,2018-10-26,"1700 BLK W CANTON ST, LONG BEACH, CA 90810",transfer,FALSE,"33.81080120000001, -118.2155321",No,6,10,Fall
 cat,calico,Female,2012-10-14,2022-10-14,ill severe,stray,field,2022-10-14,"18200 STUDEBAKER RD, CERRITOS, CA 90703",euthanasia,TRUE,"33.8664947, -118.0997108",No,12,10,Fall
 cat,brown  tabby,Spayed,2015-08-20,2018-08-20,normal,stray,trap,2018-08-29,"1700 BLK W CANTON ST, LONG BEACH, CA 90810","shelter, neuter, return",FALSE,"33.81080120000001, -118.2155321",No,9,08,Summer
@@ -5226,7 +5226,7 @@ cat,gray,Female,2017-08-17,2017-09-17,under age/weight,stray,otc,2017-09-18,"190
 cat,gray tabby,Female,2021-04-10,2021-05-01,under age/weight,stray,otc,2021-05-01,"200 BLK E PLENTY ST, LONG BEACH, CA 90808",rescue,FALSE,"33.8473188, -118.1910137",No,3,05,Spring
 cat,black,Spayed,2024-06-15,2024-08-20,normal,welfare seized,NA,2024-09-26,"1900 BLK HARBOR AVE, LONG BEACH, CA 90810",rescue,FALSE,"33.7918583, -118.2101233",No,0,09,Fall
 cat,gray,Spayed,2018-06-23,2018-09-23,normal,stray,trap,2018-10-02,"200 BLK E RANDOLPH PL, LONG BEACH, CA 90807","shelter, neuter, return",FALSE,"33.8315074, -118.190772",No,6,10,Fall
-cat,black,Neutered,2024-03-15,2024-08-20,normal,welfare seized,NA,2024-09-21,"1900 BLK HARBOR AVE, LONG BEACH, CA 90810",adoption,FALSE,"33.7918583, -118.2101233",Yes,0,09,Fall
+cat,black,Neutered,2024-03-15,2024-08-20,normal,welfare seized,NA,2024-09-21,"1900 BLK HARBOR AVE, LONG BEACH, CA 90810",adoption,FALSE,"33.7918583, -118.2101233",Yes,1,09,Fall
 cat,white,Male,2023-07-09,2023-07-30,under age/weight,stray,field,2023-07-31,"200 BLK E SCOTT ST, LB 90805",rescue,FALSE,"33.8688172, -118.1983141",No,1,07,Summer
 cat,calico,Spayed,2022-09-02,2024-08-20,normal,welfare seized,NA,2024-09-05,"1900 BLK HARBOR AVE, LONG BEACH, CA 90810",rescue,FALSE,"33.7918583, -118.2101233",No,2,09,Fall
 cat,white,Male,2023-07-09,2023-07-30,under age/weight,stray,field,2023-07-31,"200 BLK E SCOTT ST, LB 90805",rescue,FALSE,"33.8688172, -118.1983141",No,1,07,Summer
@@ -5503,7 +5503,7 @@ cat,black,Unknown,2019-06-01,2019-06-01,under age/weight,stray,otc,2019-06-01,"2
 cat,brown  tabby,Spayed,2020-08-10,2021-03-10,normal,stray,otc,2021-03-17,"19500 BLK ALIDA AVE, CERRITOS CA 90703",adoption,FALSE,"33.8528787, -118.0774022",Yes,4,03,Spring
 cat,black,Unknown,2019-06-01,2019-06-01,under age/weight,stray,otc,2019-06-01,"2000 BLK E 10TH ST, LONG BEACH, CA 90804",died,TRUE,"33.7789751, -118.1676648",No,5,06,Summer
 cat,calico dilute,Spayed,2018-03-29,2019-03-29,normal,stray,otc,2019-04-07,"19500 BLK ALIDA AVE, CERRITOS, CA 90703",adoption,FALSE,"33.8528787, -118.0774022",Yes,6,04,Spring
-cat,white,Female,2015-03-18,2018-03-18,under age/weight,stray,otc,2018-03-24,"2000 BLK E 11TH ST, LONG BEACH, CA 90804",rescue,FALSE,"33.7807837, -118.1665866",No,9,03,Spring
+cat,white,Female,2015-03-18,2018-03-18,under age/weight,stray,otc,2018-03-24,"2000 BLK E 11TH ST, LONG BEACH, CA 90804",rescue,FALSE,"33.7807837, -118.1665866",No,10,03,Spring
 cat,white,Female,2018-02-18,2018-03-18,under age/weight,stray,otc,2018-03-24,"2000 BLK E 11TH ST, LONG BEACH, CA 90804",rescue,FALSE,"33.7807837, -118.1665866",No,7,03,Spring
 dog,white,Male,2008-09-07,2020-01-29,normal,owner surrender,otc,2020-01-29,"19500 BLK THORNLAKE AVE, CERRITOS, CA 90703",transfer,FALSE,"33.85289, -118.0716145",No,16,01,Winter
 dog,white,Male,2008-09-07,2020-01-29,normal,owner surrender,otc,2020-01-29,"19500 BLK THORNLAKE AVE, CERRITOS, CA 90703",transfer,FALSE,"33.85289, -118.0716145",No,16,01,Winter
@@ -6151,7 +6151,7 @@ cat,black,Neutered,2020-08-24,2020-11-08,normal,stray,otc,2020-12-10,"2000 BLK G
 dog,tan,Female,2019-02-10,2024-02-10,normal,welfare seized,police,2024-02-14,2100 E ANAHEIM,transfer,FALSE,"33.7824162, -118.1664374",No,6,02,Winter
 dog,tan,Male,2021-04-12,2024-02-10,normal,welfare seized,police,2024-02-14,2100 E ANAHEIM,transfer,FALSE,"33.7824162, -118.1664374",No,3,02,Winter
 dog,brown,Unknown,2020-09-29,2023-09-29,injured  severe,stray,field,2023-09-30,2100 E ANAHEIM,euthanasia,TRUE,"33.7824162, -118.1664374",No,4,09,Fall
-bird,black,Unknown,2024-03-15,2024-05-15,injured  moderate,wildlife,field,2024-05-15,2000 BLK IROQUIOS AVE,euthanasia,TRUE,"33.7924121, -118.1057371",No,0,05,Spring
+bird,black,Unknown,2024-03-15,2024-05-15,injured  moderate,wildlife,field,2024-05-15,2000 BLK IROQUIOS AVE,euthanasia,TRUE,"33.7924121, -118.1057371",No,1,05,Spring
 other,gray,Unknown,2018-02-19,2019-02-19,ill severe,wildlife,field,2019-02-19,"2100 E FLORIDA ST, LONG BEACH, CA 90814",transfer,FALSE,"33.7706252, -118.1665382",No,7,02,Winter
 cat,black,Neutered,2017-02-09,2023-02-09,ill moderatete,stray,otc,2023-05-03,2000 BLK JUNIPERO AVE LB 90804,community cat,FALSE,"33.7936114, -118.1629836",No,8,05,Spring
 reptile,green,Female,2023-02-15,2024-02-15,normal,wildlife,field,2024-02-21,2100 E OCEAN,transfer,FALSE,"33.763015, -118.1681549",No,2,02,Winter
@@ -7325,7 +7325,7 @@ other,white,Unknown,2015-01-05,2020-01-05,ill severe,wildlife,field,2020-01-05,"
 cat,calico,Female,2021-09-11,2021-09-23,under age/weight,stray,field,2021-11-09,"2700 BLK CALIFORNIA AVE, SIGNAL HILL, CA 90755",rescue,FALSE,"33.806201, -118.1806756",No,3,11,Fall
 dog,black,Female,2021-08-17,2022-08-17,normal,stray,otc,2022-09-28,"2700 BLK CASPIAN AVE, LONG BEACH, CA 90810",adoption,FALSE,"33.8062492, -118.2121957",Yes,3,09,Fall
 cat,seal point,Spayed,2017-07-26,2019-07-26,fractious,stray,otc,2019-08-02,"2300 CHESTNUT AVE, LONG BEACH, CA 90806","shelter, neuter, return",FALSE,"33.7989357, -118.1958891",No,7,08,Summer
-other,gray,Unknown,2017-03-17,2017-04-17,under age/weight,wildlife,field,2017-04-18,"2700 BLK CASPIAN AVE, LONG BEACH, CA 90810",rescue,FALSE,"33.8062492, -118.2121957",No,7,04,Spring
+other,gray,Unknown,2017-03-17,2017-04-17,under age/weight,wildlife,field,2017-04-18,"2700 BLK CASPIAN AVE, LONG BEACH, CA 90810",rescue,FALSE,"33.8062492, -118.2121957",No,8,04,Spring
 cat,black,Female,2021-09-28,2021-10-17,under age/weight,stray,otc,2021-11-24,"2300 E 15TH ST, LONG BEACH, CA 90804",rescue,FALSE,"33.7858395, -118.1644052",No,3,11,Fall
 cat,cream,Unknown,2013-09-13,2017-09-13,feral,stray,otc,2017-09-13,"2700 BLK CASPIAN AVE, LONG BEACH, CA 90810",euthanasia,TRUE,"33.8062492, -118.2121957",No,11,09,Fall
 cat,black,Female,2021-09-28,2021-10-17,under age/weight,stray,otc,2021-11-24,"2300 E 15TH ST, LONG BEACH, CA 90804",rescue,FALSE,"33.7858395, -118.1644052",No,3,11,Fall
@@ -7559,7 +7559,7 @@ dog,gray,Unknown,2017-06-01,2017-06-07,normal,safe keep,hospital,2017-07-07,"240
 other,gray,Unknown,2021-03-04,2021-04-04,under age/weight,wildlife,field,2021-04-04,"2800 BLK N STUDEBAKER RD, LONG BEACH, CA 90815",transfer,FALSE,"33.806783, -118.0972337",No,4,04,Spring
 cat,black,Male,2017-11-08,2018-03-08,ill moderatete,stray,field,2018-03-08,"2400 E 14TH ST, LONG BEACH, CA 90804",euthanasia,TRUE,"33.7844191, -118.1633037",No,7,03,Spring
 cat,gray tabby,Female,2021-08-26,2021-10-07,under age/weight,stray,otc,2021-11-27,"2800 BLK N STUDEBAKER RD, LONG BEACH, CA 90815",rescue,FALSE,"33.806783, -118.0972337",No,3,11,Fall
-cat,gray,Neutered,2019-03-17,2021-04-10,normal,owner surrender,otc,2021-04-16,"2400 E 28TH ST, SIGNAL HILL, CA 90755",adoption,FALSE,"33.8080397, -118.1632741",Yes,5,04,Spring
+cat,gray,Neutered,2019-03-17,2021-04-10,normal,owner surrender,otc,2021-04-16,"2400 E 28TH ST, SIGNAL HILL, CA 90755",adoption,FALSE,"33.8080397, -118.1632741",Yes,6,04,Spring
 cat,gold,Neutered,2021-03-09,2023-03-09,injured  mild,stray,field,2023-03-23,2800 BLK OF CHERRY,rescue,FALSE,"33.7700504, -118.1937395",No,4,03,Spring
 rabbit,brown,Female,2014-09-14,2017-09-14,normal,stray,otc,2017-10-08,"2800 BLK OSTROM AVE, LONG BEACH, CA 90808",euthanasia,TRUE,"33.8102739, -118.1010665",No,10,10,Fall
 cat,brown  tabby,Male,2017-07-23,2017-08-23,under age/weight,stray,otc,2017-08-24,"2400 E 4TH ST, LONG BEACH, CA 90814",rescue,FALSE,"33.7715589, -118.1626884",No,7,08,Summer
@@ -7997,7 +7997,7 @@ cat,black,Female,2024-07-13,2024-07-18,under age/weight,stray,otc,2024-07-18,"27
 cat,brown  tabby,Spayed,2012-11-15,2017-11-15,ill severe,owner surrender,field,2018-03-24,"300 BLK OBISPO AVE, LONG BEACH, CA 90814",adoption,FALSE,"33.7680855, -118.1546128",Yes,12,03,Spring
 cat,calico,Female,2021-09-11,2021-09-23,injured  moderate,stray,field,2021-09-23,"2700 BLK CALIFORNIA AVE, SIGNAL HILL, CA 90755",euthanasia,TRUE,"33.806201, -118.1806756",No,3,09,Fall
 cat,black,Male,2018-09-26,2018-10-03,under age/weight,stray,otc,2018-10-03,"300 BLK OBISPO AVE, LONG BEACH, CA 90814",transfer,FALSE,"33.7680855, -118.1546128",No,6,10,Fall
-other,gray,Unknown,2017-03-17,2017-04-17,under age/weight,wildlife,field,2017-04-18,"2700 BLK CASPIAN AVE, LONG BEACH, CA 90810",rescue,FALSE,"33.8062492, -118.2121957",No,7,04,Spring
+other,gray,Unknown,2017-03-17,2017-04-17,under age/weight,wildlife,field,2017-04-18,"2700 BLK CASPIAN AVE, LONG BEACH, CA 90810",rescue,FALSE,"33.8062492, -118.2121957",No,8,04,Spring
 dog,white,Female,2020-11-05,2023-11-05,normal,stray,otc,2023-11-17,2700 BLK CLARK AVE LONG BEACH CA 90815,rescue,FALSE,"33.8054247, -118.1336124",No,4,11,Fall
 wild,brown,Unknown,2020-12-02,2021-12-02,injured  severe,wildlife,field,2021-12-02,"300 BLK OBISPO AVE, LONG BEACH, CA 90814",euthanasia,TRUE,"33.7680855, -118.1546128",No,4,12,Winter
 dog,tan,Neutered,2013-04-30,2019-04-30,ill mild,safe keep,owner died,2019-05-03,"2700 BLK E 10TH ST, LONG BEACH, CA 90804",transfer,FALSE,"33.7788443, -118.1597836",No,11,05,Spring
@@ -10176,7 +10176,7 @@ dog,yellow,Neutered,2023-11-14,2024-10-16,normal,return,adoption,2024-10-24,3700
 dog,tan,Male,2013-03-08,2017-03-08,normal,stray,otc,2017-03-15,"400 E PLYMOUTH ST, LONG BEACH, CA 90805",transfer,FALSE,"33.8531568, -118.1882327",No,12,03,Spring
 cat,gray tabby,Male,2022-05-25,2022-06-25,behavior  mild,stray,otc,2022-06-25,"3700 BLK E SOUTH ST, LONG BEACH, CA 90805",transfer,FALSE,"33.8597946, -118.1484742",No,2,06,Summer
 cat,gray tabby,Male,2022-05-25,2022-06-25,behavior  mild,stray,otc,2022-06-25,"3700 BLK E SOUTH ST, LONG BEACH, CA 90805",transfer,FALSE,"33.8597946, -118.1484742",No,2,06,Summer
-cat,black,Neutered,2011-03-19,2017-03-19,normal,owner surrender,otc,2017-04-13,"400 E ROOSEVELT RD, LONG BEACH, CA 90807",rescue,FALSE,"33.8289361, -118.1879441",No,13,04,Spring
+cat,black,Neutered,2011-03-19,2017-03-19,normal,owner surrender,otc,2017-04-13,"400 E ROOSEVELT RD, LONG BEACH, CA 90807",rescue,FALSE,"33.8289361, -118.1879441",No,14,04,Spring
 cat,gray tabby,Female,2022-05-25,2022-06-25,behavior  mild,stray,otc,2022-06-25,"3700 BLK E SOUTH ST, LONG BEACH, CA 90805",transfer,FALSE,"33.8597946, -118.1484742",No,2,06,Summer
 dog,black,Male,2015-01-19,2017-01-19,normal,stray,otc,2017-01-26,"400 E SHORELINE DR, LONG BEACH, CA 90802",transfer,FALSE,"33.76279, -118.1876435",No,10,01,Winter
 cat,gray tabby,Male,2022-05-25,2022-06-25,behavior  mild,stray,otc,2022-06-25,"3700 BLK E SOUTH ST, LONG BEACH, CA 90805",transfer,FALSE,"33.8597946, -118.1484742",No,2,06,Summer
@@ -10302,7 +10302,7 @@ cat,gray tabby,Male,2014-01-18,2017-01-18,normal,stray,otc,2017-01-25,"3700 E HE
 cat,calico,Female,2015-07-28,2017-07-28,normal,stray,otc,2017-09-14,"3700 E OCEAN BLVD, LONG BEACH, CA 90803",adoption,FALSE,"33.7603862, -118.1495589",Yes,9,09,Fall
 dog,gray,Male,2018-09-06,2024-03-02,normal,stray,otc,2024-03-06,"4000 BLOCK N BELLFLOWER, LONG BEACH, CA 90808",return to owner,FALSE,"33.8307528, -118.1247341",No,6,03,Spring
 cat,gray tabby,Male,2015-04-09,2018-04-09,ill severe,stray,field,2018-04-10,"3700 GOLDENROD ST, SEAL BEACH, CA 90740",euthanasia,TRUE,"33.7779425, -118.0535201",No,9,04,Spring
-dog,black,Neutered,2011-03-19,2019-03-17,normal,owner surrender,otc,2019-04-05,"4000 CHARLEMAGNE AVE, LONG BEACH, CA 90808",adoption,FALSE,"33.8303246, -118.1306139",Yes,13,04,Spring
+dog,black,Neutered,2011-03-19,2019-03-17,normal,owner surrender,otc,2019-04-05,"4000 CHARLEMAGNE AVE, LONG BEACH, CA 90808",adoption,FALSE,"33.8303246, -118.1306139",Yes,14,04,Spring
 rabbit,black,Spayed,2018-01-15,2018-06-15,normal,stray,otc,2018-06-30,"4000 FARQUHAR AVE, LOS ALAMITOS, CA 90720",adoption,FALSE,"33.7985168, -118.0623233",Yes,7,06,Summer
 cat,brown  tabby,Female,2017-04-25,2017-05-31,under age/weight,stray,otc,2017-06-01,"4000 GUNDRY AVE, LONG BEACH, CA 90807",rescue,FALSE,"33.8314644, -118.1741633",No,7,06,Summer
 cat,black,Male,2017-04-25,2017-05-31,under age/weight,stray,otc,2017-06-01,"4000 GUNDRY AVE, LONG BEACH, CA 90807",rescue,FALSE,"33.8314644, -118.1741633",No,7,06,Summer
@@ -11278,8 +11278,8 @@ cat,orange tabby,Male,2019-04-23,2019-08-23,ill mild,stray,otc,2020-03-19,"4400 
 cat,orange tabby,Male,2019-04-23,2019-08-23,ill mild,stray,otc,2020-03-19,"4400 BLK E GALEANO ST, LONG BEACH, CA 90815",rescue,FALSE,"33.7932933, -118.1411636",No,5,03,Spring
 cat,white,Spayed,2021-03-02,2021-07-02,normal,stray,otc,2021-07-14,"500 BLK ORLENA AVE, LONG BEACH, CA 90814",adoption,FALSE,"33.7727531, -118.1304341",Yes,4,07,Summer
 bird,black,Unknown,2021-06-01,2021-10-01,under age/weight,wildlife,field,2021-10-01,"500 BLK ORLENA AVE, LONG BEACH, CA 90814",euthanasia,TRUE,"33.7727531, -118.1304341",No,3,10,Fall
-bird,brown,Unknown,2021-03-16,2022-03-16,normal,wildlife,field,2022-03-16,"4400 BLK FACULTY AVE, LONG BEACH, CA 90808",transfer,FALSE,"33.8379271, -118.1368862",No,3,03,Spring
-other,gray,Unknown,2023-03-16,2023-04-16,under age/weight,stray,otc,2023-04-16,4400 BLK FACULTY LB CA 90808,transfer,FALSE,"33.8197825, -118.1064156",No,1,04,Spring
+bird,brown,Unknown,2021-03-16,2022-03-16,normal,wildlife,field,2022-03-16,"4400 BLK FACULTY AVE, LONG BEACH, CA 90808",transfer,FALSE,"33.8379271, -118.1368862",No,4,03,Spring
+other,gray,Unknown,2023-03-16,2023-04-16,under age/weight,stray,otc,2023-04-16,4400 BLK FACULTY LB CA 90808,transfer,FALSE,"33.8197825, -118.1064156",No,2,04,Spring
 cat,black,Spayed,2020-04-23,2020-05-23,normal,stray,otc,2020-05-24,"500 BLK PICO AVE, LONG BEACH, CA 90802",adoption,FALSE,"33.7597875, -118.2047757",Yes,4,05,Spring
 cat,brown  tabby,Neutered,2017-03-09,2018-03-09,fractious,stray,field,2018-03-29,"500 BLK PICO AVE, LONG BEACH, CA 90802","shelter, neuter, return",FALSE,"33.7597875, -118.2047757",No,8,03,Spring
 wild,black,Male,2024-04-29,2024-05-20,under age/weight,wildlife,field,2024-05-20,"500 BLK PIER T AVE, LONG BEACH, CA",transfer,FALSE,"33.7582516, -118.2216057",No,0,05,Spring
@@ -11660,7 +11660,7 @@ wild,brown,Unknown,2016-03-14,2017-01-14,injured  severe,wildlife,field,2017-01-
 cat,gray,Spayed,2023-06-13,2023-09-13,normal,stray,field,2023-09-23,"4800 BLK BENTREE AVE, LB 90807",adoption,FALSE,"33.8449606, -118.177087",Yes,1,09,Fall
 cat,cream,Male,2022-08-01,2022-09-15,ill moderatete,return,adoption,2022-09-20,"5200 BLK E MONLACO RD, LONG BEACH, CA 90808",adoption,FALSE,"33.8221909, -118.1320821",Yes,2,09,Fall
 cat,black,Spayed,2023-06-13,2023-09-13,normal,stray,field,2023-10-04,"4800 BLK BENTREE AVE, LB 90807",adoption,FALSE,"33.8449606, -118.177087",Yes,1,10,Fall
-other,black,Unknown,2019-03-17,2019-03-23,normal,wildlife,otc,2019-03-23,"5200 BLK E MONLACO RD, LONG BEACH, CA 90808",rescue,FALSE,"33.8221909, -118.1320821",No,5,03,Spring
+other,black,Unknown,2019-03-17,2019-03-23,normal,wildlife,otc,2019-03-23,"5200 BLK E MONLACO RD, LONG BEACH, CA 90808",rescue,FALSE,"33.8221909, -118.1320821",No,6,03,Spring
 cat,black,Neutered,2023-06-13,2023-09-13,normal,stray,field,2023-10-05,"4800 BLK BENTREE AVE, LB 90807",adoption,FALSE,"33.8449606, -118.177087",Yes,1,10,Fall
 dog,silver,Spayed,2021-06-03,2022-12-03,normal,stray,otc,2022-12-22,"5200 BLK E. VILLAGE RD, LONG BEACH, CA 90808",adoption,FALSE,"33.834191, -118.1305345",Yes,3,12,Winter
 cat,black,Male,2018-06-01,2018-07-14,under age/weight,stray,otc,2018-07-26,"4800 BLK BENTREE AVE, LONG BEACH, CA 90807",rescue,FALSE,"33.8449606, -118.177087",No,6,07,Summer
@@ -11793,7 +11793,7 @@ dog,black,Neutered,2012-06-15,2021-06-15,normal,owner surrender,field,2021-06-22
 dog,black,Spayed,2013-08-13,2018-10-03,injured  mild,stray,field,2018-10-04,"4TH ST / ATLANTIC AVE, LONG BEACH, CA 90802",return to owner,FALSE,"33.7717101, -118.1850504",No,11,10,Fall
 dog,tan,Female,2012-08-16,2020-08-16,normal,stray,field,2020-08-26,"5300 BLK OF ORANGE AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.8526229, -118.1770062",No,12,08,Summer
 reptile,green,Unknown,2018-05-03,2019-05-03,normal,stray,otc,2019-05-06,"4TH ST / LIME AVE, LONG BEACH, CA 90802",rescue,FALSE,"33.771712, -118.1836921",No,6,05,Spring
-bird,gray,Unknown,2016-03-17,2017-03-17,injured  severe,stray,field,2017-03-17,"4TH ST / LINDEN AVE, LONG BEACH, CA 90802",euthanasia,TRUE,"33.7717054, -118.1863676",No,8,03,Spring
+bird,gray,Unknown,2016-03-17,2017-03-17,injured  severe,stray,field,2017-03-17,"4TH ST / LINDEN AVE, LONG BEACH, CA 90802",euthanasia,TRUE,"33.7717054, -118.1863676",No,9,03,Spring
 dog,black,Spayed,2013-04-16,2017-01-20,normal,stray,otc,2017-01-20,"4TH ST / LOMA AVE, LONG BEACH, CA 90814",return to owner,FALSE,"33.7717123, -118.1502507",No,11,01,Winter
 cat,black,Neutered,2020-07-30,2020-09-30,normal,stray,trap,2020-10-23,"5300 BLK WARDLOW RD, LONG BEACH CA 90808",adoption,FALSE,"33.8187504, -118.129237",Yes,4,10,Fall
 dog,white,Neutered,2015-09-01,2024-06-01,normal,stray,otc,2024-06-20,"5300 BLOCK ATLANTIC AVE, LONG BEACH CA",rescue,FALSE,"33.8525787, -118.1846025",No,9,06,Summer
@@ -11961,7 +11961,7 @@ other,pink,Unknown,2021-09-06,2021-09-07,under age/weight,wildlife,field,2021-09
 dog,tan,Female,2018-09-10,2019-04-10,normal,stray,field,2019-04-16,"500 BLK ORANGE AVE, LONG BEACH, CA 90802",transfer,FALSE,"33.7729471, -118.1760582",No,6,04,Spring
 dog,black,Male,2017-10-19,2018-10-19,normal,quarantine,NA,2018-10-24,"55 W ARBOR ST, LONG BEACH, CA 90805",return to owner,FALSE,"33.8440559, -118.1949224",No,7,10,Fall
 cat,orange tabby,Female,2013-09-08,2017-09-08,normal,stray,otc,2017-09-15,"5500 ACKERFEILD AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.8571807, -118.1629143",No,11,09,Fall
-dog,black,Male,2020-03-16,2021-04-20,normal,stray,otc,2021-04-21,"500 BLK ORANGE AVE, LONG BEACH, CA 90802",return to owner,FALSE,"33.7729471, -118.1760582",No,4,04,Spring
+dog,black,Male,2020-03-16,2021-04-20,normal,stray,otc,2021-04-21,"500 BLK ORANGE AVE, LONG BEACH, CA 90802",return to owner,FALSE,"33.7729471, -118.1760582",No,5,04,Spring
 dog,blonde,Female,2023-03-24,2023-05-24,normal,stray,otc,2023-05-25,5500 ACKERFIELD,transfer,FALSE,"33.8571807, -118.1629143",No,1,05,Spring
 dog,tricolor,Neutered,2011-05-05,2021-12-16,normal,confiscate,police,2021-12-19,"500 BLK ORANGE AVE, LONG BEACH, CA 90802",return to owner,FALSE,"33.7729471, -118.1760582",No,13,12,Winter
 cat,tortie dilute,Female,2022-03-18,2023-03-18,normal,owner surrender,otc,2023-03-20,"5500 BLK ACKERFIELD AVE, LB CA 90805",rescue,FALSE,"33.8571807, -118.1629143",No,2,03,Spring
@@ -12011,7 +12011,7 @@ cat,black,Male,2022-06-27,2022-07-19,under age/weight,stray,field,2022-08-18,"50
 cat,black,Male,2022-06-27,2022-07-19,under age/weight,stray,field,2022-08-18,"500 BLK W ANAHEIM ST, LONG BEACH, CA 90813",transfer,FALSE,"33.7823404, -118.1983267",No,2,08,Summer
 cat,black,Male,2018-04-13,2018-05-16,under age/weight,stray,otc,2018-05-17,"5500 BLK LEWIS AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.85626870000001, -118.1800438",No,6,05,Spring
 dog,gray,Male,2015-05-06,2022-05-06,ill mild,stray,field,2022-05-12,"500 BLK W LA REINA WAY, LONG BEACH, CA 90813",rescue,FALSE,"33.7758725, -118.1980542",No,9,05,Spring
-cat,lynx point,Male,2014-03-18,2018-03-18,normal,owner surrender,otc,2018-03-22,"5500 BLK LEWIS AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.85626870000001, -118.1800438",No,10,03,Spring
+cat,lynx point,Male,2014-03-18,2018-03-18,normal,owner surrender,otc,2018-03-22,"5500 BLK LEWIS AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.85626870000001, -118.1800438",No,11,03,Spring
 dog,black,Male,2012-05-11,2022-05-06,ill mild,stray,field,2022-05-12,"500 BLK W LA REINA WAY, LONG BEACH, CA 90813",rescue,FALSE,"33.7758725, -118.1980542",No,12,05,Spring
 cat,black,Unknown,2020-07-27,2020-08-05,under age/weight,stray,field,2020-08-06,"5500 BLK LEWIS AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.85626870000001, -118.1800438",No,4,08,Summer
 cat,black,Female,2018-04-13,2018-05-16,under age/weight,stray,otc,2018-05-17,"5500 BLK LEWIS AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.85626870000001, -118.1800438",No,6,05,Spring
@@ -12210,7 +12210,7 @@ cat,black tabby,Female,2020-04-10,2020-06-10,normal,stray,otc,2020-06-17,"5700 B
 cat,black,Male,2024-04-05,2024-04-27,under age/weight,stray,otc,2024-05-01,"5000 BLOCK LBB, LONG BEACH CA",rescue,FALSE,"33.7700504, -118.1937395",No,0,05,Spring
 cat,black tabby,Female,2020-04-10,2020-06-10,normal,stray,otc,2020-06-17,"5700 BLK BIGELOW ST, LAKEWOOD, CA 90713",rescue,FALSE,"33.8569166, -118.1212967",No,4,06,Summer
 cat,black,Male,2017-05-19,2017-07-19,normal,stray,otc,2017-07-24,"5000 BRAYTON AVE, LONG BEACH, CA 90805",euthanasia,TRUE,"33.8603201, -118.1760537",No,7,07,Summer
-dog,black,Female,2024-03-15,2024-04-26,under age/weight,stray,otc,2024-04-26,5700 BLK CALIFORNIA AVE LONG BEACH CA 90805,transfer,FALSE,"33.8593564, -118.1807898",No,0,04,Spring
+dog,black,Female,2024-03-15,2024-04-26,under age/weight,stray,otc,2024-04-26,5700 BLK CALIFORNIA AVE LONG BEACH CA 90805,transfer,FALSE,"33.8593564, -118.1807898",No,1,04,Spring
 cat,black tabby,Female,2017-05-19,2017-07-19,normal,stray,otc,2017-10-06,"5000 BRAYTON AVE, LONG BEACH, CA 90805",adoption,FALSE,"33.8603201, -118.1760537",Yes,7,10,Fall
 cat,gray,Neutered,2017-02-19,2017-07-19,normal,stray,otc,2017-07-26,"5000 BRAYTON AVE, LONG BEACH, CA 90805","shelter, neuter, return",FALSE,"33.8603201, -118.1760537",No,8,07,Summer
 dog,gold,Male,2013-01-29,2017-01-29,normal,owner surrender,otc,2017-02-01,"5700 BLK CALIFORNIA AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.8593577, -118.1807901",No,12,02,Winter
@@ -12545,7 +12545,7 @@ dog,black,Spayed,2014-08-27,2020-08-27,normal,stray,otc,2020-09-11,"600 ATLANTIC
 cat,chocolate point,Neutered,2019-03-24,2021-03-24,normal,owner surrender,otc,2021-03-31,"5400 BLK E CENTRALIA ST, LONG BEACH, CA 90808",adoption,FALSE,"33.8395735, -118.1273254",Yes,5,03,Spring
 cat,brown  tabby,Female,2018-08-25,2019-08-25,normal,stray,otc,2019-09-17,"600 AVERY PL, LONG BEACH, CA 90807",died,TRUE,"33.8312364, -118.2004657",No,6,09,Fall
 cat,gray tabby,Male,2019-12-30,2020-09-30,normal,stray,otc,2020-10-03,"5400 BLK E CONANT ST, LONG BEACH, CA 90808",transfer,FALSE,"33.8250112, -118.1274126",No,5,10,Fall
-cat,white,Male,2023-03-16,2023-04-16,under age/weight,stray,otc,2023-04-21,"600 BLK 4TH ST, LB 90802",rescue,FALSE,"33.7715238, -118.1995493",No,1,04,Spring
+cat,white,Male,2023-03-16,2023-04-16,under age/weight,stray,otc,2023-04-21,"600 BLK 4TH ST, LB 90802",rescue,FALSE,"33.7715238, -118.1995493",No,2,04,Spring
 cat,black,Female,2019-03-24,2019-04-27,under age/weight,stray,otc,2019-04-30,"5400 BLK E FLAGSTONE ST, LONG BEACH, CA 90808",transfer,FALSE,"33.8171303, -118.1273205",No,5,04,Spring
 cat,black,Unknown,2022-12-06,2024-12-06,injured  moderate,stray,field,2024-12-06,600 BLK ATLANTIC AVE,euthanasia,TRUE,"33.77446, -118.1846273",No,2,12,Winter
 cat,gray tabby,Male,2019-03-24,2019-04-27,under age/weight,stray,otc,2019-04-30,"5400 BLK E FLAGSTONE ST, LONG BEACH, CA 90808",transfer,FALSE,"33.8171303, -118.1273205",No,5,04,Spring
@@ -13067,7 +13067,7 @@ cat,black,Unknown,2017-04-29,2017-05-23,under age/weight,stray,field,2017-05-25,
 dog,black,Spayed,2021-09-24,2022-11-30,normal,return,adoption,2022-12-31,"6200 BLK WARWOOD RD, LAKEWOOD, CA 90713",adoption,FALSE,"33.8352715, -118.1112551",Yes,3,12,Winter
 wild,brown,Unknown,2021-04-21,2023-04-21,injured  moderate,wildlife,field,2023-04-21,5800 BLK LOS ARCOS,euthanasia,TRUE,"33.7986212, -118.1198527",No,3,04,Spring
 dog,brown,Male,2014-07-30,2024-07-30,injured  severe,stray,field,2024-07-30,"6200 BLK WHITE AVE, LONG BEACH, CA",euthanasia,TRUE,"33.8670864, -118.1970349",No,10,07,Summer
-dog,brown,Neutered,2015-03-18,2018-03-18,injured  moderate,stray,field,2018-04-11,"5800 BLK ORANGE AVE, LONG BEACH, CA 90805",return to owner,FALSE,"33.8601171, -118.1772884",No,9,04,Spring
+dog,brown,Neutered,2015-03-18,2018-03-18,injured  moderate,stray,field,2018-04-11,"5800 BLK ORANGE AVE, LONG BEACH, CA 90805",return to owner,FALSE,"33.8601171, -118.1772884",No,10,04,Spring
 cat,black,Female,2024-10-15,2024-11-15,under age/weight,stray,otc,2024-11-15,"6200 BLOCK EMERALD COVE, LONG BEACH CA",rescue,FALSE,"33.7674318, -118.1146795",No,0,11,Fall
 other,black,Unknown,2021-04-30,2023-04-30,injured  severe,wildlife,field,2023-04-30,5800 BLK PARKCREST ST,euthanasia,TRUE,"33.8300116, -118.1189883",No,3,04,Spring
 dog,brown,Male,2023-09-27,2023-11-11,normal,stray,otc,2023-11-12,"6200 BLOCK PARAMOUNT BLVD, LONG BEACH",rescue,FALSE,"33.8674093, -118.159405",No,1,11,Fall
@@ -13252,8 +13252,8 @@ dog,brown,Neutered,2003-06-03,2018-01-13,normal,stray,field,2018-01-14,"6400 BLK
 dog,white,Neutered,2022-01-16,2022-07-30,normal,owner surrender,otc,2022-08-02,"60 BLK PINE AVE, LONG BEACH, CA 90802",rescue,FALSE,"33.7662727, -118.1923782",No,3,08,Summer
 cat,brown  tabby,Male,2018-07-10,2018-11-10,normal,stray,otc,2018-11-13,"60 W ARBOR ST, LONG BEACH, CA 90805",transfer,FALSE,"33.8437309, -118.1948483",No,6,11,Fall
 cat,orange tabby,Female,2019-05-11,2019-07-11,normal,stray,otc,2019-07-11,"6400 BLK MRYTLE AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.8711324, -118.1818623",No,5,07,Summer
-cat,gray tabby,Female,2023-03-16,2023-04-16,under age/weight,stray,otc,2023-04-21,"600 BLK 4TH ST, LB 90802",rescue,FALSE,"33.7715238, -118.1995493",No,1,04,Spring
-cat,gray tabby,Female,2023-03-16,2023-04-16,under age/weight,stray,otc,2023-04-21,"600 BLK 4TH ST, LB 90802",rescue,FALSE,"33.7715238, -118.1995493",No,1,04,Spring
+cat,gray tabby,Female,2023-03-16,2023-04-16,under age/weight,stray,otc,2023-04-21,"600 BLK 4TH ST, LB 90802",rescue,FALSE,"33.7715238, -118.1995493",No,2,04,Spring
+cat,gray tabby,Female,2023-03-16,2023-04-16,under age/weight,stray,otc,2023-04-21,"600 BLK 4TH ST, LB 90802",rescue,FALSE,"33.7715238, -118.1995493",No,2,04,Spring
 dog,black,Spayed,2021-01-25,2023-01-25,normal,stray,field,2023-02-12,6400 BLK MYRTLE AVE,adoption,FALSE,"33.8711324, -118.1818623",Yes,4,02,Winter
 cat,gray tabby,Unknown,2023-10-07,2023-10-07,under age/weight,stray,otc,2023-10-07,6400 BLK OBISPO AVE LONG BEACH CA 90805,euthanasia,TRUE,"33.8711435, -118.1553458",No,1,10,Fall
 dog,white,Neutered,2023-09-30,2024-09-30,normal,stray,field,2024-10-07,"600 BLK ALMOND AVE, LB 90802",adoption,FALSE,"33.7743014, -118.1744144",Yes,1,10,Fall
@@ -13358,7 +13358,7 @@ cat,gray,Spayed,2022-08-13,2023-02-13,fractious,stray,field,2023-03-02,"600 BLK 
 dog,white,Neutered,2007-01-23,2017-04-28,normal,stray,field,2017-04-28,"6500 BLK ORANGE AVE, LONG BEACH, CA 90805",return to owner,FALSE,"33.8728081, -118.177087",No,18,04,Spring
 cat,orange,Neutered,2022-05-29,2022-06-01,under age/weight,stray,otc,2022-08-10,"600 BLK PACIFIC AVE, LONG BEACH, CA 90802",adoption,FALSE,"33.7741167, -118.1936514",Yes,2,08,Summer
 cat,calico dilute,Female,2018-05-22,2019-05-22,normal,owner surrender,otc,2019-05-30,"6500 BLK ORANGE AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.8728081, -118.177087",No,6,05,Spring
-bird,black,Male,2017-03-17,2018-03-17,injured  severe,wildlife,field,2018-03-17,"600 BLK PACIFIC COAST HWY, SEAL BEACH, CA 90740",euthanasia,TRUE,"33.7462932, -118.1055267",No,7,03,Spring
+bird,black,Male,2017-03-17,2018-03-17,injured  severe,wildlife,field,2018-03-17,"600 BLK PACIFIC COAST HWY, SEAL BEACH, CA 90740",euthanasia,TRUE,"33.7462932, -118.1055267",No,8,03,Spring
 wild,gray,Unknown,2019-04-10,2019-05-10,under age/weight,wildlife,field,2019-05-12,"6500 BLK ORIZABA AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.8726305, -118.1576846",No,5,05,Spring
 bird,gray,Unknown,2024-02-23,2024-07-23,injured  severe,wildlife,field,2024-07-23,"600 BLK PIER D, LONG BEACH, CA",euthanasia,TRUE,"33.7700504, -118.1937395",No,1,07,Summer
 wild,gray,Unknown,2019-04-10,2019-05-10,under age/weight,wildlife,field,2019-05-12,"6500 BLK ORIZABA AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.8726305, -118.1576846",No,5,05,Spring
@@ -13594,7 +13594,7 @@ rabbit,brown,Female,2020-11-24,2021-03-24,injured  moderate,stray,otc,2021-08-07
 dog,white,Male,2014-06-23,2018-06-23,normal,stray,field,2018-06-29,"6100 BLK CERRITOS AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.8656954, -118.1780851",No,10,06,Summer
 cat,orange tabby,Male,2017-04-07,2017-05-07,under age/weight,stray,field,2017-05-12,"67TH ST / LONG BEACH BLVD, LONG BEACH, CA 90805",rescue,FALSE,"33.8759962, -118.2032146",No,7,05,Spring
 dog,black,Male,2017-02-22,2020-02-22,normal,stray,otc,2020-02-28,"6100 BLK CHERRY AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.866659, -118.1682656",No,8,02,Winter
-cat,black,Male,2022-03-16,2022-05-06,normal,stray,otc,2022-05-21,"6100 BLK CHERRY AVE, LONG BEACH, CA 90805",adoption,FALSE,"33.866659, -118.1682656",Yes,2,05,Spring
+cat,black,Male,2022-03-16,2022-05-06,normal,stray,otc,2022-05-21,"6100 BLK CHERRY AVE, LONG BEACH, CA 90805",adoption,FALSE,"33.866659, -118.1682656",Yes,3,05,Spring
 cat,white,Female,2022-06-06,2022-06-24,ill mild,stray,otc,2022-07-27,"6800 ATLANTIC AVE, LONG BEACH, CA 90805",adoption,FALSE,"33.8782002, -118.1859479",Yes,2,07,Summer
 cat,tortie dilute,Female,2014-11-06,2017-11-06,feral,stray,field,2017-12-13,"6100 BLK COKE AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.8657252, -118.1468526",No,10,12,Winter
 cat,orange tabby,Neutered,2015-09-16,2020-01-19,normal,stray,trap,2020-01-29,"6100 BLK E BELEN ST, LONG BEACH, CA 90815","shelter, neuter, return",FALSE,"33.8087048, -118.1129765",No,9,01,Winter
@@ -13768,7 +13768,7 @@ cat,gray tabby,Male,2018-07-29,2018-08-26,under age/weight,stray,field,2018-09-0
 cat,black,Neutered,2020-05-05,2022-04-27,normal,owner surrender,otc,2022-08-27,"6900 BLK LONG BEACH BLVD, LONG BEACH, CA 90805",adoption,FALSE,"33.8795422, -118.2040719",Yes,4,08,Summer
 dog,black,Spayed,2017-04-26,2024-04-24,normal,stray,otc,2024-08-01,"6200 PARAMOUNT BLVD, LONG BEACH, CA 90805",adoption,FALSE,"33.8674093, -118.1594036",Yes,7,08,Summer
 cat,black,Female,2019-07-26,2019-09-10,under age/weight,stray,field,2019-12-28,"6900 BLK N PARAMOUNT BLVD, LONG BEACH, CA 90805",transfer,FALSE,"33.8804617, -118.1598117",No,5,12,Winter
-bird,brown,Unknown,2020-03-16,2021-03-16,injured  moderate,wildlife,field,2021-03-16,"6200 TOBRUK CT, LONG BEACH, CA 90803",transfer,FALSE,"33.7647566, -118.1193621",No,4,03,Spring
+bird,brown,Unknown,2020-03-16,2021-03-16,injured  moderate,wildlife,field,2021-03-16,"6200 TOBRUK CT, LONG BEACH, CA 90803",transfer,FALSE,"33.7647566, -118.1193621",No,5,03,Spring
 dog,black,Male,2020-12-05,2022-12-04,injured  moderate,stray,field,2022-12-23,"6900 BLK ORANGE AVE, LONG BEACH, CA 90805",return to owner,FALSE,"33.8808812, -118.1770865",No,4,12,Winter
 dog,black,Neutered,2023-05-09,2024-09-29,normal,welfare seized,police,2024-10-03,"6204 E MARINA DR LONG BEACH, CA 90803",return to owner,FALSE,"33.7577037, -118.115522",No,1,10,Fall
 dog,black,Neutered,2010-09-27,2018-12-30,normal,stray,field,2018-12-30,"6900 BLK ORCUTT AVE, LONG BEACH, CA 90805",return to owner,FALSE,"33.87931990000001, -118.2027041",No,14,12,Winter
@@ -14146,7 +14146,7 @@ cat,white,Female,2019-10-10,2019-11-21,normal,stray,otc,2019-11-25,"7000 BLK LOC
 cat,calico,Female,2017-03-12,2017-05-12,normal,stray,otc,2017-05-19,"6500 GUNDRY AVE, LONG BEACH, CA 90805",transport,FALSE,"33.8727983, -118.1751347",No,8,05,Spring
 cat,seal point,Female,2020-05-12,2020-07-02,normal,stray,otc,2020-07-17,"6500 HAMMOND AVE, LONG BEACH, CA 90805",adoption,FALSE,"33.8738774, -118.1567337",Yes,4,07,Summer
 cat,brown  tabby,Female,2019-10-10,2019-11-21,normal,stray,otc,2019-11-25,"7000 BLK LOCUST AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.8633472, -118.1898806",No,5,11,Fall
-cat,orange,Neutered,2023-03-16,2023-04-08,normal,stray,otc,2023-06-15,6500 LONG BEACH BLVD LB CA 90805,adoption,FALSE,"33.8722847, -118.2020598",Yes,1,06,Summer
+cat,orange,Neutered,2023-03-16,2023-04-08,normal,stray,otc,2023-06-15,6500 LONG BEACH BLVD LB CA 90805,adoption,FALSE,"33.8722847, -118.2020598",Yes,2,06,Summer
 cat,brown  tabby,Female,2019-10-22,2019-11-22,under age/weight,stray,otc,2019-11-25,"7000 BLK LOCUST AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.8633472, -118.1898806",No,5,11,Fall
 dog,black,Spayed,2020-09-25,2021-09-25,injured  severe,stray,field,2021-10-15,"7000 BLK LONG BEACH BLVD, LONG BEACH, CA 90805",adoption,FALSE,"33.8810529, -118.2046518",Yes,4,10,Fall
 cat,gray,Female,2023-06-15,2023-07-01,under age/weight,stray,field,2023-07-22,651 OBISPO,died,TRUE,"33.7744099, -118.1548697",No,1,07,Summer
@@ -14298,7 +14298,7 @@ dog,white,Neutered,2017-04-20,2022-03-27,normal,stray,otc,2022-04-30,"7200 BLK E
 dog,brown brindle,Male,2023-03-14,2023-05-14,normal,owner surrender,otc,2023-05-14,6700 BLK HARBOR LB CA 90805,transfer,FALSE,"33.8640647, -118.1766294",No,2,05,Spring
 dog,tricolor,Male,2023-03-14,2023-05-14,normal,owner surrender,otc,2023-05-14,6700 BLK HARBOR LB CA 90805,transfer,FALSE,"33.8640647, -118.1766294",No,2,05,Spring
 dog,tan,Female,2024-03-01,2024-05-09,under age/weight,stray,otc,2024-05-11,7200 BLK E WARDLOW ROAD LONG BEACH CA 90808,rescue,FALSE,"33.8184911, -118.0919287",No,1,05,Spring
-cat,orange,Spayed,2018-03-17,2018-05-17,normal,stray,field,2018-06-01,"6700 BLK INDIANA AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.8774437, -118.1534686",No,6,06,Summer
+cat,orange,Spayed,2018-03-17,2018-05-17,normal,stray,field,2018-06-01,"6700 BLK INDIANA AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.8774437, -118.1534686",No,7,06,Summer
 dog,black,Male,2024-03-01,2024-05-09,normal,stray,otc,2024-05-11,7200 BLK E WARDLOW ROAD LONG BEACH CA 90808,rescue,FALSE,"33.8184911, -118.0919287",No,1,05,Spring
 cat,black,Unknown,2018-05-14,2018-06-14,ill severe,stray,field,2018-06-14,"6700 BLK JOHNSON AVE, LONG BEACH, CA 90805",euthanasia,TRUE,"33.8783546, -118.152621",No,6,06,Summer
 dog,brown,Female,2024-03-01,2024-05-09,under age/weight,stray,otc,2024-05-11,7200 BLK E WARDLOW ROAD LONG BEACH CA 90808,rescue,FALSE,"33.8184911, -118.0919287",No,1,05,Spring
@@ -14401,7 +14401,7 @@ cat,black,Spayed,2024-04-06,2024-04-12,under age/weight,stray,otc,2024-06-21,680
 cat,black,Neutered,2024-04-06,2024-04-12,under age/weight,stray,otc,2024-06-22,6800 BLK GALE AVE LONG BEACH CA 90805,adoption,FALSE,"33.8776835, -118.205613",Yes,0,06,Summer
 cat,black,Male,2024-03-20,2024-03-24,under age/weight,stray,otc,2024-03-31,7500 BLK E SPRING STREET LONG BEACH CA 90815,rescue,FALSE,"33.8097185, -118.0929813",No,0,03,Spring
 cat,black,Neutered,2015-03-25,2017-03-25,feral,stray,field,2017-03-30,"6800 BLK GALE AVE, LONG BEACH, CA 90805","shelter, neuter, return",FALSE,"33.8776835, -118.205613",No,9,03,Spring
-cat,white,Neutered,2022-03-16,2024-03-16,normal,stray,otc,2024-04-09,7500 BLK E SPRING STREET LONG BEACH CA 90815,adoption,FALSE,"33.8097185, -118.0929813",Yes,2,04,Spring
+cat,white,Neutered,2022-03-16,2024-03-16,normal,stray,otc,2024-04-09,7500 BLK E SPRING STREET LONG BEACH CA 90815,adoption,FALSE,"33.8097185, -118.0929813",Yes,3,04,Spring
 cat,brown  tabby,Spayed,2015-03-26,2017-03-26,feral,stray,field,2017-03-30,"6800 BLK GALE AVE, LONG BEACH, CA 90805","shelter, neuter, return",FALSE,"33.8776835, -118.205613",No,9,03,Spring
 dog,white,Neutered,2023-10-27,2024-08-25,normal,stray,otc,2024-09-25,7500 BLK E SPRING STREET LONG BEACH CA 90815,adoption,FALSE,"33.8097185, -118.0929813",Yes,1,09,Fall
 dog,gold,Spayed,2013-09-17,2021-09-28,normal,stray,otc,2021-09-28,"7500 BLK E WARDLOW RD, LONG BEACH, CA 90808",return to owner,FALSE,"33.8188669, -118.0919289",No,11,09,Fall
@@ -15640,7 +15640,7 @@ dog,black,Male,2010-09-12,2018-09-12,normal,stray,otc,2018-09-18,"COTA AVE / W 2
 cat,brown,Male,2019-04-09,2019-06-09,normal,owner surrender,otc,2019-06-12,"800 BLK E 20TH ST, LONG BEACH, CA 90806",transfer,FALSE,"33.793485, -118.1828538",No,5,06,Summer
 dog,white,Male,2009-07-06,2019-07-06,normal,stray,otc,2019-07-12,"CRESCENT AVE / BLOOMFIELD AVE, LAKEWOOD, CA 90715",return to owner,FALSE,"33.8396185, -118.0634512",No,15,07,Summer
 cat,gray,Male,2017-03-27,2017-08-27,normal,owner surrender,otc,2017-08-31,"800 BLK E 32 ST, SIGNAL HILL, CA 90755",transfer,FALSE,"33.8152734, -118.1870961",No,7,08,Summer
-dog,tan,Neutered,2014-03-18,2018-03-18,normal,stray,otc,2018-03-18,"DAWSON AVE / E 4TH ST, LONG BEACH, CA 90814",return to owner,FALSE,"33.7717177, -118.1655775",No,10,03,Spring
+dog,tan,Neutered,2014-03-18,2018-03-18,normal,stray,otc,2018-03-18,"DAWSON AVE / E 4TH ST, LONG BEACH, CA 90814",return to owner,FALSE,"33.7717177, -118.1655775",No,11,03,Spring
 dog,white,Female,2017-01-06,2018-07-06,normal,stray,otc,2018-07-06,"DE FOREST AVE / 61ST ST, LONG BEACH, CA 90805",return to owner,FALSE,"33.8651787, -118.1931069",No,8,07,Summer
 cat,black,Female,2022-09-22,2022-09-25,under age/weight,stray,otc,2022-10-27,"800 BLK E ATHERTON ST, LONG BEACH, CA 90815",rescue,FALSE,"33.788676, -118.1179628",No,2,10,Fall
 dog,red,Spayed,2011-03-22,2017-07-06,behavior  moderate,owner surrender,field,2017-07-16,"800 BLK E CARTAGENA ST, LONG BEACH, CA 90807",adoption,FALSE,"33.832964, -118.1825479",Yes,13,07,Summer
@@ -15696,9 +15696,9 @@ dog,white,Neutered,2016-03-31,2019-08-29,normal,stray,field,2019-08-29,"E 10TH S
 cat,brown  tabby,Male,2017-04-04,2017-05-04,under age/weight,stray,otc,2017-05-04,"E 10TH ST / REDONDO AVE, LONG BEACH, CA 90804",rescue,FALSE,"33.7789651, -118.1524148",No,7,05,Spring
 cat,brown  tabby,Neutered,2023-07-11,2023-08-26,ill moderatete,stray,field,2023-10-10,"800 BLK HOFFMAN AVE, LONG BEACH, CA 90813",rescue,FALSE,"33.7772394, -118.1730704",No,1,10,Fall
 dog,black,Spayed,2011-07-07,2018-03-11,normal,stray,otc,2018-03-17,"E 11TH ST / MOLINO AVE, LONG BEACH, CA 90804",return to owner,FALSE,"33.7807871, -118.161129",No,13,03,Spring
-cat,brown,Unknown,2024-03-15,2024-03-16,under age/weight,stray,field,2024-03-16,"800 BLK HOFFMAN AVE, LONG BEACH, CA 90813",disposal,FALSE,"33.7772394, -118.1730704",No,0,03,Spring
+cat,brown,Unknown,2024-03-15,2024-03-16,under age/weight,stray,field,2024-03-16,"800 BLK HOFFMAN AVE, LONG BEACH, CA 90813",disposal,FALSE,"33.7772394, -118.1730704",No,1,03,Spring
 dog,black,Male,2015-07-16,2017-07-16,normal,stray,otc,2017-07-22,"E 14TH ST /  LINDEN AVE, LONG BEACH, CA 90813",transfer,FALSE,"33.7838011, -118.1867082",No,9,07,Summer
-cat,brown  tabby,Unknown,2024-03-15,2024-03-16,under age/weight,stray,field,2024-03-16,"800 BLK HOFFMAN AVE, LONG BEACH, CA 90813",rescue,FALSE,"33.7772394, -118.1730704",No,0,03,Spring
+cat,brown  tabby,Unknown,2024-03-15,2024-03-16,under age/weight,stray,field,2024-03-16,"800 BLK HOFFMAN AVE, LONG BEACH, CA 90813",rescue,FALSE,"33.7772394, -118.1730704",No,1,03,Spring
 dog,black,Male,2017-06-09,2019-07-04,normal,stray,otc,2019-07-25,"E 14TH ST / CHERRY AVE, LONG BEACH, CA 90813",rescue,FALSE,"33.7844232, -118.1676387",No,7,07,Summer
 cat,brown  tabby,Unknown,2024-08-10,2024-08-25,under age/weight,stray,field,2024-08-25,"800 BLK HOFFMAN, LB 90813",rescue,FALSE,"33.7844997, -118.1971031",No,0,08,Summer
 cat,brown  tabby,Unknown,2024-08-10,2024-08-25,under age/weight,stray,field,2024-08-25,"800 BLK HOFFMAN, LB 90813",rescue,FALSE,"33.7844997, -118.1971031",No,0,08,Summer
@@ -15836,7 +15836,7 @@ dog,brown,Neutered,2014-05-11,2019-05-11,normal,stray,otc,2019-05-12,"E BIXBY RD
 cat,white,Unknown,2021-08-23,2021-09-07,normal,stray,otc,2021-09-08,"E BROADWAY / E LIVINGSTON DR, LONG BEACH, CA 90803",rescue,FALSE,"33.7620461, -118.1408302",No,3,09,Fall
 dog,tricolor,Neutered,2015-10-19,2017-10-19,normal,stray,otc,2017-10-19,"E BROADWAY / GRAND AVE, LONG BEACH, CA 90803",return to owner,FALSE,"33.7644498, -118.1480894",No,9,10,Fall
 dog,brown,Neutered,2020-06-11,2023-08-28,injured  severe,stray,field,2023-09-03,800 E SOUTH,return to owner,FALSE,"33.8599125, -118.1827006",No,4,09,Fall
-cat,black,Neutered,2016-03-17,2017-03-17,normal,owner surrender,otc,2017-03-24,"800 E VIA CARMELITOS AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.8475812, -118.182288",No,8,03,Spring
+cat,black,Neutered,2016-03-17,2017-03-17,normal,owner surrender,otc,2017-03-24,"800 E VIA CARMELITOS AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.8475812, -118.182288",No,9,03,Spring
 dog,white,Spayed,2009-05-07,2017-05-07,normal,stray,otc,2017-06-17,"E BROADWAY / REDONDO AVE, LONG BEACH, CA 90803",adoption,FALSE,"33.76444, -118.1524463",Yes,15,06,Summer
 cat,brown  tabby,Neutered,2019-04-01,2020-06-25,normal,owner surrender,otc,2020-07-17,"800 E VIA CARMELITOS, LONG BEACH, CA 90805",adoption,FALSE,"33.8475812, -118.182288",Yes,5,07,Summer
 cat,orange tabby,Neutered,2005-12-04,2017-12-04,ill severe,stray,field,2017-12-05,"E BROADWAY / ROYCROFT AVE, LONG BEACH, CA 90803",euthanasia,TRUE,"33.7644452, -118.1383153",No,19,12,Winter
@@ -15932,7 +15932,7 @@ dog,black,Neutered,2021-03-17,2023-03-03,normal,return,adoption,2023-03-18,"8200
 bird,gray,Unknown,2018-05-21,2019-05-21,injured  severe,wildlife,field,2019-05-21,"E OCEAN BLVD / JUNIPERO AVE, LONG BEACH, CA 90803",euthanasia,TRUE,"33.7641976, -118.1666286",No,6,05,Spring
 dog,white,Neutered,2016-07-27,2019-07-27,normal,stray,field,2019-07-27,"E OCEAN BLVD / PINE AVE, LONG BEACH, CA 90802",return to owner,FALSE,"33.7670957, -118.1924071",No,8,07,Summer
 dog,black,Male,2011-10-13,2019-05-08,normal,stray,otc,2019-05-18,"E OCEAN BLVD / REDONDO AVE, LONG BEACH, CA 90803",transfer,FALSE,"33.760989, -118.1526651",No,13,05,Spring
-cat,tortie,Spayed,2016-03-17,2021-03-30,normal,return,rtf,2021-04-24,"850 BLK DAWSON AVE, LONG BEACH CA 90804",transfer,FALSE,"33.7780251, -118.1652824",No,8,04,Spring
+cat,tortie,Spayed,2016-03-17,2021-03-30,normal,return,rtf,2021-04-24,"850 BLK DAWSON AVE, LONG BEACH CA 90804",transfer,FALSE,"33.7780251, -118.1652824",No,9,04,Spring
 cat,brown  tabby,Male,2017-05-08,2017-07-08,normal,stray,otc,2017-07-13,"E OCEAN BLVD /CHERRY AVE, LONG BEACH, CA 90803",rescue,FALSE,"33.7644867, -118.1684263",No,7,07,Summer
 cat,tortie,Spayed,2013-03-17,2021-03-17,normal,stray,trap,2021-03-30,"850 BLK DAWSON AVE, LONG BEACH CA 90804","shelter, neuter, return",FALSE,"33.7780251, -118.1652824",No,12,03,Spring
 cat,black,Unknown,2009-05-09,2018-05-09,ill severe,stray,field,2018-05-10,"E OSGOOD ST / JAYMILLS AVE, LONG BEACH, CA 90805",euthanasia,TRUE,"33.8625571, -118.1912288",No,15,05,Spring
@@ -16739,7 +16739,7 @@ cat,gray tabby,Male,2019-04-09,2019-06-09,normal,stray,otc,2019-06-12,"E BURNETT
 cat,black,Male,2017-03-27,2017-05-20,under age/weight,stray,otc,2017-05-20,"SOUTH ST / GRIDLEY RD, CERRITOS, CA 90703",transfer,FALSE,"33.8584831, -118.0909398",No,7,05,Spring
 dog,brown,Male,2014-10-26,2017-10-26,normal,stray,otc,2017-11-01,"E BURNETT ST / ORANGE AVE, SIGNAL HILL, CA 90755",transfer,FALSE,"33.8007563, -118.1763284",No,10,11,Fall
 dog,black,Neutered,2017-06-16,2018-06-16,fractious,stray,field,2018-06-29,"E CARSON ST / CALIFORNIA AVE, LONG BEACH, CA 90807",adoption,FALSE,"33.8324476, -118.1806832",Yes,7,06,Summer
-cat,black,Female,2019-03-17,2019-08-17,normal,stray,otc,2019-08-21,"SOUTH ST / GRIDLEY RD, CERRITOS, CA 90703",transfer,FALSE,"33.8584831, -118.0909398",No,5,08,Summer
+cat,black,Female,2019-03-17,2019-08-17,normal,stray,otc,2019-08-21,"SOUTH ST / GRIDLEY RD, CERRITOS, CA 90703",transfer,FALSE,"33.8584831, -118.0909398",No,6,08,Summer
 dog,white,Neutered,2016-08-04,2018-08-02,normal,stray,otc,2018-08-04,"SOUTH ST / GRIDLEY RD, CERRITOS, CA 90703",return to owner,FALSE,"33.8584831, -118.0909398",No,8,08,Summer
 cat,gray,Spayed,2019-05-14,2019-06-14,ill mild,stray,otc,2019-08-07,"E CARSON ST / CHERRY AVE, LONG BEACH, CA 90807",adoption,FALSE,"33.8324299, -118.1674748",Yes,5,08,Summer
 dog,black,Neutered,2010-10-27,2018-05-27,normal,stray,otc,2018-08-02,"SOUTH ST / GRIDLEY RD, CERRITOS, CA 90703",adoption,FALSE,"33.8584831, -118.0909398",Yes,14,08,Summer
@@ -16954,7 +16954,7 @@ dog,gray,Female,2019-09-21,2021-09-21,normal,stray,otc,2021-12-07,"W WILLOW ST /
 other,gray,Unknown,2018-06-07,2018-06-14,under age/weight,wildlife,field,2018-06-14,"E WILLOW ST / PALO VERDE AVE, LONG BEACH, CA 90815",euthanasia,TRUE,"33.8032861, -118.1079172",No,6,06,Summer
 dog,gray,Spayed,2006-08-13,2019-01-13,normal,stray,otc,2019-01-14,"E WILLOW ST / PALO VERDE AVE, LONG BEACH, CA 90815",return to owner,FALSE,"33.8032861, -118.1079172",No,18,01,Winter
 cat,brown  tabby,Female,2022-05-29,2022-07-29,injured  severe,stray,otc,2022-07-29,"W WILLOW ST / GOLDEN AVE, LONG BEACH, CA 90806",euthanasia,TRUE,"33.8043321, -118.2024053",No,2,07,Summer
-dog,silver,Neutered,2014-03-18,2018-03-18,normal,stray,otc,2018-03-21,"E WILLOW ST / STUDEBAKER RD, LONG BEACH, CA 90815",return to owner,FALSE,"33.8032485, -118.0992743",No,10,03,Spring
+dog,silver,Neutered,2014-03-18,2018-03-18,normal,stray,otc,2018-03-21,"E WILLOW ST / STUDEBAKER RD, LONG BEACH, CA 90815",return to owner,FALSE,"33.8032485, -118.0992743",No,11,03,Spring
 dog,black,Male,2009-03-01,2019-03-01,normal,stray,otc,2019-03-07,"EASY AVE / W 25TH ST, LONG BEACH, CA 90810",adoption,FALSE,"33.8025786, -118.2100273",Yes,16,03,Spring
 dog,black,Male,2017-04-04,2017-08-04,normal,stray,otc,2017-08-10,"W WILLOW ST / GOLDEN AVE, LONG BEACH, CA 90806",transfer,FALSE,"33.8043321, -118.2024053",No,7,08,Summer
 dog,white,Male,2011-09-12,2018-09-12,normal,stray,otc,2018-09-28,"W WILLOW ST / GOLDEN AVE, LONG BEACH, CA 90806",rescue,FALSE,"33.8043321, -118.2024053",No,13,09,Fall
@@ -17265,7 +17265,7 @@ dog,brown,Male,2014-06-05,2019-06-05,normal,stray,otc,2019-06-19,"SANTA FE AVE /
 dog,white,Female,2021-04-09,2022-05-25,normal,stray,otc,2022-05-27,"SANTA FE AVE / W CARSON ST, LONG BEACH, CA 90810",return to owner,FALSE,"33.8496738, -118.2120441",No,3,05,Spring
 dog,white,Female,2010-08-20,2017-08-20,normal,stray,otc,2017-08-27,"SANTA FE AVE / W HILL ST, LONG BEACH, CA 90810",transfer,FALSE,"33.7971229, -118.215382",No,14,08,Summer
 dog,white,Male,2014-06-23,2019-06-23,normal,stray,otc,2019-06-23,"SANTA FE AVE / W PACIFIC COAST HWY, LONG BEACH, CA 90810",return to owner,FALSE,"33.789815, -118.2155331",No,10,06,Summer
-dog,black,Male,2016-03-17,2019-03-17,normal,stray,otc,2019-04-18,"SANTA FE AVE / W SPRING ST, LONG BEACH, CA 90810",adoption,FALSE,"33.8116698, -118.2153851",Yes,8,04,Spring
+dog,black,Male,2016-03-17,2019-03-17,normal,stray,otc,2019-04-18,"SANTA FE AVE / W SPRING ST, LONG BEACH, CA 90810",adoption,FALSE,"33.8116698, -118.2153851",Yes,9,04,Spring
 dog,white,Male,2020-02-28,2020-12-03,normal,stray,otc,2020-12-03,"SANTA FE AVE / W WARDLOW RD, LONG BEACH, CA 90810",return to owner,FALSE,"33.8242854, -118.2155323",No,5,12,Winter
 dog,white,Female,2017-11-20,2018-01-20,normal,stray,otc,2018-01-26,"SANTA FE AVE / W WARDLOW ROAD, LONG BEACH, CA 90810",transfer,FALSE,"33.8242854, -118.2155323",No,7,01,Winter
 dog,brown,Neutered,2016-04-30,2019-04-10,normal,stray,otc,2019-04-17,"SANTA FE AVE / W WILLOW ST, LONG BEACH, CA 90810",return to owner,FALSE,"33.8044492, -118.2153909",No,8,04,Spring
@@ -17722,7 +17722,7 @@ cat,brown  tabby,Spayed,2022-09-01,2024-02-14,normal,owner surrender,otc,2024-03
 cat,snowshoe,Neutered,2009-04-15,2017-04-15,ill mild,stray,otc,2017-04-15,"1000 BLK E HARDING ST, LONG BEACH, CA 90805",euthanasia,TRUE,"33.8673322, -118.1810547",No,15,04,Spring
 cat,gray,Male,2020-05-19,2020-07-19,normal,stray,field,2020-07-21,"1000 BLK E HELLMAN ST, LONG BEACH, CA 90813",rescue,FALSE,"33.7771452, -118.179622",No,4,07,Summer
 cat,black,Unknown,2024-04-07,2024-04-10,under age/weight,stray,otc,2024-04-11,"1000 BLK E HILL ST, LONG BEACH, CA 90806",rescue,FALSE,"33.7969425, -118.1804227",No,0,04,Spring
-cat,brown  tabby,Male,2019-03-17,2022-03-17,injured  moderate,stray,field,2022-03-17,"1000 BLK E HILL ST, LONG BEACH, CA 90806",euthanasia,TRUE,"33.7969425, -118.1804227",No,5,03,Spring
+cat,brown  tabby,Male,2019-03-17,2022-03-17,injured  moderate,stray,field,2022-03-17,"1000 BLK E HILL ST, LONG BEACH, CA 90806",euthanasia,TRUE,"33.7969425, -118.1804227",No,6,03,Spring
 cat,brown  tabby,Male,2022-01-02,2022-03-02,normal,stray,otc,2022-03-03,"1000 BLK E HILL ST, LONG BEACH, CA 90806",rescue,FALSE,"33.7969425, -118.1804227",No,3,03,Spring
 cat,white,Male,2022-07-24,2022-08-24,under age/weight,stray,field,2022-10-07,"1000 BLK E JACKSON ST, LONG BEACH, CA 90805",rescue,FALSE,"33.8523028, -118.1794782",No,2,10,Fall
 guinea pig,brown,Male,2016-07-06,2019-07-06,normal,owner surrender,otc,2019-08-05,"1000 BLK E LA HABRA BLVD, LA HABRA, CA 90631",rescue,FALSE,"33.9316178, -117.9349214",No,8,08,Summer
@@ -17896,7 +17896,7 @@ cat,blonde,Male,2024-09-07,2024-09-20,under age/weight,stray,otc,2024-09-20,1000
 dog,black,Male,2021-12-31,2022-12-31,normal,stray,otc,2023-01-01,10000 BLK BLOOMFIELD CERR CA 90755,return to owner,FALSE,"33.8020217, -118.1678543",No,3,01,Winter
 cat,gray,Spayed,2020-04-29,2020-06-06,under age/weight,return,adoption,2020-06-07,"10000 BLK DOWNEY AVE, DOWNEY, CA 90241",foster to adopt,FALSE,"33.952914, -118.1244154",Yes,4,06,Summer
 cat,black,Female,2019-03-21,2019-05-03,fractious,stray,otc,2019-05-13,"10000 BLK HUMBOLT ST, LOS ALAMITOS, CA 90720",rescue,FALSE,"33.8143759, -118.0659084",No,5,05,Spring
-cat,black,Spayed,2019-03-17,2019-05-12,fractious,stray,otc,2019-05-21,"10000 BLK HUMBOLT ST, LOS ALAMITOS, CA 90720",rescue,FALSE,"33.8143759, -118.0659084",No,5,05,Spring
+cat,black,Spayed,2019-03-17,2019-05-12,fractious,stray,otc,2019-05-21,"10000 BLK HUMBOLT ST, LOS ALAMITOS, CA 90720",rescue,FALSE,"33.8143759, -118.0659084",No,6,05,Spring
 cat,tortie,Female,2024-04-01,2024-05-19,ill moderatete,stray,otc,2024-05-19,10000 BLK LONG BEACH BLVD LYNWOOD CA 90262,euthanasia,TRUE,"33.9442739, -118.2154497",No,0,05,Spring
 other,brown,Female,2018-07-07,2018-08-07,normal,wildlife,otc,2018-08-12,"10000 BLK LOS ALAMITOS BLVD, LOS ALAMITOS, CA 90720",died,TRUE,"33.8105927, -118.0721823",No,6,08,Summer
 other,brown,Male,2018-07-07,2018-08-07,normal,wildlife,otc,2018-08-08,"10000 BLK LOS ALAMITOS BLVD, LOS ALAMITOS, CA 90720",euthanasia,TRUE,"33.8105927, -118.0721823",No,6,08,Summer
@@ -18036,7 +18036,7 @@ cat,orange tabby,Neutered,2024-06-21,2024-07-11,under age/weight,stray,otc,2024-
 cat,white,Neutered,2023-08-20,2023-09-20,under age/weight,stray,otc,2023-10-10,1100 BLK E ARTESIA BLVD LONG BEACH CA 90805,rescue,FALSE,"33.8743797, -118.1791202",No,1,10,Fall
 cat,torbi,Female,2024-04-01,2024-04-25,under age/weight,stray,otc,2024-04-26,"1100 BLK E ARTESIA BLVD, LONG BEACH 90805",rescue,FALSE,"33.8743797, -118.1791202",No,0,04,Spring
 bird,white,Unknown,2017-11-29,2018-11-29,injured  severe,wildlife,field,2018-11-29,"1100 BLK E BIXBY RD, LONG BEACH, CA 90807",euthanasia,TRUE,"33.8267064, -118.1785304",No,7,11,Fall
-cat,white,Male,2020-03-16,2020-07-16,normal,stray,otc,2020-07-22,"1100 BLK E BROADWAY, LONG BEACH, CA 90802",rescue,FALSE,"33.7684747, -118.178389",No,4,07,Summer
+cat,white,Male,2020-03-16,2020-07-16,normal,stray,otc,2020-07-22,"1100 BLK E BROADWAY, LONG BEACH, CA 90802",rescue,FALSE,"33.7684747, -118.178389",No,5,07,Summer
 cat,gray tabby,Neutered,2023-08-16,2023-09-20,under age/weight,stray,otc,2024-01-25,1100 BLK E BURNETT STREET SIGNAL HILL CA 90755,adoption,FALSE,"33.800755, -118.1784908",Yes,1,01,Winter
 cat,gray tabby,Neutered,2023-08-16,2023-09-20,under age/weight,stray,otc,2024-01-24,1100 BLK E BURNETT STREET SIGNAL HILL CA 90755,adoption,FALSE,"33.800755, -118.1784908",Yes,1,01,Winter
 bird,black,Unknown,2020-03-03,2020-05-03,injured  severe,wildlife,field,2020-05-03,"1100 BLK E CLAIBORNE DR, LONG BEACH, CA 90807",transfer,FALSE,"33.839112, -118.1786448",No,5,05,Spring
@@ -18819,7 +18819,7 @@ dog,black,Neutered,2019-03-16,2022-03-16,normal,stray,otc,2022-04-10,"1400 BLK L
 wild,gray,Female,2012-10-31,2017-10-31,ill mild,wildlife,field,2017-10-31,"1400 BLK LOMA AVE, LONG BEACH, CA 90804",return to wild habitat,FALSE,"33.7848613, -118.1502419",No,12,10,Fall
 cat,black,Male,2018-05-01,2018-08-01,normal,stray,otc,2018-08-05,"1400 BLK LONG BEACH BLVD, LONG BEACH, CA 90813",transfer,FALSE,"33.7844853, -118.1890196",No,6,08,Summer
 cat,black,Spayed,2019-10-05,2021-03-05,normal,stray,otc,2021-12-15,"1400 BLK MARTIN LUTHER KING JR. LONG BEACH, CA 90813",adoption,FALSE,"33.7844211, -118.1804574",Yes,5,12,Winter
-dog,brown,Male,2013-03-18,2018-03-18,normal,owner surrender,otc,2018-03-19,"1400 BLK MYRTLE AVE, LONG BEACH, CA 90813",transfer,FALSE,"33.7836558, -118.1813385",No,11,03,Spring
+dog,brown,Male,2013-03-18,2018-03-18,normal,owner surrender,otc,2018-03-19,"1400 BLK MYRTLE AVE, LONG BEACH, CA 90813",transfer,FALSE,"33.7836558, -118.1813385",No,12,03,Spring
 cat,gray tabby,Male,2007-04-01,2017-03-31,normal,owner surrender,otc,2017-11-09,"1400 BLK OBISPO AVE, LONG BEACH, CA 90804",adoption,FALSE,"33.784565, -118.154242",Yes,17,11,Fall
 dog,black,Neutered,2014-09-18,2021-09-14,injured  mild,stray,otc,2021-12-06,"1400 BLK OBISPO, LB, CA 90804",adoption,FALSE,"33.784565, -118.154242",Yes,10,12,Winter
 bird,white,Unknown,2023-12-09,2024-12-09,injured  moderate,wildlife,field,2024-12-10,"1400 BLK OF PARK AVE, LB CA 90804",transfer,FALSE,"33.7845748, -118.1370168",No,1,12,Winter
@@ -19907,7 +19907,7 @@ dog,black,Female,2014-09-20,2019-09-20,injured  mild,stray,field,2019-09-26,"195
 dog,black,Spayed,2024-02-08,2024-07-08,ill mild,stray,field,2024-08-01,19500 DONNA,adoption,FALSE,"33.8583483, -118.0647871",Yes,1,08,Summer
 other,white,Female,2022-01-12,2022-03-12,normal,owner surrender,otc,2022-07-08,"19500 NICHOLAS AVE, CERRITOS, CA 90703",rescue,FALSE,"33.852947, -118.0827361",No,3,07,Summer
 other,white,Male,2022-01-12,2022-03-12,normal,owner surrender,otc,2022-07-08,"19500 NICHOLAS AVE, CERRITOS, CA 90703",rescue,FALSE,"33.852947, -118.0827361",No,3,07,Summer
-dog,yellow,Neutered,2008-03-19,2018-07-31,normal,stray,field,2018-07-31,"19510 GEORGINA CIR, CERRITOS, CA 90703",return to owner,FALSE,"33.8528732, -118.0812483",No,16,07,Summer
+dog,yellow,Neutered,2008-03-19,2018-07-31,normal,stray,field,2018-07-31,"19510 GEORGINA CIR, CERRITOS, CA 90703",return to owner,FALSE,"33.8528732, -118.0812483",No,17,07,Summer
 dog,white,Female,2009-10-14,2017-12-30,normal,stray,otc,2018-01-05,"195TH ST / BLOOMFIELD AVE, CERRITOS, CA 90703",transfer,FALSE,"33.8534138, -118.0635924",No,15,01,Winter
 cat,black,Male,2018-08-15,2018-08-30,under age/weight,stray,otc,2018-08-31,"195TH ST / BLOOMFIELD AVE, CERRITOS, CA 90703",rescue,FALSE,"33.8534138, -118.0635924",No,6,08,Summer
 cat,gray,Male,2019-06-01,2019-09-01,normal,stray,otc,2019-11-15,"195TH ST / PIONEER BLVD, CERRITOS, CA 90703",rescue,FALSE,"33.8533696, -118.0820137",No,5,11,Fall
@@ -19970,7 +19970,7 @@ dog,gray,Neutered,2021-06-26,2024-06-26,behavior  mild,stray,otc,2024-07-03,200 
 cat,brown  tabby,Female,2017-05-11,2017-06-05,under age/weight,stray,field,2017-06-15,"200 BLK CHESTNUT AVE, LONG BEACH, CA 90802",rescue,FALSE,"33.7692936, -118.1963896",No,7,06,Summer
 cat,gray tabby,Female,2017-05-11,2017-06-05,under age/weight,stray,field,2017-06-15,"200 BLK CHESTNUT AVE, LONG BEACH, CA 90802",rescue,FALSE,"33.7692936, -118.1963896",No,7,06,Summer
 cat,gray tabby,Female,2017-05-11,2017-06-05,under age/weight,stray,field,2017-06-15,"200 BLK CHESTNUT AVE, LONG BEACH, CA 90802",rescue,FALSE,"33.7692936, -118.1963896",No,7,06,Summer
-dog,black,Female,2015-03-18,2017-03-18,normal,stray,field,2017-04-01,"200 BLK CORONADO AVE, LONG BEACH, CA 90803",transfer,FALSE,"33.7637791, -118.1537107",No,9,04,Spring
+dog,black,Female,2015-03-18,2017-03-18,normal,stray,field,2017-04-01,"200 BLK CORONADO AVE, LONG BEACH, CA 90803",transfer,FALSE,"33.7637791, -118.1537107",No,10,04,Spring
 cat,gray tabby,Spayed,2022-11-19,2024-11-01,normal,stray,otc,2024-12-08,200 BLK COVINA AVE LONG BEACH CA 90803,community cat,FALSE,"33.7600488, -118.1337931",No,2,12,Winter
 cat,gray,Female,2024-10-01,2024-11-01,under age/weight,stray,otc,2024-11-17,200 BLK COVINA AVE LONG BEACH CA 90803,euthanasia,TRUE,"33.7600488, -118.1337931",No,0,11,Fall
 cat,gray,Neutered,2024-10-01,2024-11-01,under age/weight,stray,otc,2024-12-04,200 BLK COVINA AVE LONG BEACH CA 90803,adoption,FALSE,"33.7600488, -118.1337931",Yes,0,12,Winter
@@ -20279,7 +20279,7 @@ cat,black,Female,2012-08-24,2019-08-24,normal,owner surrender,otc,2019-11-21,"20
 cat,white,Neutered,2022-12-04,2024-12-04,injured  mild,stray,otc,2024-12-10,2000 BLK RIVER AVE LONG BEACH CA 90810,community cat,FALSE,"33.7919298, -118.2218441",No,2,12,Winter
 dog,brown,Male,2024-06-16,2024-06-23,under age/weight,stray,otc,2024-06-26,2000 BLK RIVER AVE LONG BEACH CA 90810,rescue,FALSE,"33.7919298, -118.2218441",No,0,06,Summer
 dog,white,Male,2024-06-16,2024-06-23,under age/weight,stray,otc,2024-06-26,2000 BLK RIVER AVE LONG BEACH CA 90810,rescue,FALSE,"33.7919298, -118.2218441",No,0,06,Summer
-cat,gray tabby,Spayed,2020-03-16,2022-03-16,fractious,welfare seized,owner died,2022-10-06,"2000 BLK RIVER AVE, LONG BEACH, CA 90810",rescue,FALSE,"33.7919449, -118.2216409",No,4,10,Fall
+cat,gray tabby,Spayed,2020-03-16,2022-03-16,fractious,welfare seized,owner died,2022-10-06,"2000 BLK RIVER AVE, LONG BEACH, CA 90810",rescue,FALSE,"33.7919449, -118.2216409",No,5,10,Fall
 dog,brown,Neutered,2021-09-22,2023-03-17,normal,owner surrender,otc,2023-03-18,"2000 BLK RIVER AVE, LONG BEACH, CA 90810",adoption,FALSE,"33.7919449, -118.2216409",Yes,3,03,Spring
 dog,brown brindle,Male,2015-12-22,2018-12-22,normal,stray,otc,2018-12-28,"2000 BLK ROYCROFT AVE, LONG BEACH, CA 90815",transfer,FALSE,"33.7999031, -118.1382334",No,9,12,Winter
 rabbit,white,Spayed,2020-01-24,2022-01-23,normal,owner surrender,field,2022-02-08,"2000 BLK SAN ANSELINE AVE, LONG BEACH, CA 90815",rescue,FALSE,"33.7918413, -118.1222557",No,5,02,Winter
@@ -20734,7 +20734,7 @@ cat,tortie,Unknown,2018-03-29,2018-03-27,normal,stray,field,2018-03-30,"2300 BLK
 dog,black,Neutered,2009-12-21,2019-12-17,normal,stray,otc,2019-12-22,"2300 BLK CALIFORNIA AVE, SIGNAL HILL, CA 90755",adoption,FALSE,"33.7989271, -118.1806671",Yes,15,12,Winter
 dog,black,Male,2012-06-23,2017-06-23,normal,stray,otc,2017-06-29,"2300 BLK CALIFORNIA AVE, SIGNAL HILL, CA 90755",transfer,FALSE,"33.7989271, -118.1806671",No,12,06,Summer
 dog,tan,Male,2019-10-21,2019-12-21,normal,stray,otc,2019-12-23,"2300 BLK CANAL AVE, LONG BEACH, CA 90810",transfer,FALSE,"33.798116, -118.2138162",No,5,12,Winter
-other,brown,Unknown,2021-03-16,2021-04-12,under age/weight,wildlife,otc,2021-04-17,"2300 BLK CARROLL PARK W, LONG BEACH, CA 90814",died,TRUE,"33.7692309, -118.1640643",No,3,04,Spring
+other,brown,Unknown,2021-03-16,2021-04-12,under age/weight,wildlife,otc,2021-04-17,"2300 BLK CARROLL PARK W, LONG BEACH, CA 90814",died,TRUE,"33.7692309, -118.1640643",No,4,04,Spring
 cat,white,Male,2024-09-19,2024-09-25,under age/weight,stray,otc,2024-10-01,2300 BLK CASPIAN AVE LONG BEACH CA 90810,rescue,FALSE,"33.799084, -118.211958",No,0,10,Fall
 cat,calico,Female,2024-09-19,2024-09-25,under age/weight,stray,otc,2024-10-01,2300 BLK CASPIAN AVE LONG BEACH CA 90810,rescue,FALSE,"33.799084, -118.211958",No,0,10,Fall
 other,black,Unknown,2024-01-24,2024-05-24,ill severe,wildlife,field,2024-05-24,2300 BLK CEDAR AVE,euthanasia,TRUE,"33.7990937, -118.1945945",No,1,05,Spring
@@ -21168,7 +21168,7 @@ dog,black,Female,2012-09-13,2017-09-13,normal,stray,otc,2017-09-20,"2700 PACIFIC
 cat,white,Male,2022-06-15,2022-06-24,under age/weight,stray,field,2022-08-06,"2700 TEMPLE AVE, LONG BEACH, CA 90806",adoption,FALSE,"33.8065321, -118.1580944",Yes,2,08,Summer
 wild,brown,Unknown,2017-10-25,2020-10-25,ill severe,wildlife,field,2020-10-25,"2700 TULANE AVE, LONG BEACH, CA 90815",transfer,FALSE,"33.8050294, -118.1273951",No,7,10,Fall
 cat,black,Neutered,2007-04-22,2017-04-22,normal,stray,otc,2017-04-22,"2700 TULANE AVE, LONG BEACH, CA 90815",return to owner,FALSE,"33.8050294, -118.1273951",No,17,04,Spring
-cat,white,Male,2018-03-17,2018-03-20,under age/weight,stray,otc,2018-05-11,"2700 WEBSTER AVE, LONG BEACH, CA 90810",rescue,FALSE,"33.8064735, -118.2194345",No,6,05,Spring
+cat,white,Male,2018-03-17,2018-03-20,under age/weight,stray,otc,2018-05-11,"2700 WEBSTER AVE, LONG BEACH, CA 90810",rescue,FALSE,"33.8064735, -118.2194345",No,7,05,Spring
 bird,gray,Unknown,2017-06-26,2018-06-26,injured  severe,wildlife,field,2018-06-26,"2706 E SPAULDING ST, LONG BEACH, CA 90804",euthanasia,TRUE,"33.7851143, -118.1600097",No,7,06,Summer
 cat,black,Male,2021-03-21,2021-04-21,under age/weight,stray,otc,2021-04-21,"2727 E 7TH ST, LONG BEACH, CA 90804",transfer,FALSE,"33.775589, -118.1594288",No,3,04,Spring
 cat,black,Male,2021-03-21,2021-04-21,under age/weight,stray,otc,2021-04-21,"2727 E 7TH ST, LONG BEACH, CA 90804",transfer,FALSE,"33.775589, -118.1594288",No,3,04,Spring
@@ -21289,7 +21289,7 @@ cat,gray,Unknown,2022-03-19,2022-03-26,under age/weight,stray,otc,2022-05-02,"29
 dog,red,Spayed,2021-11-19,2022-11-19,normal,stray,otc,2022-11-27,"2900 BLK PACIFIC AVE, LONG BEACH, CA 90806",adoption,FALSE,"33.8098314, -118.1937121",Yes,3,11,Fall
 cat,brown  tabby,Male,2017-08-12,2017-08-13,under age/weight,stray,otc,2017-08-13,"2900 BLK PACIFIC AVE, LONG BEACH, CA 90806",rescue,FALSE,"33.8098314, -118.1937121",No,7,08,Summer
 cat,white,Spayed,2023-04-02,2023-09-02,normal,stray,otc,2023-10-18,2900 BLK PALO VERDE AVE LONG BEACH CA 90808,adoption,FALSE,"33.8092249, -118.1077105",Yes,1,10,Fall
-cat,gray tabby,Male,2021-03-16,2021-05-31,normal,stray,field,2021-06-04,"2900 BLK REDONDO AVE, LONG BEACH, CA 90806",rescue,FALSE,"33.806607, -118.1513636",No,3,06,Summer
+cat,gray tabby,Male,2021-03-16,2021-05-31,normal,stray,field,2021-06-04,"2900 BLK REDONDO AVE, LONG BEACH, CA 90806",rescue,FALSE,"33.806607, -118.1513636",No,4,06,Summer
 cat,gray tabby,Neutered,2020-05-14,2022-05-14,normal,stray,field,2022-06-23,"2900 BLK REDONDO AVE, LONG BEACH, CA 90806",adoption,FALSE,"33.806607, -118.1513636",Yes,4,06,Summer
 cat,orange,Spayed,2020-01-11,2021-01-08,fractious,stray,trap,2021-01-12,"2900 BLK REDONDO AVE, LONG BEACH, CA 90806","shelter, neuter, return",FALSE,"33.806607, -118.1513636",No,5,01,Winter
 dog,black,Neutered,2012-05-12,2020-09-20,behavior  severe,quarantine,NA,2020-12-04,"2900 BLK SENASAC AVE, LONG BEACH, CA 90815",return to owner,FALSE,"33.8089393, -118.1136248",No,12,12,Winter
@@ -21485,14 +21485,14 @@ dog,brown,Male,2014-08-18,2021-08-26,normal,stray,field,2021-10-20,"300 BLK W 8T
 cat,seal point,Female,2018-09-11,2018-09-25,under age/weight,stray,field,2018-09-28,"300 BLK W 9TH ST, LONG BEACH, CA 90813",rescue,FALSE,"33.7777543, -118.1950802",No,6,09,Fall
 wild,pink,Unknown,2018-03-23,2018-03-24,under age/weight,wildlife,field,2018-03-24,"300 BLK W ANAHEIM ST, LONG BEACH, CA 90813",euthanasia,TRUE,"33.782457, -118.195211",No,6,03,Spring
 other,brown,Unknown,2018-08-06,2019-08-06,ill severe,wildlife,field,2019-08-06,"300 BLK W BROADWAY, LONG BEACH, CA 90802",euthanasia,TRUE,"33.7692947, -118.1950698",No,6,08,Summer
-cat,black,Neutered,2013-03-18,2021-03-17,injured  moderate,stray,field,2021-03-26,"300 BLK W OCEAN BLVD, LONG BEACH, CA 90802",adoption,FALSE,"33.7665727, -118.1951753",Yes,11,03,Spring
+cat,black,Neutered,2013-03-18,2021-03-17,injured  moderate,stray,field,2021-03-26,"300 BLK W OCEAN BLVD, LONG BEACH, CA 90802",adoption,FALSE,"33.7665727, -118.1951753",Yes,12,03,Spring
 dog,white,Spayed,2021-03-29,2023-03-26,normal,stray,otc,2023-04-01,"300 BLK W. WILLOW ST, LONG BEACH, CA 90806",adoption,FALSE,"33.8041556, -118.1949782",Yes,3,04,Spring
 cat,gray,Unknown,2023-05-21,2023-06-03,under age/weight,stray,otc,2023-07-28,300 BLK WALNUT AVE LONG BEACH 90802,missing,FALSE,"33.7697544, -118.1717618",No,1,07,Summer
 cat,gray tabby,Spayed,2022-06-01,2023-06-01,fractious,stray,otc,2023-08-23,300 BLK WALNUT AVE LONG BEACH 90802,community cat,FALSE,"33.7697544, -118.1717618",No,2,08,Summer
 cat,black,Spayed,2016-03-29,2017-03-29,feral,stray,field,2017-04-19,"300 BLK WINDSOR WAY, LONG BEACH, CA 90802","shelter, neuter, return",FALSE,"33.74958300000001, -118.1913689",No,8,04,Spring
 cat,gray tabby,Neutered,2023-05-14,2023-07-14,normal,stray,otc,2023-12-03,300 BLK WINSLOW AVE LONG BEACH CA 90814,adoption,FALSE,"33.7682112, -118.1221172",Yes,1,12,Winter
 cat,black,Neutered,2023-05-14,2023-07-14,normal,stray,otc,2023-12-03,300 BLK WINSLOW AVE LONG BEACH CA 90814,adoption,FALSE,"33.7682112, -118.1221172",Yes,1,12,Winter
-dog,brown,Spayed,2004-03-20,2017-07-18,aged,owner surrender,field,2017-07-18,"300 BLK WISCONSIN AVE, LONG BEACH, CA 90814",euthanasia,TRUE,"33.7682648, -118.1615211",No,20,07,Summer
+dog,brown,Spayed,2004-03-20,2017-07-18,aged,owner surrender,field,2017-07-18,"300 BLK WISCONSIN AVE, LONG BEACH, CA 90814",euthanasia,TRUE,"33.7682648, -118.1615211",No,21,07,Summer
 dog,white,Neutered,2021-01-22,2023-03-19,normal,return,adoption,2023-06-08,"300 BLK WISCONSIN AVE, LONG BEACH, CA 90814",adoption,FALSE,"33.7682648, -118.1615211",Yes,4,06,Summer
 bird,gray,Unknown,2024-04-01,2024-06-01,under age/weight,wildlife,field,2024-06-01,300 BLKMEDITERRANEAN WAY,transfer,FALSE,"33.7588563, -118.2232357",No,0,06,Summer
 cat,gray,Male,2021-08-16,2023-08-16,fractious,stray,otc,2023-08-16,"300 BLOCK E 16TH ST, LONG BEACH CA",return to owner,FALSE,"33.7871309, -118.1892678",No,3,08,Summer
@@ -21658,7 +21658,7 @@ cat,black,Male,2014-02-16,2020-02-08,ill moderatete,stray,otc,2020-02-20,"3000 B
 guinea pig,black,Male,2015-11-08,2017-04-08,normal,owner surrender,otc,2017-04-30,"3000 BLK PINE AVE, LONG BEACH, CA 90807",transfer,FALSE,"33.8133577, -118.1920244",No,9,04,Spring
 wild,gray,Unknown,2020-03-05,2021-03-05,ill severe,wildlife,field,2021-03-05,"3000 BLK ROXANNE AVE, LONG BEACH, CA 90808",euthanasia,TRUE,"33.8106458, -118.0964297",No,5,03,Spring
 dog,black,Neutered,2021-07-07,2022-07-07,normal,owner surrender,otc,2022-07-16,"3000 BLK SAN FRANCISCO AVE, LONG BEACH, CA 90806",homefirst,FALSE,"33.8116252, -118.2035007",No,3,07,Summer
-dog,brown,Spayed,2017-03-17,2018-03-17,normal,stray,field,2018-03-23,"3000 BLK SAN FRANSCISCO AVE, LONG BEACH, CA 90806",transfer,FALSE,"33.8116252, -118.2035007",No,7,03,Spring
+dog,brown,Spayed,2017-03-17,2018-03-17,normal,stray,field,2018-03-23,"3000 BLK SAN FRANSCISCO AVE, LONG BEACH, CA 90806",transfer,FALSE,"33.8116252, -118.2035007",No,8,03,Spring
 cat,gray,Spayed,2015-08-01,2022-07-13,ill mild,stray,otc,2022-09-10,"3000 BLK SAN FRANSICO AVE, LONG BEACH, CA 90806",community cat,FALSE,"33.8116252, -118.2035007",No,9,09,Fall
 dog,black,Neutered,2014-12-07,2019-12-07,injured  moderate,stray,field,2019-12-20,"3000 BLK SANTE FE AVE, LONG BEACH, CA 908110",adoption,FALSE,"33.8118713, -118.2151755",Yes,10,12,Winter
 cat,tortie,Female,2019-10-02,2023-10-02,ill severe,stray,field,2023-10-02,"3000 BLK SAWYER ST, LONG BEACH CA, 90805",euthanasia,TRUE,"33.8701684, -118.1578504",No,5,10,Fall
@@ -21838,7 +21838,7 @@ cat,black,Neutered,2022-05-24,2022-06-24,ill moderatete,stray,otc,2022-08-07,"32
 dog,red,Neutered,2018-02-23,2021-02-23,injured  severe,stray,field,2021-03-21,"3200 BLK PINE AVE, LONG BEACH, CA 90806",adoption,FALSE,"33.8154098, -118.1915189",Yes,7,03,Spring
 cat,gray,Neutered,2023-06-28,2023-08-16,under age/weight,stray,otc,2023-08-24,3200 BLK SAN FRANCISCO AVE LONG BEACH CA 90806,rescue,FALSE,"33.8154407, -118.2032095",No,1,08,Summer
 cat,gray,Spayed,2022-03-22,2022-06-22,normal,stray,otc,2022-07-15,"3200 BLK SAN FRANCISCO AVE, LONG BEACH, CA 90806",euthanasia,TRUE,"33.8154407, -118.2032095",No,2,07,Summer
-cat,black,Spayed,2022-03-16,2022-06-22,normal,stray,otc,2022-07-16,"3200 BLK SAN FRANCISCO AVE, LONG BEACH, CA 90806",adoption,FALSE,"33.8154407, -118.2032095",Yes,2,07,Summer
+cat,black,Spayed,2022-03-16,2022-06-22,normal,stray,otc,2022-07-16,"3200 BLK SAN FRANCISCO AVE, LONG BEACH, CA 90806",adoption,FALSE,"33.8154407, -118.2032095",Yes,3,07,Summer
 cat,black,Female,2023-08-07,2023-08-31,under age/weight,stray,otc,2023-10-23,"3200 BLOCK CHERRY AVE, LONG BEACH CA",rescue,FALSE,"33.8151978, -118.1666361",No,1,10,Fall
 cat,black,Female,2023-08-07,2023-08-31,under age/weight,stray,otc,2023-09-15,"3200 BLOCK CHERRY AVE, LONG BEACH CA",rescue,FALSE,"33.8151978, -118.1666361",No,1,09,Fall
 cat,black,Female,2023-08-07,2023-08-31,under age/weight,stray,otc,2023-09-15,"3200 BLOCK CHERRY AVE, LONG BEACH CA",rescue,FALSE,"33.8151978, -118.1666361",No,1,09,Fall
@@ -22143,7 +22143,7 @@ dog,tan,Neutered,2017-03-01,2020-04-05,normal,owner surrender,otc,2020-04-08,"36
 wild,gray,Male,2019-12-07,2022-12-07,injured  severe,wildlife,field,2022-12-07,"3600 BLK E ARABELLA ST, LONG BEACH, CA 90805",euthanasia,TRUE,"33.8625734, -118.1498848",No,5,12,Winter
 bird,gray,Unknown,2018-12-05,2019-12-05,injured  mild,stray,field,2019-12-05,"3600 BLK E HEDDA ST, LONG BEACH, CA 90805",transfer,FALSE,"33.8640547, -118.1498414",No,6,12,Winter
 bird,gray,Unknown,2024-02-17,2024-06-17,injured  mild,wildlife,field,2024-06-18,3600 BLK FANWOOD AVE,euthanasia,TRUE,"33.8223213, -118.1154561",No,1,06,Summer
-cat,gray tabby,Neutered,2020-03-16,2020-07-31,normal,stray,otc,2020-08-05,"3600 BLK FARQUHAR AVE, LOS ALAMITOS, CA 90720",adoption,FALSE,"33.7994744, -118.0700882",Yes,4,08,Summer
+cat,gray tabby,Neutered,2020-03-16,2020-07-31,normal,stray,otc,2020-08-05,"3600 BLK FARQUHAR AVE, LOS ALAMITOS, CA 90720",adoption,FALSE,"33.7994744, -118.0700882",Yes,5,08,Summer
 other,gray,Unknown,2020-03-15,2020-04-15,injured  severe,wildlife,field,2020-04-15,"3600 BLK FAUST AVE, LONG BEACH, CA 90808",transfer,FALSE,"33.8222957, -118.1146156",No,5,04,Spring
 dog,blue,Male,2010-06-28,2019-11-26,normal,stray,field,2020-02-19,"3600 BLK GALE AVE, LONG BEACH, CA 90810",return to owner,FALSE,"33.8226518, -118.2075644",No,14,02,Winter
 cat,brown  tabby,Male,2022-07-08,2023-07-08,ill severe,stray,field,2023-07-08,"3600 BLK GARDENIA AVE, LONG BEACH, CA 90807",euthanasia,TRUE,"33.82229239999999, -118.1684638",No,2,07,Summer
@@ -22199,7 +22199,7 @@ cat,gray tabby,Unknown,2017-05-31,2017-06-09,under age/weight,stray,field,2017-0
 dog,brown,Spayed,2019-10-31,2020-10-31,normal,stray,field,2020-11-25,"3700 BLK CHERRY AVE, LONG BEACH, CA 90807",adoption,FALSE,"33.8241959, -118.1669859",Yes,5,11,Fall
 dog,red,Neutered,2021-06-11,2023-06-11,normal,stray,otc,2023-08-19,3700 BLK DEL MAR AVE LONG BEACH CA 90807,adoption,FALSE,"33.8267213, -118.200328",Yes,3,08,Summer
 cat,gray tabby,Unknown,2022-07-20,2024-07-20,ill severe,stray,field,2024-07-21,3700 BLK DELTA AVE,euthanasia,TRUE,"33.8239493, -118.2108607",No,2,07,Summer
-dog,black,Female,2019-03-17,2021-10-04,injured  mild,stray,field,2021-10-06,"3700 BLK E 11TH ST, LONG BEACH, CA 90804",return to owner,FALSE,"33.78064640000001, -118.1490683",No,5,10,Fall
+dog,black,Female,2019-03-17,2021-10-04,injured  mild,stray,field,2021-10-06,"3700 BLK E 11TH ST, LONG BEACH, CA 90804",return to owner,FALSE,"33.78064640000001, -118.1490683",No,6,10,Fall
 cat,brown  tabby,Spayed,2015-10-14,2018-10-14,normal,stray,otc,2018-10-23,"3700 BLK E 15TH ST, LONG BEACH, CA 90804","shelter, neuter, return",FALSE,"33.7856048, -118.149124",No,9,10,Fall
 cat,black,Male,2023-05-26,2023-08-10,injured  mild,quarantine,NA,2023-08-10,3700 BLK E 4TH STREET LONG BEACH CA 90814,euthanasia,TRUE,"33.7714363, -118.1490456",No,1,08,Summer
 dog,brown brindle,Neutered,2010-01-01,2018-06-14,normal,quarantine,NA,2018-06-23,"3700 BLK E 6TH ST, LONG BEACH, CA 90814",return to owner,FALSE,"33.7735229, -118.1491475",No,15,06,Summer
@@ -23469,7 +23469,7 @@ wild,gray,Male,2018-01-01,2021-01-01,injured  severe,wildlife,field,2021-01-01,"
 dog,tan,Male,2010-07-16,2022-07-16,normal,stray,field,2022-07-16,"5500 BLK E SPRING ST, LONG BEACH, CA 90815",return to owner,FALSE,"33.810721, -118.1266275",No,14,07,Summer
 dog,yellow,Spayed,2021-06-26,2022-07-15,normal,return,adoption,2022-07-16,"5500 BLK FIR CIR. LA PALMA, CA 90623",adoption,FALSE,"33.8558316, -118.0368767",Yes,3,07,Summer
 dog,brown,Male,2018-09-07,2021-09-07,normal,stray,field,2021-09-10,"5500 BLK LANGPORT AVE, LONG BEACH, CA 90805",return to owner,FALSE,"33.8571155, -118.1613982",No,6,09,Fall
-dog,white,Neutered,2016-03-17,2022-03-17,ill mild,stray,otc,2022-03-22,"5500 BLK LEMON AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.8562864, -118.1791243",No,8,03,Spring
+dog,white,Neutered,2016-03-17,2022-03-17,ill mild,stray,otc,2022-03-22,"5500 BLK LEMON AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.8562864, -118.1791243",No,9,03,Spring
 dog,white,Neutered,2005-12-04,2018-12-04,normal,stray,field,2018-12-05,"5500 BLK LEMON AVE, LONG BEACH, CA 90805",return to rescue,FALSE,"33.8562864, -118.1791243",No,19,12,Winter
 cat,white,Spayed,2018-05-03,2020-05-03,ill mild,stray,otc,2021-02-25,"5500 BLK LEWIS AVE, LONG BEACH, CA 90805",adoption,FALSE,"33.85626870000001, -118.1800438",Yes,6,02,Winter
 cat,black,Female,2018-04-13,2018-05-16,under age/weight,stray,otc,2018-05-17,"5500 BLK LEWIS AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.85626870000001, -118.1800438",No,6,05,Spring
@@ -23757,10 +23757,10 @@ bird,gray,Unknown,2019-11-06,2021-11-06,injured  moderate,wildlife,field,2021-11
 dog,black,Unknown,2023-07-10,2023-08-10,ill severe,stray,otc,2023-08-11,600 BLK E 10TH STREET LONG BEACH CA 90813,rescue,FALSE,"33.7789728, -118.1850322",No,1,08,Summer
 dog,white,Male,2023-07-10,2023-08-10,ill severe,stray,otc,2023-08-11,600 BLK E 10TH STREET LONG BEACH CA 90813,rescue,FALSE,"33.7789728, -118.1850322",No,1,08,Summer
 dog,black,Male,2023-07-10,2023-08-10,ill severe,stray,otc,2023-08-11,600 BLK E 10TH STREET LONG BEACH CA 90813,rescue,FALSE,"33.7789728, -118.1850322",No,1,08,Summer
-cat,black,Male,2022-03-16,2022-04-07,under age/weight,stray,otc,2022-04-16,"600 BLK E 16TH ST, LONG BEACH, CA 90813",transfer,FALSE,"33.7871354, -118.1850393",No,2,04,Spring
+cat,black,Male,2022-03-16,2022-04-07,under age/weight,stray,otc,2022-04-16,"600 BLK E 16TH ST, LONG BEACH, CA 90813",transfer,FALSE,"33.7871354, -118.1850393",No,3,04,Spring
 cat,orange,Neutered,2022-03-29,2022-04-07,under age/weight,stray,otc,2022-04-30,"600 BLK E 16TH ST, LONG BEACH, CA 90813",adoption,FALSE,"33.7871354, -118.1850393",Yes,2,04,Spring
 cat,black,Male,2022-03-29,2022-04-07,under age/weight,stray,otc,2022-04-24,"600 BLK E 16TH ST, LONG BEACH, CA 90813",euthanasia,TRUE,"33.7871354, -118.1850393",No,2,04,Spring
-cat,black,Male,2022-03-16,2022-04-07,under age/weight,stray,otc,2022-04-16,"600 BLK E 16TH ST, LONG BEACH, CA 90813",transfer,FALSE,"33.7871354, -118.1850393",No,2,04,Spring
+cat,black,Male,2022-03-16,2022-04-07,under age/weight,stray,otc,2022-04-16,"600 BLK E 16TH ST, LONG BEACH, CA 90813",transfer,FALSE,"33.7871354, -118.1850393",No,3,04,Spring
 dog,gray,Female,2019-10-08,2020-06-08,normal,stray,field,2020-06-13,"600 BLK E 29TH ST, LB 90806",transfer,FALSE,"33.8098212, -118.184958",No,5,06,Summer
 cat,black,Neutered,2014-08-05,2018-08-05,fractious,stray,trap,2018-08-16,"600 BLK E 46TH ST, LONG BEACH, CA 90807","shelter, neuter, return",FALSE,"33.84249310000001, -118.184687",No,10,08,Summer
 reptile,brown,Unknown,2023-07-05,2024-07-05,injured  severe,wildlife,field,2024-07-05,600 BLK E 67TH ST,disposal,FALSE,"33.8757457, -118.1861901",No,1,07,Summer
@@ -23855,7 +23855,7 @@ dog,tan,Spayed,2014-09-14,2022-09-14,normal,stray,otc,2022-09-14,"6000 BLK ATLAN
 cat,brown  tabby,Female,2017-10-06,2018-04-06,normal,stray,otc,2018-04-09,"6000 BLK ATLANTIC AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.8639436, -118.1845932",No,7,04,Spring
 dog,fawn,Neutered,2018-11-26,2023-11-26,behavior  moderate,stray,field,2024-06-29,"6000 BLK COKE AVE, LB 90805",adoption,FALSE,"33.864312, -118.1471429",Yes,6,06,Summer
 dog,black,Male,2019-08-19,2022-08-19,normal,stray,field,2022-08-20,"6000 BLK DE FOREST AVE, LONG BEACH, CA 90805",return to owner,FALSE,"33.8643671, -118.1935982",No,5,08,Summer
-other,black,Unknown,2020-03-16,2020-09-16,injured  severe,wildlife,field,2020-09-16,"6000 BLK E 23RD ST, LONG BEACH, CA 90815",euthanasia,TRUE,"33.7992751, -118.1153508",No,4,09,Fall
+other,black,Unknown,2020-03-16,2020-09-16,injured  severe,wildlife,field,2020-09-16,"6000 BLK E 23RD ST, LONG BEACH, CA 90815",euthanasia,TRUE,"33.7992751, -118.1153508",No,5,09,Fall
 cat,brown  tabby,Male,2021-03-29,2021-04-29,under age/weight,stray,otc,2021-05-02,"6000 BLK E 2ND ST, LONG BEACH, CA 90803",rescue,FALSE,"33.7563799, -118.1177283",No,3,05,Spring
 dog,white,Male,2019-03-21,2019-11-21,normal,stray,otc,2019-11-27,"6000 BLK E CARSON ST, LONG BEACH, CA 90808",transfer,FALSE,"33.8321321, -118.1143244",No,5,11,Fall
 cat,black,Unknown,2024-04-27,2024-05-03,under age/weight,stray,otc,2024-05-09,6000 BLK E CARSON STREET LONG BEACH CA 90808,died,TRUE,"33.8321321, -118.1143244",No,0,05,Spring
@@ -23916,7 +23916,7 @@ cat,orange,Neutered,2024-07-01,2024-07-14,under age/weight,stray,otc,2024-07-15,
 dog,fawn,Spayed,2016-01-24,2018-03-07,normal,owner surrender,otc,2018-04-19,"6000 BLK ROSE AVE, LONG BEACH, CA 90805",adoption,FALSE,"33.8642311, -118.1705682",Yes,9,04,Spring
 cat,orange,Neutered,2018-02-21,2020-02-21,injured  mild,stray,otc,2020-03-02,"6000 BLK WHITE AVE, LONG BEACH, CA 90805",rescue,FALSE,"33.8650921, -118.1983643",No,7,03,Spring
 guinea pig,brown,Female,2019-09-17,2023-09-17,normal,owner surrender,otc,2024-02-06,"6000 BLOCK GUNDRY AVE, LONG BEACH CA",transfer,FALSE,"33.8642146, -118.1753997",No,5,02,Winter
-dog,blue,Female,2022-03-16,2024-03-16,normal,stray,otc,2024-03-26,"6000 BLOCK GUNDRY AVE, LONG BEACH CA",euthanasia,TRUE,"33.8642146, -118.1753997",No,2,03,Spring
+dog,blue,Female,2022-03-16,2024-03-16,normal,stray,otc,2024-03-26,"6000 BLOCK GUNDRY AVE, LONG BEACH CA",euthanasia,TRUE,"33.8642146, -118.1753997",No,3,03,Spring
 dog,brown,Female,2024-06-29,2024-08-02,under age/weight,owner surrender,otc,2024-08-21,"6000 BLOCK LINDEN AVE, LONG BEACH CA",transfer,FALSE,"33.863826, -118.1857255",No,0,08,Summer
 cat,black,Neutered,2023-10-07,2024-01-07,ill mild,stray,otc,2024-01-18,"6000 BLOCK LINDEN AVE, LONG BEACH CA",adoption,FALSE,"33.863826, -118.1857255",Yes,1,01,Winter
 cat,white,Male,2023-10-07,2024-01-07,ill mild,stray,otc,2024-01-07,"6000 BLOCK LINDEN AVE, LONG BEACH CA",euthanasia,TRUE,"33.863826, -118.1857255",No,1,01,Winter
@@ -24179,7 +24179,7 @@ cat,black,Neutered,2013-01-27,2023-01-27,injured  mild,stray,otc,2023-01-28,"650
 cat,gray,Unknown,2022-04-16,2022-04-16,under age/weight,stray,otc,2022-04-16,"6500 BLK BRAYTON AVE, LONG BEACH, CA 90805",died,TRUE,"33.8727919, -118.1761903",No,2,04,Spring
 dog,black,Spayed,2018-06-19,2020-06-19,normal,stray,otc,2020-06-27,"6500 BLK BUTLER AVE, LONG BEACH, CA 90805",return to owner,FALSE,"33.8727341, -118.1969286",No,6,06,Summer
 cat,black,Spayed,2015-10-14,2020-10-14,normal,confiscate,owner died,2020-10-25,"6500 BLK CALIFORNIA AVE, LONG BEACH, CA 90805",adoption,FALSE,"33.8727877, -118.1811005",Yes,9,10,Fall
-cat,white,Spayed,2020-03-16,2022-03-19,normal,stray,otc,2022-03-25,"6500 BLK CALIFORNIA AVE, LONG BEACH, CA 90805 90805",community cat,FALSE,"33.8727877, -118.1811005",No,4,03,Spring
+cat,white,Spayed,2020-03-16,2022-03-19,normal,stray,otc,2022-03-25,"6500 BLK CALIFORNIA AVE, LONG BEACH, CA 90805 90805",community cat,FALSE,"33.8727877, -118.1811005",No,5,03,Spring
 dog,gray,Spayed,2022-05-10,2024-05-09,normal,stray,otc,2024-05-10,6500 BLK CHERRY AVE LONG BEACH CA 90805,return to owner,FALSE,"33.8728681, -118.1685819",No,2,05,Spring
 cat,brown  tabby,Neutered,2023-05-18,2023-08-18,ill moderatete,stray,otc,2024-02-04,6500 BLK CHERRY AVE LONG BEACH CA 90805,adoption,FALSE,"33.8728681, -118.1685819",Yes,1,02,Winter
 dog,black,Male,2012-01-01,2020-01-01,injured  severe,stray,field,2020-01-01,"6500 BLK CHERRY AVE, LONG BEACH, CA 90805",euthanasia,TRUE,"33.8728681, -118.1685819",No,13,01,Winter
@@ -24225,7 +24225,7 @@ guinea pig,white,Male,2022-01-15,2022-07-15,normal,stray,otc,2022-08-09,"6500 E 
 dog,sable,Female,2020-04-22,2023-04-22,normal,stray,field,2023-04-23,6500 E PCH,return to owner,FALSE,"33.7555646, -118.1088354",No,4,04,Spring
 dog,white,Male,2017-08-03,2017-09-03,ill mild,stray,field,2017-10-01,"6500 E ROSEBAY ST, LONG BEACH, CA 90808",rescue,FALSE,"33.813245, -118.1060566",No,7,10,Fall
 bird,brown,Female,2018-05-05,2019-05-05,injured  moderate,wildlife,field,2019-05-05,"6500 EL JARDIN ST, LONG BEACH, CA 90815",transfer,FALSE,"33.7818639, -118.10557",No,6,05,Spring
-cat,gray tabby,Male,2023-03-16,2023-04-09,under age/weight,stray,otc,2023-06-15,"6500 LONG BEACH BLVD, LB CA 90805",died,TRUE,"33.8722847, -118.2020598",No,1,06,Summer
+cat,gray tabby,Male,2023-03-16,2023-04-09,under age/weight,stray,otc,2023-06-15,"6500 LONG BEACH BLVD, LB CA 90805",died,TRUE,"33.8722847, -118.2020598",No,2,06,Summer
 cat,black,Unknown,2018-05-24,2019-05-24,normal,stray,otc,2019-06-04,"6500 ORANGE AVE, LONG BEACH, CA 90805","shelter, neuter, return",FALSE,"33.8728081, -118.177087",No,6,06,Summer
 cat,calico dilute,Female,2018-05-22,2019-05-22,normal,owner surrender,otc,2019-05-30,"6502 ORANGE AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.8729238, -118.1770636",No,6,05,Spring
 cat,calico dilute,Female,2018-05-22,2019-05-22,normal,owner surrender,otc,2019-05-30,"6502 ORANGE AVE, LONG BEACH, CA 90805",transfer,FALSE,"33.8729238, -118.1770636",No,6,05,Spring
@@ -24983,7 +24983,7 @@ dog,white,Male,2015-06-13,2017-06-13,ill mild,stray,field,2017-06-22,"800 BLK FR
 dog,white,Female,2011-06-13,2017-06-13,ill mild,stray,field,2017-06-28,"800 BLK FREEMAN AVE, LONG BEACH, CA 90804",rescue,FALSE,"33.7771799, -118.1556777",No,13,06,Summer
 cat,blue,Neutered,2024-08-05,2024-08-25,under age/weight,stray,otc,2024-08-25,800 BLK HOFFMAN AVE LONG BEACH CA 90813,rescue,FALSE,"33.7772394, -118.1730704",No,0,08,Summer
 cat,gray tabby,Neutered,2024-08-05,2024-08-25,under age/weight,stray,otc,2024-08-25,800 BLK HOFFMAN AVE LONG BEACH CA 90813,rescue,FALSE,"33.7772394, -118.1730704",No,0,08,Summer
-cat,gray,Female,2023-03-16,2024-03-16,ill mild,stray,field,2024-03-16,"800 BLK HOFFMAN AVE, LONG BEACH, CA 90813",rescue,FALSE,"33.7772394, -118.1730704",No,1,03,Spring
+cat,gray,Female,2023-03-16,2024-03-16,ill mild,stray,field,2024-03-16,"800 BLK HOFFMAN AVE, LONG BEACH, CA 90813",rescue,FALSE,"33.7772394, -118.1730704",No,2,03,Spring
 cat,gray,Neutered,2021-03-12,2021-06-12,normal,owner surrender,otc,2022-04-15,"800 BLK HUDSON AVE, LOS ANGELES, CA 90038",adoption,FALSE,"34.0852971, -118.3320847",Yes,4,04,Spring
 cat,white,Male,2018-03-29,2018-05-16,normal,stray,otc,2018-05-17,"800 BLK JUNIPERO AVE, LONG BEACH, CA 90804",transfer,FALSE,"33.7773209, -118.1630949",No,6,05,Spring
 cat,white,Male,2018-03-29,2018-05-16,normal,stray,otc,2018-05-17,"800 BLK JUNIPERO AVE, LONG BEACH, CA 90804",transfer,FALSE,"33.7773209, -118.1630949",No,6,05,Spring
@@ -25079,7 +25079,7 @@ cat,gray,Female,2024-03-08,2024-03-23,under age/weight,stray,otc,2024-03-23,"810
 wild,gray,Unknown,2018-03-29,2018-04-29,normal,wildlife,field,2018-04-29,"8100 E TIMOR ST, LONG BEACH, CA 90808",return to wild habitat,FALSE,"33.8190945, -118.0713667",No,6,04,Spring
 dog,black,Male,2017-08-21,2019-08-21,normal,stray,field,2019-08-27,"8200 BLK E TULA ST, LONG BEACH, CA 90808",transfer,FALSE,"33.8216892, -118.0689887",No,7,08,Summer
 dog,white,Spayed,2023-08-27,2024-06-26,normal,stray,otc,2024-08-20,8300 BLK E WOODSON STREET LONG BEACH CA 90808,adoption,FALSE,"33.8240584, -118.0643637",Yes,1,08,Summer
-cat,tortie,Spayed,2016-03-17,2021-03-17,normal,stray,trap,2021-03-30,"850 BLK DAWSON AVE, LONG BEACH CA 90804","shelter, neuter, return",FALSE,"33.7780251, -118.1652824",No,8,03,Spring
+cat,tortie,Spayed,2016-03-17,2021-03-17,normal,stray,trap,2021-03-30,"850 BLK DAWSON AVE, LONG BEACH CA 90804","shelter, neuter, return",FALSE,"33.7780251, -118.1652824",No,9,03,Spring
 cat,tortie,Spayed,2013-03-17,2021-03-30,normal,return,rtf,2021-04-24,"850 BLK DAWSON AVE, LONG BEACH CA 90804",transfer,FALSE,"33.7780251, -118.1652824",No,12,04,Spring
 cat,gray tabby,Unknown,2018-06-13,2018-07-05,under age/weight,owner surrender,otc,2018-07-27,"850 DAISY AVE, LONG BEACH, CA 90813",rescue,FALSE,"33.777473, -118.199135",No,6,07,Summer
 cat,tan,Spayed,2013-01-13,2023-01-13,normal,owner surrender,otc,2023-01-31,"8500 BLK BEVERLY BLVD, PICO RIVERA, CA 90660",transfer,FALSE,"34.0133857, -118.0907006",No,12,01,Winter
@@ -25577,7 +25577,7 @@ dog,dapple,Spayed,2022-06-26,2022-09-26,normal,stray,otc,2022-10-01,"E STEARNS S
 dog,tricolor,Neutered,2011-08-01,2018-02-11,normal,stray,otc,2018-02-14,"E WARDLOW RD / CHARLEMAGNE AVE, LONG BEACH, CA 90808",return to owner,FALSE,"33.8187491, -118.1304332",No,13,02,Winter
 dog,white,Neutered,2010-03-04,2017-11-03,normal,stray,otc,2017-11-04,"E WARDLOW RD / GONDAR AVE, LONG BEACH, CA 90808",return to owner,FALSE,"33.8188725, -118.1129474",No,15,11,Fall
 dog,brown,Neutered,2017-12-17,2018-11-09,normal,stray,field,2018-11-28,"E WARDLOW RD / LEWIS AVE, LONG BEACH, CA 90807",adoption,FALSE,"33.8189164, -118.1795932",Yes,7,11,Fall
-dog,white,Male,2012-03-18,2018-02-25,injured  moderate,stray,field,2018-03-18,"E WARDLOW RD / LINDEN AVE, LONG BEACH, CA 90807",adoption,FALSE,"33.818905, -118.186454",Yes,12,03,Spring
+dog,white,Male,2012-03-18,2018-02-25,injured  moderate,stray,field,2018-03-18,"E WARDLOW RD / LINDEN AVE, LONG BEACH, CA 90807",adoption,FALSE,"33.818905, -118.186454",Yes,13,03,Spring
 dog,white,Neutered,2006-06-21,2018-05-02,normal,stray,otc,2018-05-02,"E WARDLOW RD / N STUDEBAKER RD, LONG BEACH, CA 90808",return to owner,FALSE,"33.76934060000001, -118.1032215",No,18,05,Spring
 dog,tan,Female,2008-03-31,2018-03-31,normal,stray,otc,2018-04-06,"E WARDLOW RD / NORWALK BLVD, LONG BEACH, CA 90808",transfer,FALSE,"33.8175651, -118.0718222",No,16,04,Spring
 dog,white,Spayed,2015-02-21,2018-02-21,injured  mild,stray,otc,2018-03-03,"E WARDLOW RD / ORANGE AVE, LONG BEACH, CA 90807",adoption,FALSE,"33.8189179, -118.176341",Yes,10,03,Spring

@@ -287,7 +287,7 @@ cat,1,Female,normal,stray,Fall,No
 dog,1,Male,ill severe,owner surrender,Fall,No
 cat,7,Male,under age/weight,stray,Fall,No
 dog,2,Male,normal,owner surrender,Spring,No
-dog,2,Female,normal,owner surrender,Spring,No
+dog,3,Female,normal,owner surrender,Spring,No
 dog,1,Male,injured  mild,stray,Summer,No
 dog,2,Male,normal,owner surrender,Spring,No
 dog,2,Unknown,normal,owner surrender,Spring,No
@@ -992,7 +992,7 @@ dog,0,Spayed,injured  moderate,stray,Winter,Yes
 dog,1,Female,i/i report,stray,Winter,No
 dog,1,Female,under age/weight,stray,Winter,No
 cat,7,Female,normal,stray,Spring,No
-cat,0,Unknown,injured  severe,stray,Spring,No
+cat,1,Unknown,injured  severe,stray,Spring,No
 cat,6,Spayed,injured  severe,owner surrender,Fall,No
 cat,6,Spayed,normal,stray,Spring,No
 bird,3,Unknown,injured  mild,wildlife,Spring,No
@@ -1588,7 +1588,7 @@ cat,1,Spayed,under age/weight,stray,Fall,No
 cat,1,Neutered,under age/weight,stray,Fall,No
 cat,1,Spayed,under age/weight,stray,Fall,No
 bird,6,Unknown,injured  moderate,wildlife,Winter,No
-cat,4,Male,normal,stray,Summer,No
+cat,5,Male,normal,stray,Summer,No
 dog,7,Neutered,injured  severe,owner surrender,Summer,No
 cat,1,Spayed,under age/weight,stray,Fall,Yes
 cat,6,Neutered,ill severe,stray,Fall,Yes
@@ -1855,7 +1855,7 @@ bird,3,Unknown,injured  severe,wildlife,Summer,No
 cat,4,Male,under age/weight,stray,Fall,No
 cat,8,Female,normal,stray,Fall,Yes
 cat,4,Female,under age/weight,stray,Fall,No
-cat,6,Neutered,normal,stray,Summer,No
+cat,7,Neutered,normal,stray,Summer,No
 dog,1,Neutered,i/i report,stray,Summer,Yes
 cat,2,Male,under age/weight,stray,Fall,No
 dog,8,Male,normal,owner surrender,Fall,No
@@ -2523,7 +2523,7 @@ cat,2,Male,normal,stray,Fall,No
 cat,11,Neutered,normal,stray,Winter,No
 cat,6,Female,under age/weight,stray,Fall,No
 cat,7,Spayed,normal,stray,Summer,No
-cat,2,Unknown,ill severe,stray,Spring,No
+cat,3,Unknown,ill severe,stray,Spring,No
 other,2,Unknown,under age/weight,wildlife,Summer,No
 dog,8,Male,normal,stray,Fall,No
 other,2,Unknown,under age/weight,wildlife,Summer,No
@@ -3472,7 +3472,7 @@ cat,10,Male,feral,owner surrender,Summer,No
 cat,4,Spayed,normal,stray,Summer,No
 cat,6,Male,under age/weight,stray,Summer,No
 cat,6,Female,under age/weight,stray,Summer,No
-bird,8,Unknown,injured  severe,wildlife,Spring,No
+bird,9,Unknown,injured  severe,wildlife,Spring,No
 dog,10,Male,normal,stray,Fall,No
 dog,13,Female,normal,Other,Winter,No
 cat,7,Male,normal,stray,Summer,No
@@ -3628,7 +3628,7 @@ cat,8,Male,normal,stray,Winter,No
 cat,2,Unknown,under age/weight,stray,Summer,No
 cat,6,Male,ill severe,stray,Fall,No
 cat,2,Unknown,under age/weight,stray,Summer,No
-cat,8,Spayed,normal,stray,Spring,No
+cat,9,Spayed,normal,stray,Spring,No
 cat,3,Male,injured  severe,stray,Summer,No
 Other,7,Male,normal,owner surrender,Winter,No
 cat,12,Neutered,normal,stray,Spring,No
@@ -4127,7 +4127,7 @@ cat,5,Spayed,normal,stray,Fall,Yes
 dog,17,Spayed,injured  severe,stray,Summer,No
 dog,8,Female,injured  severe,stray,Fall,No
 dog,9,Spayed,normal,stray,Fall,No
-dog,8,Male,normal,stray,Spring,No
+dog,9,Male,normal,stray,Spring,No
 cat,0,Spayed,under age/weight,stray,Summer,Yes
 bird,2,Unknown,ill moderatete,wildlife,Fall,No
 cat,10,Neutered,feral,stray,Spring,No
@@ -4188,7 +4188,7 @@ dog,15,Spayed,normal,stray,Summer,No
 cat,5,Male,under age/weight,stray,Summer,Yes
 cat,5,Spayed,normal,stray,Winter,No
 cat,5,Neutered,normal,stray,Winter,No
-dog,2,Female,normal,stray,Spring,No
+dog,3,Female,normal,stray,Spring,No
 dog,10,Male,normal,stray,Winter,No
 dog,7,Spayed,normal,stray,Fall,Yes
 dog,15,Female,normal,owner surrender,Spring,No
@@ -4405,7 +4405,7 @@ dog,5,Spayed,injured  severe,stray,Winter,No
 dog,17,Neutered,normal,stray,Summer,No
 wild,5,Unknown,normal,wildlife,Spring,No
 cat,5,Spayed,normal,stray,Winter,Yes
-cat,0,Unknown,injured  severe,stray,Spring,No
+cat,1,Unknown,injured  severe,stray,Spring,No
 cat,6,Female,fractious,stray,Fall,No
 cat,12,Female,ill severe,stray,Fall,No
 cat,9,Spayed,normal,stray,Summer,No
@@ -5225,7 +5225,7 @@ cat,7,Female,under age/weight,stray,Fall,No
 cat,3,Female,under age/weight,stray,Spring,No
 cat,0,Spayed,normal,welfare seized,Fall,No
 cat,6,Spayed,normal,stray,Fall,No
-cat,0,Neutered,normal,welfare seized,Fall,Yes
+cat,1,Neutered,normal,welfare seized,Fall,Yes
 cat,1,Male,under age/weight,stray,Summer,No
 cat,2,Spayed,normal,welfare seized,Fall,No
 cat,1,Male,under age/weight,stray,Summer,No
@@ -5502,7 +5502,7 @@ cat,5,Unknown,under age/weight,stray,Summer,No
 cat,4,Spayed,normal,stray,Spring,Yes
 cat,5,Unknown,under age/weight,stray,Summer,No
 cat,6,Spayed,normal,stray,Spring,Yes
-cat,9,Female,under age/weight,stray,Spring,No
+cat,10,Female,under age/weight,stray,Spring,No
 cat,7,Female,under age/weight,stray,Spring,No
 dog,16,Male,normal,owner surrender,Winter,No
 dog,16,Male,normal,owner surrender,Winter,No
@@ -6150,7 +6150,7 @@ cat,4,Neutered,normal,stray,Winter,Yes
 dog,6,Female,normal,welfare seized,Winter,No
 dog,3,Male,normal,welfare seized,Winter,No
 dog,4,Unknown,injured  severe,stray,Fall,No
-bird,0,Unknown,injured  moderate,wildlife,Spring,No
+bird,1,Unknown,injured  moderate,wildlife,Spring,No
 other,7,Unknown,ill severe,wildlife,Winter,No
 cat,8,Neutered,ill moderatete,stray,Spring,No
 Other,2,Female,normal,wildlife,Winter,No
@@ -7324,7 +7324,7 @@ other,10,Unknown,ill severe,wildlife,Winter,No
 cat,3,Female,under age/weight,stray,Fall,No
 dog,3,Female,normal,stray,Fall,Yes
 cat,7,Spayed,fractious,stray,Summer,No
-other,7,Unknown,under age/weight,wildlife,Spring,No
+other,8,Unknown,under age/weight,wildlife,Spring,No
 cat,3,Female,under age/weight,stray,Fall,No
 cat,11,Unknown,feral,stray,Fall,No
 cat,3,Female,under age/weight,stray,Fall,No
@@ -7558,7 +7558,7 @@ dog,7,Unknown,normal,Other,Summer,No
 other,4,Unknown,under age/weight,wildlife,Spring,No
 cat,7,Male,ill moderatete,stray,Spring,No
 cat,3,Female,under age/weight,stray,Fall,No
-cat,5,Neutered,normal,owner surrender,Spring,Yes
+cat,6,Neutered,normal,owner surrender,Spring,Yes
 cat,4,Neutered,injured  mild,stray,Spring,No
 rabbit,10,Female,normal,stray,Fall,No
 cat,7,Male,under age/weight,stray,Summer,No
@@ -7996,7 +7996,7 @@ cat,0,Female,under age/weight,stray,Summer,No
 cat,12,Spayed,ill severe,owner surrender,Spring,Yes
 cat,3,Female,injured  moderate,stray,Fall,No
 cat,6,Male,under age/weight,stray,Fall,No
-other,7,Unknown,under age/weight,wildlife,Spring,No
+other,8,Unknown,under age/weight,wildlife,Spring,No
 dog,4,Female,normal,stray,Fall,No
 wild,4,Unknown,injured  severe,wildlife,Winter,No
 dog,11,Neutered,ill mild,Other,Spring,No
@@ -10175,7 +10175,7 @@ dog,1,Neutered,normal,return,Fall,Yes
 dog,12,Male,normal,stray,Spring,No
 cat,2,Male,behavior  mild,stray,Summer,No
 cat,2,Male,behavior  mild,stray,Summer,No
-cat,13,Neutered,normal,owner surrender,Spring,No
+cat,14,Neutered,normal,owner surrender,Spring,No
 cat,2,Female,behavior  mild,stray,Summer,No
 dog,10,Male,normal,stray,Winter,No
 cat,2,Male,behavior  mild,stray,Summer,No
@@ -10301,7 +10301,7 @@ cat,11,Male,normal,stray,Winter,No
 cat,9,Female,normal,stray,Fall,Yes
 dog,6,Male,normal,stray,Spring,No
 cat,9,Male,ill severe,stray,Spring,No
-dog,13,Neutered,normal,owner surrender,Spring,Yes
+dog,14,Neutered,normal,owner surrender,Spring,Yes
 rabbit,7,Spayed,normal,stray,Summer,Yes
 cat,7,Female,under age/weight,stray,Summer,No
 cat,7,Male,under age/weight,stray,Summer,No
@@ -11277,8 +11277,8 @@ cat,5,Male,ill mild,stray,Spring,No
 cat,5,Male,ill mild,stray,Spring,No
 cat,4,Spayed,normal,stray,Summer,Yes
 bird,3,Unknown,under age/weight,wildlife,Fall,No
-bird,3,Unknown,normal,wildlife,Spring,No
-other,1,Unknown,under age/weight,stray,Spring,No
+bird,4,Unknown,normal,wildlife,Spring,No
+other,2,Unknown,under age/weight,stray,Spring,No
 cat,4,Spayed,normal,stray,Spring,Yes
 cat,8,Neutered,fractious,stray,Spring,No
 wild,0,Male,under age/weight,wildlife,Spring,No
@@ -11658,7 +11658,7 @@ wild,9,Unknown,injured  severe,wildlife,Winter,No
 cat,1,Spayed,normal,stray,Fall,Yes
 cat,2,Male,ill moderatete,return,Fall,Yes
 cat,1,Spayed,normal,stray,Fall,Yes
-other,5,Unknown,normal,wildlife,Spring,No
+other,6,Unknown,normal,wildlife,Spring,No
 cat,1,Neutered,normal,stray,Fall,Yes
 dog,3,Spayed,normal,stray,Winter,Yes
 cat,6,Male,under age/weight,stray,Summer,No
@@ -11791,7 +11791,7 @@ dog,12,Neutered,normal,owner surrender,Summer,No
 dog,11,Spayed,injured  mild,stray,Fall,No
 dog,12,Female,normal,stray,Summer,No
 Other,6,Unknown,normal,stray,Spring,No
-bird,8,Unknown,injured  severe,stray,Spring,No
+bird,9,Unknown,injured  severe,stray,Spring,No
 dog,11,Spayed,normal,stray,Winter,No
 cat,4,Neutered,normal,stray,Fall,Yes
 dog,9,Neutered,normal,stray,Summer,No
@@ -11958,7 +11958,7 @@ other,3,Unknown,under age/weight,wildlife,Fall,No
 dog,6,Female,normal,stray,Spring,No
 dog,7,Male,normal,Other,Fall,No
 cat,11,Female,normal,stray,Fall,No
-dog,4,Male,normal,stray,Spring,No
+dog,5,Male,normal,stray,Spring,No
 dog,1,Female,normal,stray,Spring,No
 dog,13,Neutered,normal,confiscate,Winter,No
 cat,2,Female,normal,owner surrender,Spring,No
@@ -12008,7 +12008,7 @@ cat,2,Male,under age/weight,stray,Summer,No
 cat,2,Male,under age/weight,stray,Summer,No
 cat,6,Male,under age/weight,stray,Spring,No
 dog,9,Male,ill mild,stray,Spring,No
-cat,10,Male,normal,owner surrender,Spring,No
+cat,11,Male,normal,owner surrender,Spring,No
 dog,12,Male,ill mild,stray,Spring,No
 cat,4,Unknown,under age/weight,stray,Summer,No
 cat,6,Female,under age/weight,stray,Spring,No
@@ -12207,7 +12207,7 @@ cat,4,Female,normal,stray,Summer,No
 cat,0,Male,under age/weight,stray,Spring,No
 cat,4,Female,normal,stray,Summer,No
 cat,7,Male,normal,stray,Summer,No
-dog,0,Female,under age/weight,stray,Spring,No
+dog,1,Female,under age/weight,stray,Spring,No
 cat,7,Female,normal,stray,Fall,Yes
 cat,8,Neutered,normal,stray,Summer,No
 dog,12,Male,normal,owner surrender,Winter,No
@@ -12542,7 +12542,7 @@ dog,10,Spayed,normal,stray,Fall,Yes
 cat,5,Neutered,normal,owner surrender,Spring,Yes
 cat,6,Female,normal,stray,Fall,No
 cat,5,Male,normal,stray,Fall,No
-cat,1,Male,under age/weight,stray,Spring,No
+cat,2,Male,under age/weight,stray,Spring,No
 cat,5,Female,under age/weight,stray,Spring,No
 cat,2,Unknown,injured  moderate,stray,Winter,No
 cat,5,Male,under age/weight,stray,Spring,No
@@ -13064,7 +13064,7 @@ cat,7,Unknown,under age/weight,stray,Spring,No
 dog,3,Spayed,normal,return,Winter,Yes
 wild,3,Unknown,injured  moderate,wildlife,Spring,No
 dog,10,Male,injured  severe,stray,Summer,No
-dog,9,Neutered,injured  moderate,stray,Spring,No
+dog,10,Neutered,injured  moderate,stray,Spring,No
 cat,0,Female,under age/weight,stray,Fall,No
 other,3,Unknown,injured  severe,wildlife,Spring,No
 dog,1,Male,normal,stray,Fall,No
@@ -13249,8 +13249,8 @@ dog,21,Neutered,normal,stray,Winter,No
 dog,3,Neutered,normal,owner surrender,Summer,No
 cat,6,Male,normal,stray,Fall,No
 cat,5,Female,normal,stray,Summer,No
-cat,1,Female,under age/weight,stray,Spring,No
-cat,1,Female,under age/weight,stray,Spring,No
+cat,2,Female,under age/weight,stray,Spring,No
+cat,2,Female,under age/weight,stray,Spring,No
 dog,4,Spayed,normal,stray,Winter,Yes
 cat,1,Unknown,under age/weight,stray,Fall,No
 dog,1,Neutered,normal,stray,Fall,Yes
@@ -13355,7 +13355,7 @@ cat,2,Spayed,fractious,stray,Spring,No
 dog,18,Neutered,normal,stray,Spring,No
 cat,2,Neutered,under age/weight,stray,Summer,Yes
 cat,6,Female,normal,owner surrender,Spring,No
-bird,7,Male,injured  severe,wildlife,Spring,No
+bird,8,Male,injured  severe,wildlife,Spring,No
 wild,5,Unknown,under age/weight,wildlife,Spring,No
 bird,1,Unknown,injured  severe,wildlife,Summer,No
 wild,5,Unknown,under age/weight,wildlife,Spring,No
@@ -13591,7 +13591,7 @@ rabbit,4,Female,injured  moderate,stray,Summer,No
 dog,10,Male,normal,stray,Summer,No
 cat,7,Male,under age/weight,stray,Spring,No
 dog,8,Male,normal,stray,Winter,No
-cat,2,Male,normal,stray,Spring,Yes
+cat,3,Male,normal,stray,Spring,Yes
 cat,2,Female,ill mild,stray,Summer,Yes
 cat,10,Female,feral,stray,Winter,No
 cat,9,Neutered,normal,stray,Winter,No
@@ -13765,7 +13765,7 @@ cat,6,Male,under age/weight,stray,Fall,No
 cat,4,Neutered,normal,owner surrender,Summer,Yes
 dog,7,Spayed,normal,stray,Summer,Yes
 cat,5,Female,under age/weight,stray,Winter,No
-bird,4,Unknown,injured  moderate,wildlife,Spring,No
+bird,5,Unknown,injured  moderate,wildlife,Spring,No
 dog,4,Male,injured  moderate,stray,Winter,No
 dog,1,Neutered,normal,welfare seized,Fall,No
 dog,14,Neutered,normal,stray,Winter,No
@@ -14143,7 +14143,7 @@ cat,5,Female,normal,stray,Fall,No
 cat,8,Female,normal,stray,Spring,No
 cat,4,Female,normal,stray,Summer,Yes
 cat,5,Female,normal,stray,Fall,No
-cat,1,Neutered,normal,stray,Summer,Yes
+cat,2,Neutered,normal,stray,Summer,Yes
 cat,5,Female,under age/weight,stray,Fall,No
 dog,4,Spayed,injured  severe,stray,Fall,Yes
 cat,1,Female,under age/weight,stray,Summer,No
@@ -14295,7 +14295,7 @@ dog,7,Neutered,normal,stray,Spring,Yes
 dog,2,Male,normal,owner surrender,Spring,No
 dog,2,Male,normal,owner surrender,Spring,No
 dog,1,Female,under age/weight,stray,Spring,No
-cat,6,Spayed,normal,stray,Summer,No
+cat,7,Spayed,normal,stray,Summer,No
 dog,1,Male,normal,stray,Spring,No
 cat,6,Unknown,ill severe,stray,Summer,No
 dog,1,Female,under age/weight,stray,Spring,No
@@ -14398,7 +14398,7 @@ cat,0,Spayed,under age/weight,stray,Summer,Yes
 cat,0,Neutered,under age/weight,stray,Summer,Yes
 cat,0,Male,under age/weight,stray,Spring,No
 cat,9,Neutered,feral,stray,Spring,No
-cat,2,Neutered,normal,stray,Spring,Yes
+cat,3,Neutered,normal,stray,Spring,Yes
 cat,9,Spayed,feral,stray,Spring,No
 dog,1,Neutered,normal,stray,Fall,Yes
 dog,11,Spayed,normal,stray,Fall,No
@@ -15637,7 +15637,7 @@ dog,14,Male,normal,stray,Fall,No
 cat,5,Male,normal,owner surrender,Summer,No
 dog,15,Male,normal,stray,Summer,No
 cat,7,Male,normal,owner surrender,Summer,No
-dog,10,Neutered,normal,stray,Spring,No
+dog,11,Neutered,normal,stray,Spring,No
 dog,8,Female,normal,stray,Summer,No
 cat,2,Female,under age/weight,stray,Fall,No
 dog,13,Spayed,behavior  moderate,owner surrender,Summer,Yes
@@ -15693,9 +15693,9 @@ dog,8,Neutered,normal,stray,Summer,No
 cat,7,Male,under age/weight,stray,Spring,No
 cat,1,Neutered,ill moderatete,stray,Fall,No
 dog,13,Spayed,normal,stray,Spring,No
-cat,0,Unknown,under age/weight,stray,Spring,No
+cat,1,Unknown,under age/weight,stray,Spring,No
 dog,9,Male,normal,stray,Summer,No
-cat,0,Unknown,under age/weight,stray,Spring,No
+cat,1,Unknown,under age/weight,stray,Spring,No
 dog,7,Male,normal,stray,Summer,No
 cat,0,Unknown,under age/weight,stray,Summer,No
 cat,0,Unknown,under age/weight,stray,Summer,No
@@ -15833,7 +15833,7 @@ dog,10,Neutered,normal,stray,Spring,No
 cat,3,Unknown,normal,stray,Fall,No
 dog,9,Neutered,normal,stray,Fall,No
 dog,4,Neutered,injured  severe,stray,Fall,No
-cat,8,Neutered,normal,owner surrender,Spring,No
+cat,9,Neutered,normal,owner surrender,Spring,No
 dog,15,Spayed,normal,stray,Summer,Yes
 cat,5,Neutered,normal,owner surrender,Summer,Yes
 cat,19,Neutered,ill severe,stray,Winter,No
@@ -15929,7 +15929,7 @@ dog,3,Neutered,normal,return,Spring,Yes
 bird,6,Unknown,injured  severe,wildlife,Spring,No
 dog,8,Neutered,normal,stray,Summer,No
 dog,13,Male,normal,stray,Spring,No
-cat,8,Spayed,normal,return,Spring,No
+cat,9,Spayed,normal,return,Spring,No
 cat,7,Male,normal,stray,Summer,No
 cat,12,Spayed,normal,stray,Spring,No
 cat,15,Unknown,ill severe,stray,Spring,No
@@ -16736,7 +16736,7 @@ cat,5,Male,normal,stray,Summer,No
 cat,7,Male,under age/weight,stray,Spring,No
 dog,10,Male,normal,stray,Fall,No
 dog,7,Neutered,fractious,stray,Summer,Yes
-cat,5,Female,normal,stray,Summer,No
+cat,6,Female,normal,stray,Summer,No
 dog,8,Neutered,normal,stray,Summer,No
 cat,5,Spayed,ill mild,stray,Summer,Yes
 dog,14,Neutered,normal,stray,Summer,Yes
@@ -16951,7 +16951,7 @@ dog,5,Female,normal,stray,Winter,No
 other,6,Unknown,under age/weight,wildlife,Summer,No
 dog,18,Spayed,normal,stray,Winter,No
 cat,2,Female,injured  severe,stray,Summer,No
-dog,10,Neutered,normal,stray,Spring,No
+dog,11,Neutered,normal,stray,Spring,No
 dog,16,Male,normal,stray,Spring,Yes
 dog,7,Male,normal,stray,Summer,No
 dog,13,Male,normal,stray,Fall,No
@@ -17262,7 +17262,7 @@ dog,10,Male,normal,stray,Summer,No
 dog,3,Female,normal,stray,Spring,No
 dog,14,Female,normal,stray,Summer,No
 dog,10,Male,normal,stray,Summer,No
-dog,8,Male,normal,stray,Spring,Yes
+dog,9,Male,normal,stray,Spring,Yes
 dog,5,Male,normal,stray,Winter,No
 dog,7,Female,normal,stray,Winter,No
 dog,8,Neutered,normal,stray,Spring,No
@@ -17719,7 +17719,7 @@ cat,2,Spayed,normal,owner surrender,Spring,Yes
 cat,15,Neutered,ill mild,stray,Spring,No
 cat,4,Male,normal,stray,Summer,No
 cat,0,Unknown,under age/weight,stray,Spring,No
-cat,5,Male,injured  moderate,stray,Spring,No
+cat,6,Male,injured  moderate,stray,Spring,No
 cat,3,Male,normal,stray,Spring,No
 cat,2,Male,under age/weight,stray,Fall,No
 Other,8,Male,normal,owner surrender,Summer,No
@@ -17893,7 +17893,7 @@ cat,0,Male,under age/weight,stray,Fall,No
 dog,3,Male,normal,stray,Winter,No
 cat,4,Spayed,under age/weight,return,Summer,Yes
 cat,5,Female,fractious,stray,Spring,No
-cat,5,Spayed,fractious,stray,Spring,No
+cat,6,Spayed,fractious,stray,Spring,No
 cat,0,Female,ill moderatete,stray,Spring,No
 other,6,Female,normal,wildlife,Summer,No
 other,6,Male,normal,wildlife,Summer,No
@@ -18033,7 +18033,7 @@ cat,0,Neutered,under age/weight,stray,Fall,Yes
 cat,1,Neutered,under age/weight,stray,Fall,No
 cat,0,Female,under age/weight,stray,Spring,No
 bird,7,Unknown,injured  severe,wildlife,Fall,No
-cat,4,Male,normal,stray,Summer,No
+cat,5,Male,normal,stray,Summer,No
 cat,1,Neutered,under age/weight,stray,Winter,Yes
 cat,1,Neutered,under age/weight,stray,Winter,Yes
 bird,5,Unknown,injured  severe,wildlife,Spring,No
@@ -18816,7 +18816,7 @@ dog,6,Neutered,normal,stray,Spring,Yes
 wild,12,Female,ill mild,wildlife,Fall,No
 cat,6,Male,normal,stray,Summer,No
 cat,5,Spayed,normal,stray,Winter,Yes
-dog,11,Male,normal,owner surrender,Spring,No
+dog,12,Male,normal,owner surrender,Spring,No
 cat,17,Male,normal,owner surrender,Fall,Yes
 dog,10,Neutered,injured  mild,stray,Winter,Yes
 bird,1,Unknown,injured  moderate,wildlife,Winter,No
@@ -19904,7 +19904,7 @@ dog,10,Female,injured  mild,stray,Fall,No
 dog,1,Spayed,ill mild,stray,Summer,Yes
 other,3,Female,normal,owner surrender,Summer,No
 other,3,Male,normal,owner surrender,Summer,No
-dog,16,Neutered,normal,stray,Summer,No
+dog,17,Neutered,normal,stray,Summer,No
 dog,15,Female,normal,stray,Winter,No
 cat,6,Male,under age/weight,stray,Summer,No
 cat,5,Male,normal,stray,Fall,No
@@ -19967,7 +19967,7 @@ dog,3,Neutered,behavior  mild,stray,Summer,Yes
 cat,7,Female,under age/weight,stray,Summer,No
 cat,7,Female,under age/weight,stray,Summer,No
 cat,7,Female,under age/weight,stray,Summer,No
-dog,9,Female,normal,stray,Spring,No
+dog,10,Female,normal,stray,Spring,No
 cat,2,Spayed,normal,stray,Winter,No
 cat,0,Female,under age/weight,stray,Fall,No
 cat,0,Neutered,under age/weight,stray,Winter,Yes
@@ -20276,7 +20276,7 @@ cat,12,Female,normal,owner surrender,Fall,No
 cat,2,Neutered,injured  mild,stray,Winter,No
 dog,0,Male,under age/weight,stray,Summer,No
 dog,0,Male,under age/weight,stray,Summer,No
-cat,4,Spayed,fractious,welfare seized,Fall,No
+cat,5,Spayed,fractious,welfare seized,Fall,No
 dog,3,Neutered,normal,owner surrender,Spring,Yes
 dog,9,Male,normal,stray,Winter,No
 rabbit,5,Spayed,normal,owner surrender,Winter,No
@@ -20731,7 +20731,7 @@ cat,6,Unknown,normal,stray,Spring,No
 dog,15,Neutered,normal,stray,Winter,Yes
 dog,12,Male,normal,stray,Summer,No
 dog,5,Male,normal,stray,Winter,No
-other,3,Unknown,under age/weight,wildlife,Spring,No
+other,4,Unknown,under age/weight,wildlife,Spring,No
 cat,0,Male,under age/weight,stray,Fall,No
 cat,0,Female,under age/weight,stray,Fall,No
 other,1,Unknown,ill severe,wildlife,Spring,No
@@ -21165,7 +21165,7 @@ dog,12,Female,normal,stray,Fall,No
 cat,2,Male,under age/weight,stray,Summer,Yes
 wild,7,Unknown,ill severe,wildlife,Fall,No
 cat,17,Neutered,normal,stray,Spring,No
-cat,6,Male,under age/weight,stray,Spring,No
+cat,7,Male,under age/weight,stray,Spring,No
 bird,7,Unknown,injured  severe,wildlife,Summer,No
 cat,3,Male,under age/weight,stray,Spring,No
 cat,3,Male,under age/weight,stray,Spring,No
@@ -21286,7 +21286,7 @@ cat,2,Unknown,under age/weight,stray,Spring,No
 dog,3,Spayed,normal,stray,Fall,Yes
 cat,7,Male,under age/weight,stray,Summer,No
 cat,1,Spayed,normal,stray,Fall,Yes
-cat,3,Male,normal,stray,Summer,No
+cat,4,Male,normal,stray,Summer,No
 cat,4,Neutered,normal,stray,Summer,Yes
 cat,5,Spayed,fractious,stray,Winter,No
 dog,12,Neutered,behavior  severe,Other,Winter,No
@@ -21482,14 +21482,14 @@ dog,10,Male,normal,stray,Fall,No
 cat,6,Female,under age/weight,stray,Fall,No
 wild,6,Unknown,under age/weight,wildlife,Spring,No
 other,6,Unknown,ill severe,wildlife,Summer,No
-cat,11,Neutered,injured  moderate,stray,Spring,Yes
+cat,12,Neutered,injured  moderate,stray,Spring,Yes
 dog,3,Spayed,normal,stray,Spring,Yes
 cat,1,Unknown,under age/weight,stray,Summer,No
 cat,2,Spayed,fractious,stray,Summer,No
 cat,8,Spayed,feral,stray,Spring,No
 cat,1,Neutered,normal,stray,Winter,Yes
 cat,1,Neutered,normal,stray,Winter,Yes
-dog,20,Spayed,Other,owner surrender,Summer,No
+dog,21,Spayed,Other,owner surrender,Summer,No
 dog,4,Neutered,normal,return,Summer,Yes
 bird,0,Unknown,under age/weight,wildlife,Summer,No
 cat,3,Male,fractious,stray,Summer,No
@@ -21655,7 +21655,7 @@ cat,11,Male,ill moderatete,stray,Winter,No
 Other,9,Male,normal,owner surrender,Spring,No
 wild,5,Unknown,ill severe,wildlife,Spring,No
 dog,3,Neutered,normal,owner surrender,Summer,No
-dog,7,Spayed,normal,stray,Spring,No
+dog,8,Spayed,normal,stray,Spring,No
 cat,9,Spayed,ill mild,stray,Fall,No
 dog,10,Neutered,injured  moderate,stray,Winter,Yes
 cat,5,Female,ill severe,stray,Fall,No
@@ -21835,7 +21835,7 @@ cat,2,Neutered,ill moderatete,stray,Summer,Yes
 dog,7,Neutered,injured  severe,stray,Spring,Yes
 cat,1,Neutered,under age/weight,stray,Summer,No
 cat,2,Spayed,normal,stray,Summer,No
-cat,2,Spayed,normal,stray,Summer,Yes
+cat,3,Spayed,normal,stray,Summer,Yes
 cat,1,Female,under age/weight,stray,Fall,No
 cat,1,Female,under age/weight,stray,Fall,No
 cat,1,Female,under age/weight,stray,Fall,No
@@ -22140,7 +22140,7 @@ dog,8,Neutered,normal,owner surrender,Spring,No
 wild,5,Male,injured  severe,wildlife,Winter,No
 bird,6,Unknown,injured  mild,stray,Winter,No
 bird,1,Unknown,injured  mild,wildlife,Summer,No
-cat,4,Neutered,normal,stray,Summer,Yes
+cat,5,Neutered,normal,stray,Summer,Yes
 other,5,Unknown,injured  severe,wildlife,Spring,No
 dog,14,Male,normal,stray,Winter,No
 cat,2,Male,ill severe,stray,Summer,No
@@ -22196,7 +22196,7 @@ cat,7,Unknown,under age/weight,stray,Summer,No
 dog,5,Spayed,normal,stray,Fall,Yes
 dog,3,Neutered,normal,stray,Summer,Yes
 cat,2,Unknown,ill severe,stray,Summer,No
-dog,5,Female,injured  mild,stray,Fall,No
+dog,6,Female,injured  mild,stray,Fall,No
 cat,9,Spayed,normal,stray,Fall,No
 cat,1,Male,injured  mild,Other,Summer,No
 dog,15,Neutered,normal,Other,Summer,No
@@ -23466,7 +23466,7 @@ wild,7,Male,injured  severe,wildlife,Winter,No
 dog,14,Male,normal,stray,Summer,No
 dog,3,Spayed,normal,return,Summer,Yes
 dog,6,Male,normal,stray,Fall,No
-dog,8,Neutered,ill mild,stray,Spring,No
+dog,9,Neutered,ill mild,stray,Spring,No
 dog,19,Neutered,normal,stray,Winter,No
 cat,6,Spayed,ill mild,stray,Winter,Yes
 cat,6,Female,under age/weight,stray,Spring,No
@@ -23754,10 +23754,10 @@ bird,5,Unknown,injured  moderate,wildlife,Fall,No
 dog,1,Unknown,ill severe,stray,Summer,No
 dog,1,Male,ill severe,stray,Summer,No
 dog,1,Male,ill severe,stray,Summer,No
-cat,2,Male,under age/weight,stray,Spring,No
+cat,3,Male,under age/weight,stray,Spring,No
 cat,2,Neutered,under age/weight,stray,Spring,Yes
 cat,2,Male,under age/weight,stray,Spring,No
-cat,2,Male,under age/weight,stray,Spring,No
+cat,3,Male,under age/weight,stray,Spring,No
 dog,5,Female,normal,stray,Summer,No
 cat,10,Neutered,fractious,stray,Summer,No
 Other,1,Unknown,injured  severe,wildlife,Summer,No
@@ -23852,7 +23852,7 @@ dog,10,Spayed,normal,stray,Fall,No
 cat,7,Female,normal,stray,Spring,No
 dog,6,Neutered,behavior  moderate,stray,Summer,Yes
 dog,5,Male,normal,stray,Summer,No
-other,4,Unknown,injured  severe,wildlife,Fall,No
+other,5,Unknown,injured  severe,wildlife,Fall,No
 cat,3,Male,under age/weight,stray,Spring,No
 dog,5,Male,normal,stray,Fall,No
 cat,0,Unknown,under age/weight,stray,Spring,No
@@ -23913,7 +23913,7 @@ cat,0,Neutered,under age/weight,stray,Summer,No
 dog,9,Spayed,normal,owner surrender,Spring,Yes
 cat,7,Neutered,injured  mild,stray,Spring,No
 Other,5,Female,normal,owner surrender,Winter,No
-dog,2,Female,normal,stray,Spring,No
+dog,3,Female,normal,stray,Spring,No
 dog,0,Female,under age/weight,owner surrender,Summer,No
 cat,1,Neutered,ill mild,stray,Winter,Yes
 cat,1,Male,ill mild,stray,Winter,No
@@ -24176,7 +24176,7 @@ cat,12,Neutered,injured  mild,stray,Winter,No
 cat,2,Unknown,under age/weight,stray,Spring,No
 dog,6,Spayed,normal,stray,Summer,No
 cat,9,Spayed,normal,confiscate,Fall,Yes
-cat,4,Spayed,normal,stray,Spring,No
+cat,5,Spayed,normal,stray,Spring,No
 dog,2,Spayed,normal,stray,Spring,No
 cat,1,Neutered,ill moderatete,stray,Winter,Yes
 dog,13,Male,injured  severe,stray,Winter,No
@@ -24222,7 +24222,7 @@ Other,3,Male,normal,stray,Summer,No
 dog,4,Female,normal,stray,Spring,No
 dog,7,Male,ill mild,stray,Fall,No
 bird,6,Female,injured  moderate,wildlife,Spring,No
-cat,1,Male,under age/weight,stray,Summer,No
+cat,2,Male,under age/weight,stray,Summer,No
 cat,6,Unknown,normal,stray,Summer,No
 cat,6,Female,normal,owner surrender,Spring,No
 cat,6,Female,normal,owner surrender,Spring,No
@@ -24980,7 +24980,7 @@ dog,9,Male,ill mild,stray,Summer,No
 dog,13,Female,ill mild,stray,Summer,No
 cat,0,Neutered,under age/weight,stray,Summer,No
 cat,0,Neutered,under age/weight,stray,Summer,No
-cat,1,Female,ill mild,stray,Spring,No
+cat,2,Female,ill mild,stray,Spring,No
 cat,4,Neutered,normal,owner surrender,Spring,Yes
 cat,6,Male,normal,stray,Spring,No
 cat,6,Male,normal,stray,Spring,No
@@ -25076,7 +25076,7 @@ cat,1,Female,under age/weight,stray,Spring,No
 wild,6,Unknown,normal,wildlife,Spring,No
 dog,7,Male,normal,stray,Summer,No
 dog,1,Spayed,normal,stray,Summer,Yes
-cat,8,Spayed,normal,stray,Spring,No
+cat,9,Spayed,normal,stray,Spring,No
 cat,12,Spayed,normal,return,Spring,No
 cat,6,Unknown,under age/weight,owner surrender,Summer,No
 cat,12,Spayed,normal,owner surrender,Winter,No
@@ -25574,7 +25574,7 @@ dog,2,Spayed,normal,stray,Fall,Yes
 dog,13,Neutered,normal,stray,Winter,No
 dog,15,Neutered,normal,stray,Fall,No
 dog,7,Neutered,normal,stray,Fall,Yes
-dog,12,Male,injured  moderate,stray,Spring,Yes
+dog,13,Male,injured  moderate,stray,Spring,Yes
 dog,18,Neutered,normal,stray,Spring,No
 dog,16,Female,normal,stray,Spring,No
 dog,10,Spayed,injured  mild,stray,Spring,Yes
