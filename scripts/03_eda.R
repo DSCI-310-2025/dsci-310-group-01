@@ -1,4 +1,6 @@
-#!/usr/bin/env Rscript
+library(docopt)
+library(tidyverse)
+
 "
 This script computes exploratory data analysis (EDA) on the cleaned / transformed longbeach dataset,
 which generates various plots to help understand the data distribution and trends, and saves the figures.
@@ -11,15 +13,14 @@ Options:
   --output_prefix=<output_prefix>  Prefix for saving EDA plots.
 " -> doc
 
+
+
 if (interactive()) {
   opt <- list(input = "data/processed/longbeach_cleaned.csv",
               output_prefix = "results/eda")
 } else {
   opt <- docopt(doc)
 }
-
-library(docopt)
-library(tidyverse)
 
 # Load the transformed dataset
 cat("Loading transformed dataset from:", opt$input, "\n")
