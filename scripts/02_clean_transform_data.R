@@ -30,7 +30,7 @@ longbeach_cleaned <- longbeach %>%
   filter(!is.na(outcome_type)) %>%  # Remove rows with missing outcome_type (target variable)
   filter(!is.na(dob)) %>%  # Remove rows with missing DOB
   filter(as.Date(dob) <= as.Date("2024-12-31")) %>% # Remove rows with future dates
-  select(-animal_id, -animal_name, -secondary_color, -jurisdiction, -latitude, -longitude, -was_outcome_alive, -outcome_subtype, -reason_for_intake) 
+  select(-animal_id, -animal_name, -secondary_color, -jurisdiction, -latitude, -longitude, -was_outcome_alive, -outcome_subtype, -reason_for_intake, -crossing) 
   # Drop unimportant columns 
 
 cat("After initial cleaning:", dim(longbeach_cleaned)[1], "rows\n")

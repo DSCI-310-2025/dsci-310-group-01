@@ -58,7 +58,5 @@ rsconnect/
 
 # Quarto build artifacts
 *_files/
-*.html
-*.pdf
 *.log
 *.tex
