@@ -22,7 +22,7 @@ results/tables results/figures: scripts/03_eda.R data/processed/longbeach_cleane
 	Rscript scripts/03_eda.R --input=data/processed/longbeach_cleaned.csv --output_prefix=results/figures --table_dir=results/tables
 
 # Step 4: Train model and save results
-models/longbeach_model.rds results/metrics.csv results/figures/roc_curve.png: scripts/04_modeling.R data/processed/longbeach_transformed.csv
+models/longbeach_model.rds results/metrics.csv results/figures/feature_importance.png results/figures/confusion_matrix.png: scripts/04_modeling.R data/processed/longbeach_transformed.csv
 	@mkdir -p models results/figures
 	Rscript scripts/04_modeling.R --input=data/processed/longbeach_transformed.csv --output_model=models/longbeach_model.rds --metrics=results/metrics.csv --figures_dir=results/figures
 
