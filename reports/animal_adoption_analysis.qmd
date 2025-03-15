@@ -223,19 +223,19 @@ As shown in @fig-adoption-distribution, there is a significant class imbalance i
 @fig-animal-adoption shows that dogs and cats form the majority of shelter animals, with dogs having higher adoption rates proportionally. Other animal types like birds, rabbits, and reptiles have significantly lower adoption numbers. This analysis led us to group rare animal types (reptiles, guinea pigs, livestock, and amphibians) into an "Other" category to improve model performance.
 
 #### 3. Intake Characteristics and Adoption: Intake Conditions and Intake Types
-::: {layout-ncol=2}
-![Adoption rates by animal intake condition](../results/figures/adoption_by_intake_condition.png){#fig-intake-condition}
 
-![Adoption rates by intake type](../results/figures/adoption_by_intake_type.png){#fig-intake-type}
-:::
+![Adoption rates by animal intake condition](../results/figures/adoption_by_intake_condition.png){#fig-intake-condition width=90% height=70%}
+
+![Adoption rates by intake type](../results/figures/adoption_by_intake_type.png){#fig-intake-type width=85% height=70%}
+
 
 The analysis of intake characteristics (@fig-intake-condition and @fig-intake-type) revealed significant patterns. Healthy animals ("normal") have the highest adoption rates, while animals with medical conditions or behavioral issues show lower adoption rates. Similarly, the manner in which animals enter the shelter affects their adoption outcomes - owner-surrendered animals show higher adoption rates than strays, while animals from wildlife, confiscation, or quarantine cases are rarely adopted. Based on these analyses, we grouped rare intake conditions and types (those with fewer than 200 instances) into an "Other" category during feature engineering.
 
 #### 4. Age Distribution and Adoption
 
-![Histogram of age distribution by adoption status](../results/figures/age_distribution.png){#fig-age-distribution width=75%}
+![Histogram of age distribution by adoption status](../results/figures/age_distribution.png){#fig-age-distribution width=80%}
 
-![Boxplot showing age distribution by adoption status](../results/figures/age_boxplot_additional.png){#fig-age-boxplot width=75%}
+![Boxplot showing age distribution by adoption status](../results/figures/age_boxplot_additional.png){#fig-age-boxplot width=65%}
 
 The age distribution histograms (@fig-age-distribution) reveal that younger animals represent the majority of the shelter population and have higher adoption rates. 
 The boxplot visualization (@fig-age-boxplot) further highlights this trend while also revealing outliers with ages exceeding 30 years, which were subsequently removed during data preprocessing to improve model performance.
