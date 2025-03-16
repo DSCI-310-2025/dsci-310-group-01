@@ -388,7 +388,7 @@ cat,white,Male,2022-07-24,2022-08-24,under age/weight,stray,field,2022-10-07,res
 dog,brown,Neutered,2012-08-25,2017-12-21,normal,stray,field,2017-12-27,return to owner,FALSE,"33.8504744, -118.1936361",No,12,12,Winter
 cat,gray,Spayed,2022-07-24,2022-08-24,under age/weight,stray,field,2022-09-17,adoption,FALSE,"33.8523028, -118.1794782",Yes,2,09,Fall
 dog,brown,Spayed,2012-01-29,2017-03-28,normal,owner surrender,otc,2017-06-11,adoption,FALSE,"33.8451792, -118.1819995",Yes,13,06,Summer
-cat,calico,Spayed,2022-03-17,2022-09-07,normal,owner surrender,otc,2022-10-01,adoption,FALSE,"33.8504744, -118.1936361",Yes,2,10,Fall
+cat,calico,Spayed,2022-03-17,2022-09-07,normal,owner surrender,otc,2022-10-01,adoption,FALSE,"33.8504744, -118.1936361",Yes,3,10,Fall
 cat,silver lynx point,Spayed,2020-03-02,2020-07-02,normal,stray,otc,2020-07-09,rescue,FALSE,"33.8504744, -118.1936361",No,5,07,Summer
 cat,calico,Spayed,2022-04-28,2022-08-17,normal,owner surrender,otc,2022-08-28,adoption,FALSE,"33.8504744, -118.1936361",Yes,2,08,Summer
 cat,gray,Male,2018-07-24,2018-08-14,under age/weight,stray,field,2018-08-28,euthanasia,TRUE,"33.8535366, -118.1825909",No,6,08,Summer
@@ -661,7 +661,7 @@ cat,brown  tabby,Spayed,2015-12-14,2018-12-14,normal,stray,otc,2018-12-27,"shelt
 cat,brown  tabby,Spayed,2016-09-29,2019-09-29,normal,stray,otc,2019-10-08,"shelter, neuter, return",FALSE,"33.7729834, -118.1796718",No,8,10,Fall
 dog,red,Female,2021-08-14,2024-03-15,normal,stray,otc,2024-03-17,return to owner,FALSE,"33.7896379, -118.1926171",No,3,03,Spring
 cat,gray,Female,2017-05-04,2017-06-19,injured  severe,stray,field,2017-06-19,euthanasia,TRUE,"33.7729834, -118.1796718",No,7,06,Summer
-cat,gray tabby,Spayed,2023-03-17,2023-04-01,under age/weight,stray,otc,2023-07-07,adoption,FALSE,"33.83215089999999, -118.1938143",Yes,1,07,Summer
+cat,gray tabby,Spayed,2023-03-17,2023-04-01,under age/weight,stray,otc,2023-07-07,adoption,FALSE,"33.83215089999999, -118.1938143",Yes,2,07,Summer
 dog,white,Neutered,2012-12-03,2017-11-19,normal,owner surrender,NA,2018-06-28,rescue,FALSE,"33.7765007, -118.1798101",No,12,06,Summer
 dog,brown brindle,Neutered,2016-06-28,2019-06-28,normal,stray,field,2019-08-21,adoption,FALSE,"33.8688249, -118.203295",Yes,8,08,Summer
 dog,brown,Neutered,2016-06-11,2017-06-11,normal,owner surrender,otc,2017-08-10,adoption,FALSE,"33.832105, -118.1805036",Yes,8,08,Summer
@@ -809,10 +809,10 @@ rabbit,white,Neutered,2023-08-11,2023-11-11,normal,stray,otc,2024-02-27,adoption
 cat,brown  tabby,Female,2010-01-19,2022-01-19,ill severe,stray,field,2022-01-28,euthanasia,TRUE,"33.808574, -118.0757121",No,15,01,Winter
 other,gray,Unknown,2018-06-15,2018-06-17,under age/weight,stray,otc,2018-06-17,euthanasia,TRUE,"33.8421686, -118.1816795",No,6,06,Summer
 cat,brown  tabby,Spayed,2019-08-08,2020-01-12,normal,stray,trap,2020-01-21,"shelter, neuter, return",FALSE,"33.7714936, -118.1796768",No,5,01,Winter
-cat,tortie dilute,Female,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8839422, -118.1067168",No,0,04,Spring
+cat,tortie dilute,Female,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8839422, -118.1067168",No,1,04,Spring
 dog,tricolor,Neutered,2012-09-15,2022-08-29,welfare seizures,welfare seized,owner died,2022-09-14,rescue,FALSE,"33.7714936, -118.1796768",No,12,09,Fall
-cat,tortie dilute,Male,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8839422, -118.1067168",No,0,04,Spring
-cat,cream tabby,Male,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8839422, -118.1067168",No,0,04,Spring
+cat,tortie dilute,Male,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8839422, -118.1067168",No,1,04,Spring
+cat,cream tabby,Male,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8839422, -118.1067168",No,1,04,Spring
 cat,black,Male,2019-04-27,2019-06-27,normal,stray,otc,2019-06-30,transfer,FALSE,"33.8797998, -118.1020948",No,5,06,Summer
 cat,orange,Male,2018-06-07,2018-08-07,normal,stray,field,2018-08-10,transfer,FALSE,"33.7669015, -118.1792688",No,6,08,Summer
 cat,black,Female,2020-09-22,2021-09-22,injured  severe,stray,field,2021-09-22,euthanasia,TRUE,"33.8620611, -118.1083511",No,4,09,Fall
@@ -903,7 +903,7 @@ cat,orange tabby,Neutered,2023-12-27,2024-02-10,normal,stray,otc,2024-02-10,resc
 dog,white,Male,2013-02-10,2017-02-10,ill severe,stray,field,2017-02-20,rescue,FALSE,"33.8826041, -118.1022998",No,12,02,Winter
 cat,tricolor,Spayed,2016-05-26,2017-05-26,normal,owner surrender,otc,2017-08-02,adoption,FALSE,"33.8673322, -118.1810547",Yes,8,08,Summer
 dog,black,Neutered,2016-06-04,2020-06-04,normal,stray,field,2020-06-20,rescue,FALSE,"33.8673322, -118.1810547",No,8,06,Summer
-dog,black,Neutered,2010-03-20,2021-07-09,normal,stray,otc,2021-07-16,rescue,FALSE,"33.7771452, -118.179622",No,14,07,Summer
+dog,black,Neutered,2010-03-20,2021-07-09,normal,stray,otc,2021-07-16,rescue,FALSE,"33.7771452, -118.179622",No,15,07,Summer
 cat,orange tabby,Male,2019-07-25,2019-08-16,under age/weight,stray,otc,2019-08-17,rescue,FALSE,"33.7771452, -118.179622",No,5,08,Summer
 dog,black,Male,2023-02-18,2023-11-18,injured  moderate,stray,otc,2023-11-18,euthanasia,TRUE,"33.7789651, -118.1524148",No,2,11,Fall
 cat,white,Female,2022-01-02,2022-03-02,ill mild,stray,otc,2022-03-03,rescue,FALSE,"33.7969425, -118.1804227",No,3,03,Spring
@@ -1155,7 +1155,7 @@ dog,tan,Male,2020-05-07,2023-05-07,welfare seizures,welfare seized,police,2023-0
 cat,black,Male,2023-06-05,2023-06-15,under age/weight,stray,otc,2023-06-15,rescue,FALSE,"33.7807883, -118.1622286",No,1,06,Summer
 wild,gray,Male,2013-03-08,2017-03-08,injured  severe,wildlife,field,2017-03-08,euthanasia,TRUE,"33.7807819, -118.158932",No,12,03,Spring
 cat,brown  tabby,Female,2024-03-02,2024-04-05,under age/weight,stray,otc,2024-04-05,rescue,FALSE,"33.793481, -118.1806496",No,1,04,Spring
-dog,tricolor,Female,2020-03-17,2023-03-17,i/i report,stray,otc,2023-03-26,adoption,FALSE,"33.8498701, -118.1785337",Yes,4,03,Spring
+dog,tricolor,Female,2020-03-17,2023-03-17,i/i report,stray,otc,2023-03-26,adoption,FALSE,"33.8498701, -118.1785337",Yes,5,03,Spring
 cat,gray,Female,2023-08-18,2023-09-09,under age/weight,stray,otc,2023-09-09,euthanasia,TRUE,"33.8753713, -118.1791659",No,1,09,Fall
 cat,tortie,Female,2023-08-16,2023-08-31,under age/weight,stray,otc,2023-08-31,euthanasia,TRUE,"33.768057, -118.1805135",No,1,08,Summer
 cat,gray,Unknown,2024-03-27,2024-03-29,under age/weight,stray,otc,2024-03-29,rescue,FALSE,"33.8753713, -118.1791659",No,0,03,Spring
@@ -1380,7 +1380,7 @@ rabbit,white,Neutered,2015-05-05,2018-05-05,normal,stray,field,2018-05-16,adopti
 dog,tan,Neutered,2013-07-19,2019-07-25,normal,stray,field,2019-07-25,return to owner,FALSE,"33.851454, -118.0859783",No,11,07,Summer
 cat,black,Neutered,2013-12-27,2018-11-15,ill moderatete,stray,field,2018-12-30,euthanasia,TRUE,"33.8096892, -118.0573396",No,11,12,Winter
 cat,white,Neutered,2016-03-11,2022-04-13,normal,return,adoption,2023-03-24,adoption,FALSE,"33.918475, -118.187515",Yes,9,03,Spring
-cat,tortie dilute,Female,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8839422, -118.1067168",No,0,04,Spring
+cat,tortie dilute,Female,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8839422, -118.1067168",No,1,04,Spring
 cat,gray tabby,Unknown,2014-11-30,2018-11-30,ill mild,stray,otc,2018-11-30,euthanasia,TRUE,"33.9169941, -118.1935715",No,10,11,Fall
 cat,gray,Female,2017-05-28,2017-06-28,under age/weight,stray,otc,2017-07-01,rescue,FALSE,"33.8085049, -118.0760312",No,7,07,Summer
 dog,white,Neutered,2006-04-28,2021-05-20,normal,stray,otc,2021-05-22,euthanasia,TRUE,"33.9263155, -118.1020433",No,18,05,Spring
@@ -1457,7 +1457,7 @@ cat,gray,Male,2019-03-23,2019-05-01,under age/weight,stray,otc,2019-05-01,rescue
 cat,gray,Female,2022-06-16,2022-07-16,under age/weight,stray,otc,2022-12-04,adoption,FALSE,"33.7699179, -118.176355",Yes,2,12,Winter
 cat,gray tabby,Female,2022-06-16,2022-07-16,under age/weight,stray,otc,2022-11-26,adoption,FALSE,"33.7699179, -118.176355",Yes,2,11,Fall
 cat,brown  tabby,Neutered,2022-06-16,2022-07-16,under age/weight,stray,otc,2022-12-02,homefirst,FALSE,"33.7699179, -118.176355",No,2,12,Winter
-dog,black,Neutered,2021-03-17,2023-03-22,normal,return,adoption,2023-03-26,rescue,FALSE,"34.0661349, -118.4484825",No,3,03,Spring
+dog,black,Neutered,2021-03-17,2023-03-22,normal,return,adoption,2023-03-26,rescue,FALSE,"34.0661349, -118.4484825",No,4,03,Spring
 dog,black,Neutered,2014-06-06,2017-05-03,normal,safe keep,hospital,2017-05-03,return to owner,FALSE,"33.7699179, -118.176355",No,10,05,Spring
 cat,black,Spayed,2024-08-11,2024-08-18,under age/weight,stray,otc,2024-08-19,rescue,FALSE,"33.887724, -118.0776742",No,0,08,Summer
 cat,lynx point,Male,2009-04-04,2022-04-04,injured  severe,stray,field,2022-04-04,euthanasia,TRUE,"33.8497331, -118.1768785",No,15,04,Spring
@@ -1543,7 +1543,7 @@ cat,black,Male,2024-03-08,2024-03-16,under age/weight,stray,otc,2024-03-16,eutha
 dog,white,Male,2013-02-02,2019-11-22,normal,stray,otc,2020-01-11,rescue,FALSE,"33.7815311, -118.1977281",No,12,01,Winter
 cat,white,Unknown,2017-08-26,2017-09-26,under age/weight,stray,field,2017-10-20,rescue,FALSE,"33.781816, -118.17468",No,7,10,Fall
 dog,brown,Neutered,2013-05-01,2022-02-22,normal,stray,field,2022-03-01,transfer,FALSE,"33.7700215, -118.1778732",No,11,03,Spring
-cat,black,Male,2019-03-18,2019-03-30,fractious,stray,trap,2019-05-11,rescue,FALSE,"33.781816, -118.17468",No,5,05,Spring
+cat,black,Male,2019-03-18,2019-03-30,fractious,stray,trap,2019-05-11,rescue,FALSE,"33.781816, -118.17468",No,6,05,Spring
 cat,gray tabby,Spayed,2023-07-10,2023-08-25,under age/weight,stray,otc,2023-08-26,rescue,FALSE,"33.7816743, -118.1806992",No,1,08,Summer
 cat,gray,Spayed,2011-03-05,2023-03-05,normal,stray,field,2023-03-16,transfer,FALSE,"33.7715811, -118.1777235",No,14,03,Spring
 dog,white,Neutered,2013-03-13,2019-02-02,normal,owner surrender,otc,2019-04-27,rescue,FALSE,"33.7818746, -118.1608847",No,12,04,Spring
@@ -1909,7 +1909,7 @@ cat,tan,Neutered,2019-03-26,2019-06-26,injured  moderate,stray,field,2019-11-18,
 cat,chocolate,Male,2018-07-08,2018-08-14,under age/weight,stray,otc,2018-08-24,rescue,FALSE,"33.8618635, -118.057257",No,6,08,Summer
 wild,brown,Unknown,2020-02-24,2021-02-24,ill severe,wildlife,field,2021-02-24,euthanasia,TRUE,"33.7929495, -118.0699751",No,5,02,Winter
 other,gray,Unknown,2017-04-09,2017-05-09,under age/weight,wildlife,field,2017-05-09,rescue,FALSE,"33.8625826, -118.0572371",No,7,05,Spring
-cat,black,Unknown,2017-03-18,2017-03-22,under age/weight,stray,field,2017-03-22,rescue,FALSE,"33.863295, -118.0565802",No,7,03,Spring
+cat,black,Unknown,2017-03-18,2017-03-22,under age/weight,stray,field,2017-03-22,rescue,FALSE,"33.863295, -118.0565802",No,8,03,Spring
 cat,gray,Neutered,2015-05-12,2017-05-12,feral,stray,field,2017-05-18,"shelter, neuter, return",FALSE,"33.863295, -118.0565802",No,9,05,Spring
 cat,gray tabby,Neutered,2020-09-12,2020-09-25,ill mild,stray,otc,2022-06-26,missing,FALSE,"33.8440338, -118.0827756",No,4,06,Summer
 cat,black,Female,2017-07-06,2017-09-06,normal,stray,otc,2017-09-08,rescue,FALSE,"33.7917237, -118.07096",No,7,09,Fall
@@ -2472,9 +2472,9 @@ cat,orange tabby,Neutered,2018-05-25,2019-01-25,normal,stray,field,2019-01-25,re
 other,gray,Unknown,2017-04-09,2017-05-10,under age/weight,wildlife,field,2017-05-10,rescue,FALSE,"33.8625826, -118.0572371",No,7,05,Spring
 cat,black,Male,2021-08-04,2024-08-05,injured  severe,stray,field,2024-08-05,euthanasia,TRUE,"33.8796929, -118.0568607",No,3,08,Summer
 dog,white,Male,2020-07-21,2024-07-21,normal,stray,field,2024-07-21,return to owner,FALSE,"33.7822134, -118.1743936",No,4,07,Summer
-cat,black,Unknown,2017-03-18,2017-03-22,under age/weight,stray,field,2017-03-22,rescue,FALSE,"33.863295, -118.0565802",No,7,03,Spring
+cat,black,Unknown,2017-03-18,2017-03-22,under age/weight,stray,field,2017-03-22,rescue,FALSE,"33.863295, -118.0565802",No,8,03,Spring
 other,brown,Unknown,2019-10-13,2020-10-13,injured  severe,wildlife,field,2020-10-13,transfer,FALSE,"33.8766067, -118.0399062",No,5,10,Fall
-cat,black,Unknown,2017-03-18,2017-03-22,under age/weight,stray,field,2017-03-22,rescue,FALSE,"33.863295, -118.0565802",No,7,03,Spring
+cat,black,Unknown,2017-03-18,2017-03-22,under age/weight,stray,field,2017-03-22,rescue,FALSE,"33.863295, -118.0565802",No,8,03,Spring
 cat,black,Spayed,2017-03-31,2021-12-22,normal,stray,otc,2022-01-02,adoption,FALSE,"33.7642709, -118.0806039",Yes,7,01,Winter
 cat,black,Spayed,2015-05-12,2017-05-12,feral,stray,field,2017-05-18,"shelter, neuter, return",FALSE,"33.863295, -118.0565802",No,9,05,Spring
 cat,black,Unknown,2017-05-07,2017-05-11,under age/weight,stray,field,2017-05-11,euthanasia,TRUE,"33.863295, -118.0565802",No,7,05,Spring
@@ -2699,8 +2699,8 @@ cat,gray,Female,2023-02-15,2023-04-12,injured  moderate,stray,field,2023-04-21,r
 cat,calico,Spayed,2020-03-05,2021-03-05,normal,stray,otc,2021-09-16,adoption,FALSE,"33.7844211, -118.1804574",Yes,5,09,Fall
 cat,white,Female,2020-10-01,2021-10-01,injured  severe,stray,field,2021-10-01,euthanasia,TRUE,"33.7844128, -118.1611181",No,4,10,Fall
 cat,tan,Male,2019-08-01,2019-08-16,under age/weight,stray,otc,2019-08-30,transfer,FALSE,"33.7825981, -118.1730926",No,5,08,Summer
-dog,white,Male,2017-03-18,2018-03-18,normal,owner surrender,otc,2018-03-19,transfer,FALSE,"33.7836558, -118.1813385",No,7,03,Spring
-dog,brown,Female,2017-03-18,2018-03-18,normal,owner surrender,otc,2018-03-19,transfer,FALSE,"33.7836558, -118.1813385",No,7,03,Spring
+dog,white,Male,2017-03-18,2018-03-18,normal,owner surrender,otc,2018-03-19,transfer,FALSE,"33.7836558, -118.1813385",No,8,03,Spring
+dog,brown,Female,2017-03-18,2018-03-18,normal,owner surrender,otc,2018-03-19,transfer,FALSE,"33.7836558, -118.1813385",No,8,03,Spring
 cat,black,Spayed,2024-04-24,2024-06-05,under age/weight,stray,otc,2024-07-17,adoption,FALSE,"33.7844161, -118.1730895",Yes,0,07,Summer
 dog,white,Neutered,2007-08-01,2018-07-06,normal,stray,field,2018-07-08,return to owner,FALSE,"33.7771442, -118.2093242",No,17,07,Summer
 bird,white,Unknown,2014-08-23,2017-08-23,injured  severe,wildlife,field,2017-08-23,rescue,FALSE,"33.7771442, -118.2093242",No,10,08,Summer
@@ -3303,10 +3303,10 @@ dog,red,Spayed,2020-02-07,2024-02-29,normal,stray,otc,2024-02-29,return to owner
 cat,white,Male,2021-05-11,2021-05-26,under age/weight,stray,field,2021-05-26,rescue,FALSE,"33.7836558, -118.1813385",No,3,05,Spring
 cat,orange tabby,Neutered,2023-07-16,2023-08-16,under age/weight,stray,otc,2023-08-26,rescue,FALSE,"33.7873218, -118.2088176",No,1,08,Summer
 cat,tan,Unknown,2023-07-23,2023-08-16,under age/weight,stray,otc,2023-08-16,duplicate,FALSE,"33.7873218, -118.2088176",No,1,08,Summer
-dog,white,Male,2017-03-18,2018-03-18,normal,owner surrender,otc,2018-03-19,transfer,FALSE,"33.7836558, -118.1813385",No,7,03,Spring
-dog,brown,Female,2017-03-18,2018-03-18,normal,owner surrender,otc,2018-03-19,transfer,FALSE,"33.7836558, -118.1813385",No,7,03,Spring
+dog,white,Male,2017-03-18,2018-03-18,normal,owner surrender,otc,2018-03-19,transfer,FALSE,"33.7836558, -118.1813385",No,8,03,Spring
+dog,brown,Female,2017-03-18,2018-03-18,normal,owner surrender,otc,2018-03-19,transfer,FALSE,"33.7836558, -118.1813385",No,8,03,Spring
 cat,black tabby,Spayed,2022-05-29,2022-06-29,ill mild,stray,otc,2022-08-06,adoption,FALSE,"33.7872402, -118.1553152",Yes,2,08,Summer
-dog,brown,Male,2017-03-18,2018-03-18,normal,owner surrender,otc,2018-03-19,transfer,FALSE,"33.7836558, -118.1813385",No,7,03,Spring
+dog,brown,Male,2017-03-18,2018-03-18,normal,owner surrender,otc,2018-03-19,transfer,FALSE,"33.7836558, -118.1813385",No,8,03,Spring
 dog,blonde,Spayed,2009-06-16,2020-09-11,normal,confiscate,hospital,2020-09-13,return to owner,FALSE,"33.7921232, -118.2080782",No,15,09,Fall
 dog,red,Female,2017-03-29,2021-03-29,normal,stray,field,2021-03-31,return to owner,FALSE,"33.7844161, -118.1730895",No,7,03,Spring
 dog,white,Neutered,2021-12-28,2023-12-28,normal,stray,otc,2024-08-16,adoption,FALSE,"33.7845907, -118.1750967",Yes,3,08,Summer
@@ -3794,7 +3794,7 @@ cat,calico dilute,Spayed,2023-07-06,2023-07-26,under age/weight,stray,otc,2023-1
 cat,gray,Spayed,2019-05-03,2019-08-03,normal,stray,otc,2019-08-31,transfer,FALSE,"33.786767, -118.1803313",No,5,08,Summer
 cat,black,Male,2018-11-20,2018-12-02,under age/weight,stray,otc,2018-12-02,transfer,FALSE,"33.7885713, -118.1361091",No,6,12,Winter
 dog,brown,Male,2017-05-23,2018-05-23,normal,quarantine,NA,2018-09-06,rescue,FALSE,"33.877092, -118.2048944",No,7,09,Fall
-cat,brown  tabby,Male,2023-03-17,2023-03-31,under age/weight,stray,otc,2023-03-31,transfer,FALSE,"33.7882134, -118.1921115",No,1,03,Spring
+cat,brown  tabby,Male,2023-03-17,2023-03-31,under age/weight,stray,otc,2023-03-31,transfer,FALSE,"33.7882134, -118.1921115",No,2,03,Spring
 cat,calico,Unknown,2023-07-24,2023-07-26,under age/weight,stray,field,2023-07-26,euthanasia,TRUE,"33.8877434, -118.055386",No,1,07,Summer
 dog,white,Spayed,2012-04-27,2019-04-10,normal,stray,otc,2019-04-24,return to owner,FALSE,"33.7875982, -118.1524246",No,12,04,Spring
 dog,brown brindle,Male,2000-12-06,2017-12-06,normal,owner surrender,NA,2017-12-29,adoption,FALSE,"33.7875982, -118.1524246",Yes,24,12,Winter
@@ -3921,7 +3921,7 @@ dog,white,Male,2020-07-29,2022-07-29,normal,stray,otc,2022-08-11,adoption,FALSE,
 cat,black smoke,Female,2017-08-11,2018-01-18,normal,stray,otc,2018-03-16,adoption,FALSE,"33.7871838, -118.1978768",Yes,7,03,Spring
 dog,fawn,Female,2010-07-20,2017-08-02,normal,owner surrender,otc,2017-11-03,euthanasia,TRUE,"33.8219658, -118.215538",No,14,11,Fall
 cat,black smoke,Male,2016-01-18,2018-01-18,normal,stray,otc,2018-02-18,transfer,FALSE,"33.7871838, -118.1978768",No,9,02,Winter
-cat,black,Female,2023-03-17,2023-04-23,normal,stray,otc,2023-04-29,rescue,FALSE,"33.81080120000001, -118.2155321",No,1,04,Spring
+cat,black,Female,2023-03-17,2023-04-23,normal,stray,otc,2023-04-29,rescue,FALSE,"33.81080120000001, -118.2155321",No,2,04,Spring
 cat,tortie,Female,2017-06-20,2017-08-05,under age/weight,stray,otc,2017-08-05,euthanasia,TRUE,"33.8726347, -118.0933373",No,7,08,Summer
 cat,black,Female,2019-04-08,2019-06-26,normal,stray,otc,2019-07-14,adoption,FALSE,"33.787423, -118.159488",Yes,5,07,Summer
 dog,gray,Spayed,2019-05-03,2020-05-03,normal,stray,otc,2020-05-13,adoption,FALSE,"33.7872116, -118.1630754",Yes,5,05,Spring
@@ -4003,7 +4003,7 @@ dog,black,Spayed,2005-01-11,2017-01-11,normal,owner surrender,otc,2017-02-11,tra
 cat,cream tabby,Neutered,2013-10-18,2023-04-04,normal,welfare seized,aban field,2023-04-19,adoption,FALSE,"33.7870455, -118.1719485",Yes,11,04,Spring
 dog,brown,Spayed,2008-10-23,2022-10-23,injured  severe,stray,field,2022-10-23,return to owner,FALSE,"33.8740754, -118.0637998",No,16,10,Fall
 cat,orange,Neutered,2022-05-12,2022-06-12,under age/weight,stray,otc,2022-07-13,homefirst,FALSE,"33.8746856, -118.0563238",No,2,07,Summer
-dog,black,Neutered,2021-03-17,2023-02-17,normal,owner surrender,NA,2023-02-19,homefirst,FALSE,"33.8028395, -118.1146644",No,3,02,Winter
+dog,black,Neutered,2021-03-17,2023-02-17,normal,owner surrender,NA,2023-02-19,homefirst,FALSE,"33.8028395, -118.1146644",No,4,02,Winter
 cat,orange tabby,Spayed,2022-05-12,2022-06-12,under age/weight,stray,otc,2022-07-13,homefirst,FALSE,"33.8746856, -118.0563238",No,2,07,Summer
 dog,black,Spayed,2016-11-19,2022-11-19,normal,stray,field,2023-04-30,adoption,FALSE,"33.8654791, -118.042426",Yes,8,04,Spring
 dog,tricolor,Female,2019-02-10,2021-02-20,normal,stray,otc,2021-02-24,return to owner,FALSE,"33.8748155, -118.0574275",No,6,02,Winter
@@ -4243,7 +4243,7 @@ dog,white,Female,2019-01-20,2023-01-20,normal,stray,otc,2023-02-02,transfer,FALS
 cat,brown  tabby,Male,2024-07-27,2024-09-14,under age/weight,stray,otc,2024-09-26,rescue,FALSE,"33.7889731, -118.1207764",No,0,09,Fall
 dog,black,Neutered,2017-08-01,2019-08-01,normal,stray,otc,2019-09-20,adoption,FALSE,"33.7880534, -118.1963742",Yes,7,09,Fall
 cat,brown  tabby,Male,2017-05-02,2017-06-02,under age/weight,stray,field,2017-06-09,rescue,FALSE,"33.7896885, -118.2031448",No,7,06,Summer
-dog,black,Spayed,2009-03-20,2022-03-20,normal,stray,otc,2022-03-23,return to owner,FALSE,"33.78991920000001, -118.2154148",No,15,03,Spring
+dog,black,Spayed,2009-03-20,2022-03-20,normal,stray,otc,2022-03-23,return to owner,FALSE,"33.78991920000001, -118.2154148",No,16,03,Spring
 dog,black,Male,2019-12-23,2021-12-23,ill mild,stray,field,2021-12-24,return to owner,FALSE,"33.78991920000001, -118.2154148",No,5,12,Winter
 dog,white,Neutered,2018-04-16,2019-04-16,normal,stray,field,2019-05-01,adoption,FALSE,"33.7880534, -118.1963742",Yes,6,05,Spring
 wild,black,Unknown,2019-01-05,2020-01-05,injured  severe,wildlife,field,2020-01-05,euthanasia,TRUE,"33.7466624, -118.0933537",No,6,01,Winter
@@ -4253,7 +4253,7 @@ dog,gray,Male,2018-01-19,2020-01-19,normal,welfare seized,police,2020-01-22,retu
 cat,white,Spayed,2017-03-13,2019-03-13,normal,stray,aban field,2019-04-07,adoption,FALSE,"33.7660731, -118.1718028",Yes,8,04,Spring
 cat,black,Spayed,2019-06-04,2020-06-04,fractious,stray,otc,2020-07-02,"shelter, neuter, return",FALSE,"33.8078179, -118.1705509",No,5,07,Summer
 cat,tan,Female,2003-06-16,2017-06-16,normal,owner surrender,otc,2017-06-17,euthanasia,TRUE,"33.7900226, -118.1589406",No,21,06,Summer
-cat,orange tabby,Male,2019-03-18,2019-12-18,normal,owner surrender,otc,2019-12-27,rescue,FALSE,"33.79023, -118.145659",No,5,12,Winter
+cat,orange tabby,Male,2019-03-18,2019-12-18,normal,owner surrender,otc,2019-12-27,rescue,FALSE,"33.79023, -118.145659",No,6,12,Winter
 cat,orange,Neutered,2005-12-25,2020-06-25,aged,owner surrender,otc,2020-07-15,adoption,FALSE,"33.79023, -118.145659",Yes,19,07,Summer
 guinea pig,calico,Female,2021-10-01,2024-10-01,ill severe,welfare seized,owner died,2024-10-02,died,TRUE,"33.77354, -118.1709858",No,3,10,Fall
 cat,orange tabby,Neutered,2017-01-06,2017-04-12,ill moderatete,stray,field,2017-05-20,adoption,FALSE,"33.7735293, -118.1709746",Yes,8,05,Spring
@@ -4303,7 +4303,7 @@ cat,black,Female,2020-04-27,2020-05-17,under age/weight,stray,field,2020-05-29,r
 cat,tricolor,Spayed,2020-04-10,2020-07-10,normal,stray,otc,2020-07-29,transfer,FALSE,"33.7880494, -118.1556865",No,4,07,Summer
 cat,tricolor,Spayed,2020-04-10,2020-07-10,normal,stray,otc,2020-07-29,transfer,FALSE,"33.7880494, -118.1556865",No,4,07,Summer
 cat,black,Spayed,2016-04-13,2017-04-13,feral,stray,otc,2017-04-19,"shelter, neuter, return",FALSE,"33.868301, -118.1708507",No,8,04,Spring
-cat,black,Female,2018-03-18,2018-08-18,normal,stray,field,2018-08-21,transfer,FALSE,"33.788222, -118.168468",No,6,08,Summer
+cat,black,Female,2018-03-18,2018-08-18,normal,stray,field,2018-08-21,transfer,FALSE,"33.788222, -118.168468",No,7,08,Summer
 cat,brown  tabby,Spayed,2016-07-15,2017-03-15,feral,stray,otc,2017-03-24,"shelter, neuter, return",FALSE,"33.868301, -118.1708507",No,8,03,Spring
 dog,black,Female,2014-10-11,2018-10-11,normal,stray,otc,2018-10-20,transfer,FALSE,"33.790898, -118.208954",No,10,10,Fall
 cat,white,Neutered,2024-04-20,2024-05-11,under age/weight,stray,otc,2024-08-23,adoption,FALSE,"33.78810199999999, -118.1706947",Yes,0,08,Summer
@@ -4470,7 +4470,7 @@ other,brown,Unknown,2015-09-28,2018-09-28,injured  severe,wildlife,field,2018-09
 cat,gray,Neutered,2015-06-17,2017-06-17,feral,stray,otc,2017-06-21,"shelter, neuter, return",FALSE,"33.7880725, -118.16983",No,9,06,Summer
 dog,white,Male,2016-04-11,2017-04-11,normal,stray,field,2017-05-19,transport,FALSE,"33.861532, -118.0462005",No,8,05,Spring
 cat,gray,Neutered,2005-06-19,2017-06-19,ill severe,stray,field,2017-06-23,adoption,FALSE,"33.862533, -118.0471847",Yes,19,06,Summer
-cat,gray tabby,Spayed,2022-03-17,2022-05-16,injured  mild,stray,field,2022-05-25,adoption,FALSE,"33.7555513, -118.090545",Yes,2,05,Spring
+cat,gray tabby,Spayed,2022-03-17,2022-05-16,injured  mild,stray,field,2022-05-25,adoption,FALSE,"33.7555513, -118.090545",Yes,3,05,Spring
 dog,brown,Male,2017-01-23,2021-01-27,normal,owner surrender,otc,2021-02-04,rescue,FALSE,"33.8623658, -118.0453899",No,8,02,Winter
 dog,tan,Male,2022-06-27,2022-10-27,normal,stray,otc,2022-10-28,return to owner,FALSE,"33.8612543, -118.1037457",No,2,10,Fall
 reptile,brown,Unknown,2016-09-06,2021-09-06,normal,stray,field,2021-09-13,rescue,FALSE,"33.8618755, -118.0662066",No,8,09,Fall
@@ -4486,10 +4486,10 @@ dog,black,Male,2017-04-05,2017-08-05,normal,stray,otc,2017-08-11,transfer,FALSE,
 dog,black,Neutered,2008-03-10,2018-07-12,normal,stray,field,2018-07-12,return to owner,FALSE,"33.8612777, -118.0461987",No,17,07,Summer
 dog,brown,Male,2018-11-12,2019-11-12,normal,stray,field,2019-11-15,transfer,FALSE,"33.8161367, -118.2155462",No,6,11,Fall
 cat,black,Female,2020-07-16,2020-08-14,under age/weight,stray,field,2020-08-22,rescue,FALSE,"33.8611671, -118.0543555",No,4,08,Summer
-cat,black,Male,2023-03-17,2023-04-23,normal,stray,otc,2023-04-29,rescue,FALSE,"33.81080120000001, -118.2155321",No,1,04,Spring
-cat,calico,Female,2023-03-17,2023-04-23,normal,stray,otc,2023-04-29,rescue,FALSE,"33.81080120000001, -118.2155321",No,1,04,Spring
+cat,black,Male,2023-03-17,2023-04-23,normal,stray,otc,2023-04-29,rescue,FALSE,"33.81080120000001, -118.2155321",No,2,04,Spring
+cat,calico,Female,2023-03-17,2023-04-23,normal,stray,otc,2023-04-29,rescue,FALSE,"33.81080120000001, -118.2155321",No,2,04,Spring
 cat,orange tabby,Neutered,2018-07-30,2020-07-23,fractious,stray,field,2020-07-30,"shelter, neuter, return",FALSE,"33.8611671, -118.0543555",No,6,07,Summer
-cat,gray,Male,2023-03-17,2023-04-23,normal,stray,otc,2023-04-29,rescue,FALSE,"33.81080120000001, -118.2155321",No,1,04,Spring
+cat,gray,Male,2023-03-17,2023-04-23,normal,stray,otc,2023-04-29,rescue,FALSE,"33.81080120000001, -118.2155321",No,2,04,Spring
 cat,orange,Male,2024-02-23,2024-08-23,ill severe,stray,field,2024-08-24,euthanasia,TRUE,"33.85971, -118.1037272",No,1,08,Summer
 cat,orange tabby,Neutered,2018-03-03,2018-06-03,normal,stray,otc,2018-06-15,adoption,FALSE,"33.81080120000001, -118.2155321",Yes,7,06,Summer
 cat,brown  tabby,Neutered,2018-03-03,2018-06-03,normal,stray,otc,2018-08-04,adoption,FALSE,"33.81080120000001, -118.2155321",Yes,7,08,Summer
@@ -5355,7 +5355,7 @@ cat,brown  tabby,Male,2022-05-01,2022-06-15,under age/weight,stray,otc,2022-07-2
 dog,black,Male,2020-09-01,2022-02-25,normal,stray,field,2022-03-02,return to owner,FALSE,"33.7919712, -118.1586484",No,4,03,Spring
 dog,brown,Male,2012-02-04,2017-02-04,normal,stray,otc,2017-02-10,transfer,FALSE,"33.8751844, -118.205635",No,13,02,Winter
 cat,gray tabby,Female,2018-11-25,2024-11-25,ill severe,stray,otc,2024-11-25,euthanasia,TRUE,"33.7918765, -118.1641727",No,6,11,Fall
-dog,white,Neutered,2012-03-19,2022-03-19,normal,owner surrender,otc,2022-05-22,adoption,FALSE,"33.8781887, -118.2058083",Yes,12,05,Spring
+dog,white,Neutered,2012-03-19,2022-03-19,normal,owner surrender,otc,2022-05-22,adoption,FALSE,"33.8781887, -118.2058083",Yes,13,05,Spring
 dog,white,Neutered,2023-11-27,2024-11-27,normal,stray,otc,2024-12-05,adoption,FALSE,"33.8781887, -118.2058083",Yes,1,12,Winter
 cat,black,Neutered,2023-05-19,2023-08-03,i/i report,stray,otc,2024-01-25,adoption,FALSE,"33.7918753, -118.1642211",Yes,1,01,Winter
 cat,black,Neutered,2023-05-19,2023-08-03,i/i report,stray,otc,2024-01-25,adoption,FALSE,"33.7918753, -118.1642211",Yes,1,01,Winter
@@ -5420,7 +5420,7 @@ cat,black,Spayed,2017-04-03,2017-08-03,normal,stray,otc,2017-08-17,transfer,FALS
 dog,brown brindle,Spayed,2008-08-01,2018-06-01,ill severe,confiscate,cruelty,2018-06-07,euthanasia,TRUE,"33.8005199, -118.2178105",No,16,06,Summer
 dog,tan,Male,2016-09-02,2017-09-02,normal,stray,field,2017-09-16,transfer,FALSE,"33.769608, -118.1890358",No,8,09,Fall
 dog,brown,Male,2018-09-19,2020-09-19,injured  mild,stray,field,2020-10-08,rescue,FALSE,"33.8233444, -118.2179108",No,6,10,Fall
-cat,calico,Female,2019-03-18,2019-05-18,fractious,stray,otc,2019-05-26,euthanasia,TRUE,"33.8528787, -118.0774022",No,5,05,Spring
+cat,calico,Female,2019-03-18,2019-05-18,fractious,stray,otc,2019-05-26,euthanasia,TRUE,"33.8528787, -118.0774022",No,6,05,Spring
 other,brown,Unknown,2017-03-01,2017-09-01,injured  moderate,wildlife,field,2017-09-01,transfer,FALSE,"33.7605986, -118.1349224",No,8,09,Fall
 cat,white,Neutered,2005-06-27,2019-06-27,normal,owner surrender,otc,2019-08-17,adoption,FALSE,"33.8577446, -118.0988196",Yes,19,08,Summer
 other,brown,Unknown,2017-10-13,2020-10-13,ill severe,wildlife,field,2020-10-13,transfer,FALSE,"33.7605986, -118.1349224",No,7,10,Fall
@@ -6910,7 +6910,7 @@ cat,white,Unknown,2022-05-12,2022-05-15,ill severe,stray,field,2022-05-15,euthan
 dog,gray,Unknown,2017-06-01,2017-06-07,normal,safe keep,hospital,2017-06-18,died,TRUE,"33.7807914, -118.163302",No,7,06,Summer
 cat,black,Female,2020-08-23,2020-10-06,under age/weight,stray,aban field,2020-10-08,rescue,FALSE,"33.797133, -118.1882378",No,4,10,Fall
 dog,gray,Unknown,2017-06-01,2017-06-07,normal,safe keep,hospital,2017-07-08,rescue,FALSE,"33.7807914, -118.163302",No,7,07,Summer
-cat,brown  tabby,Spayed,2020-03-17,2021-04-10,normal,owner surrender,otc,2021-04-16,adoption,FALSE,"33.8080397, -118.1632741",Yes,4,04,Spring
+cat,brown  tabby,Spayed,2020-03-17,2021-04-10,normal,owner surrender,otc,2021-04-16,adoption,FALSE,"33.8080397, -118.1632741",Yes,5,04,Spring
 dog,black,Neutered,2023-09-18,2024-06-17,normal,stray,field,2024-06-21,return to owner,FALSE,"33.797133, -118.1882378",No,1,06,Summer
 cat,orange,Neutered,2012-11-13,2019-11-13,normal,owner surrender,otc,2019-12-18,adoption,FALSE,"33.7733055, -118.1631776",Yes,12,12,Winter
 cat,orange tabby,Neutered,2021-01-27,2023-01-26,fractious,stray,trap,2023-02-03,"shelter, neuter, return",FALSE,"33.7962795, -118.148042",No,4,02,Winter
@@ -7274,7 +7274,7 @@ dog,red,Neutered,2012-09-12,2021-10-23,aged,owner surrender,otc,2022-09-08,adopt
 bird,brown,Unknown,2016-10-15,2017-10-15,injured  mild,wildlife,field,2017-10-15,transfer,FALSE,"33.7651134, -118.1614302",No,8,10,Fall
 cat,seal point,Male,2022-08-08,2023-04-08,ill severe,stray,otc,2023-04-08,euthanasia,TRUE,"33.8560731, -118.1685473",No,2,04,Spring
 dog,brown,Female,2016-05-18,2019-05-18,normal,stray,otc,2019-05-24,transfer,FALSE,"33.85702, -118.1614715",No,8,05,Spring
-dog,black,Neutered,2021-03-17,2021-09-16,normal,stray,otc,2021-09-18,return to owner,FALSE,"33.7989463, -118.1839301",No,3,09,Fall
+dog,black,Neutered,2021-03-17,2021-09-16,normal,stray,otc,2021-09-18,return to owner,FALSE,"33.7989463, -118.1839301",No,4,09,Fall
 dog,red,Spayed,2004-10-04,2017-11-26,normal,safe keep,owner died,2017-11-29,return to owner,FALSE,"33.7997147, -118.1376545",No,20,11,Fall
 cat,gray tabby,Male,2024-08-16,2024-09-09,under age/weight,stray,field,2024-09-11,rescue,FALSE,"33.7896434, -118.1606263",No,0,09,Fall
 dog,brown,Neutered,2010-07-17,2024-09-20,normal,owner surrender,field,2024-10-11,euthanasia,TRUE,"33.799112, -118.1869808",No,14,10,Fall
@@ -7442,7 +7442,7 @@ wild,brown,Unknown,2016-08-03,2017-08-03,injured  mild,wildlife,field,2017-08-03
 cat,black,Unknown,2022-11-13,2024-11-13,ill moderatete,stray,field,2024-11-13,euthanasia,TRUE,"33.8009135, -118.2086816",No,2,11,Fall
 cat,brown  tabby,Spayed,2015-08-03,2018-08-03,normal,stray,otc,2018-08-14,"shelter, neuter, return",FALSE,"33.7717127, -118.1600653",No,9,08,Summer
 other,gray,Unknown,2016-10-21,2017-06-21,injured  severe,wildlife,field,2017-06-21,euthanasia,TRUE,"33.8007626, -118.1708974",No,8,06,Summer
-reptile,red,Unknown,2012-03-19,2017-03-19,normal,stray,field,2017-04-03,rescue,FALSE,"33.8009322, -118.2021526",No,12,04,Spring
+reptile,red,Unknown,2012-03-19,2017-03-19,normal,stray,field,2017-04-03,rescue,FALSE,"33.8009322, -118.2021526",No,13,04,Spring
 dog,black,Male,2017-06-24,2019-06-24,normal,stray,field,2019-07-11,adoption,FALSE,"33.8063752, -118.1967236",Yes,7,07,Summer
 cat,black smoke,Female,2017-04-16,2017-06-04,under age/weight,stray,otc,2017-06-09,rescue,FALSE,"33.804991, -118.1218397",No,7,06,Summer
 dog,brown,Neutered,2013-06-16,2018-06-14,normal,stray,field,2018-06-16,return to owner,FALSE,"33.8007541, -118.1795936",No,11,06,Summer
@@ -8339,7 +8339,7 @@ cat,orange tabby,Neutered,2019-11-09,2021-09-17,ill moderatete,stray,field,2021-
 cat,black,Male,2020-09-13,2020-09-18,under age/weight,stray,otc,2020-09-19,rescue,FALSE,"33.810501, -118.0991267",No,4,09,Fall
 cat,black,Unknown,2024-04-15,2024-02-19,under age/weight,stray,otc,2024-02-19,died,TRUE,"33.8093568, -118.1219602",No,0,02,Winter
 cat,seal point,Female,2024-09-11,2024-10-11,injured  moderate,stray,otc,2024-10-17,rescue,FALSE,"33.8105011, -118.0991126",No,0,10,Fall
-wild,black,Unknown,2024-03-16,2024-04-16,ill moderatete,wildlife,field,2024-04-16,rescue,FALSE,"33.8100089, -118.1945212",No,0,04,Spring
+wild,black,Unknown,2024-03-16,2024-04-16,ill moderatete,wildlife,field,2024-04-16,rescue,FALSE,"33.8100089, -118.1945212",No,1,04,Spring
 cat,gray tabby,Male,2023-06-11,2023-07-01,under age/weight,stray,otc,2023-07-01,"trap, neuter, release",FALSE,"33.810501, -118.0991267",No,1,07,Summer
 dog,gray,Spayed,2019-09-25,2022-09-25,normal,stray,otc,2022-10-01,adoption,FALSE,"33.8098463, -118.1675349",Yes,5,10,Fall
 cat,gray tabby,Male,2023-06-11,2023-07-01,under age/weight,stray,otc,2023-07-01,rescue,FALSE,"33.810501, -118.0991267",No,1,07,Summer
@@ -8857,11 +8857,11 @@ dog,tan,Female,2014-01-14,2017-06-14,normal,owner surrender,otc,2017-06-15,trans
 dog,brown,Neutered,2020-07-16,2024-07-16,normal,stray,field,2024-09-20,adoption,FALSE,"33.8163846, -118.1113374",Yes,4,09,Fall
 wild,brown,Unknown,2020-04-08,2023-04-08,injured  severe,wildlife,field,2023-04-08,euthanasia,TRUE,"33.7700504, -118.1937395",No,4,04,Spring
 cat,brown  tabby,Male,2023-07-23,2023-08-09,under age/weight,stray,otc,2023-09-03,rescue,FALSE,"33.8141133, -118.0718271",No,1,09,Fall
-other,pink,Unknown,2019-03-18,2019-03-18,under age/weight,wildlife,field,2019-03-18,euthanasia,TRUE,"33.7680942, -118.1372048",No,5,03,Spring
+other,pink,Unknown,2019-03-18,2019-03-18,under age/weight,wildlife,field,2019-03-18,euthanasia,TRUE,"33.7680942, -118.1372048",No,6,03,Spring
 dog,brown brindle,Female,2019-04-08,2022-04-07,normal,stray,otc,2023-03-22,adoption,FALSE,"33.8141133, -118.0718271",Yes,5,03,Spring
-other,pink,Unknown,2019-03-18,2019-03-18,under age/weight,wildlife,field,2019-03-18,euthanasia,TRUE,"33.7680942, -118.1372048",No,5,03,Spring
+other,pink,Unknown,2019-03-18,2019-03-18,under age/weight,wildlife,field,2019-03-18,euthanasia,TRUE,"33.7680942, -118.1372048",No,6,03,Spring
 cat,black,Unknown,2023-06-19,2023-06-26,under age/weight,stray,field,2023-06-26,rescue,FALSE,"33.817056, -118.182826",No,1,06,Summer
-other,pink,Unknown,2019-03-18,2019-03-18,under age/weight,wildlife,field,2019-03-18,euthanasia,TRUE,"33.7680942, -118.1372048",No,5,03,Spring
+other,pink,Unknown,2019-03-18,2019-03-18,under age/weight,wildlife,field,2019-03-18,euthanasia,TRUE,"33.7680942, -118.1372048",No,6,03,Spring
 dog,brown,Male,2016-03-27,2017-08-27,normal,safe keep,hospital,2017-09-06,return to owner,FALSE,"33.8172619, -118.1935728",No,8,09,Fall
 other,brown,Unknown,2020-04-19,2020-10-19,injured  moderate,wildlife,field,2020-10-19,transfer,FALSE,"33.768232, -118.1391348",No,4,10,Fall
 reptile,brown,Male,2008-06-16,2018-06-16,normal,stray,otc,2018-06-20,return to owner,FALSE,"33.816764, -118.1075857",No,16,06,Summer
@@ -9172,7 +9172,7 @@ cat,cream,Neutered,2008-08-02,2020-08-02,ill severe,stray,field,2020-08-02,eutha
 cat,cream,Neutered,2015-10-04,2020-10-04,normal,stray,otc,2020-10-09,rescue,FALSE,"33.8601999, -118.1560164",No,9,10,Fall
 bird,brown,Unknown,2018-07-29,2019-07-29,injured  moderate,wildlife,field,2019-07-29,transfer,FALSE,"33.7747712, -118.0596711",No,6,07,Summer
 cat,brown  tabby,Neutered,2018-10-04,2020-10-04,normal,stray,otc,2020-10-09,rescue,FALSE,"33.8601999, -118.1560164",No,6,10,Fall
-other,brown,Unknown,2018-03-18,2019-03-18,ill severe,wildlife,field,2019-03-18,euthanasia,TRUE,"33.7742299, -118.1556318",No,6,03,Spring
+other,brown,Unknown,2018-03-18,2019-03-18,ill severe,wildlife,field,2019-03-18,euthanasia,TRUE,"33.7742299, -118.1556318",No,7,03,Spring
 dog,black,Spayed,2024-01-15,2024-10-11,normal,stray,otc,2024-11-14,adoption,FALSE,"33.806748, -118.0726356",Yes,1,11,Fall
 cat,calico,Female,2013-06-19,2022-06-19,ill moderatete,stray,otc,2022-06-19,euthanasia,TRUE,"33.7742299, -118.1556318",No,11,06,Summer
 cat,brown  tabby,Spayed,2007-06-06,2017-06-06,injured  severe,stray,field,2017-06-06,euthanasia,TRUE,"33.8810061, -118.1565482",No,17,06,Summer
@@ -9406,7 +9406,7 @@ dog,black,Spayed,2007-02-28,2020-02-19,normal,stray,otc,2020-02-20,return to own
 cat,gray,Female,2019-07-07,2019-08-07,under age/weight,stray,otc,2019-08-07,euthanasia,TRUE,"33.8154351, -118.1988625",No,5,08,Summer
 cat,gray,Female,2019-07-07,2019-08-07,under age/weight,stray,otc,2019-08-07,euthanasia,TRUE,"33.8154351, -118.1988625",No,5,08,Summer
 cat,gray,Female,2019-07-07,2019-08-07,under age/weight,stray,otc,2019-08-07,euthanasia,TRUE,"33.8154351, -118.1988625",No,5,08,Summer
-cat,brown  tabby,Male,2020-03-17,2020-05-04,normal,stray,field,2020-05-04,rescue,FALSE,"33.8216538, -118.2152875",No,4,05,Spring
+cat,brown  tabby,Male,2020-03-17,2020-05-04,normal,stray,field,2020-05-04,rescue,FALSE,"33.8216538, -118.2152875",No,5,05,Spring
 dog,tan,Female,2015-02-26,2018-02-26,normal,stray,field,2018-03-04,transfer,FALSE,"33.8216538, -118.2152875",No,10,03,Spring
 dog,white,Male,1997-11-12,2018-10-17,normal,owner surrender,otc,2018-10-18,transfer,FALSE,"33.8152958, -118.2111049",No,27,10,Fall
 dog,brown,Male,2024-03-07,2024-05-07,normal,stray,otc,2024-05-08,transfer,FALSE,"33.7839738, -118.2157178",No,1,05,Spring
@@ -9570,9 +9570,9 @@ cat,gray tabby,Spayed,2022-05-11,2022-06-22,normal,stray,otc,2022-11-02,adoption
 cat,black,Spayed,2019-01-31,2022-01-30,ill mild,owner surrender,field,2022-09-17,rescue,FALSE,"33.8171037, -118.2154046",No,6,09,Fall
 cat,black tabby,Male,2019-07-08,2019-07-10,under age/weight,stray,otc,2019-07-28,euthanasia,TRUE,"33.8252051, -118.1208852",No,5,07,Summer
 cat,black,Spayed,2019-05-05,2022-05-05,normal,owner surrender,field,2023-04-06,rescue,FALSE,"33.8171037, -118.2154046",No,5,04,Spring
-wild,gray,Unknown,2022-03-17,2022-04-01,under age/weight,wildlife,field,2022-04-10,rescue,FALSE,"33.8250363, -118.1138571",No,2,04,Spring
-wild,gray,Unknown,2022-03-17,2022-04-01,ill severe,wildlife,field,2022-04-01,euthanasia,TRUE,"33.8250363, -118.1138571",No,2,04,Spring
-wild,gray,Unknown,2022-03-17,2022-04-01,under age/weight,wildlife,field,2022-04-10,rescue,FALSE,"33.8250363, -118.1138571",No,2,04,Spring
+wild,gray,Unknown,2022-03-17,2022-04-01,under age/weight,wildlife,field,2022-04-10,rescue,FALSE,"33.8250363, -118.1138571",No,3,04,Spring
+wild,gray,Unknown,2022-03-17,2022-04-01,ill severe,wildlife,field,2022-04-01,euthanasia,TRUE,"33.8250363, -118.1138571",No,3,04,Spring
+wild,gray,Unknown,2022-03-17,2022-04-01,under age/weight,wildlife,field,2022-04-10,rescue,FALSE,"33.8250363, -118.1138571",No,3,04,Spring
 cat,brown  tabby,Unknown,2019-09-23,2019-09-26,under age/weight,stray,otc,2019-10-05,rescue,FALSE,"33.8250322, -118.1112956",No,5,10,Fall
 cat,white,Unknown,2019-09-23,2019-09-26,under age/weight,stray,otc,2019-10-05,rescue,FALSE,"33.8250322, -118.1112956",No,5,10,Fall
 cat,gray,Spayed,2019-05-05,2022-05-05,normal,owner surrender,field,2022-05-25,return to owner,FALSE,"33.8171037, -118.2154046",No,5,05,Spring
@@ -10449,7 +10449,7 @@ dog,white,Male,2021-07-21,2023-07-21,normal,stray,field,2023-07-29,return to own
 cat,gray tabby,Neutered,2023-07-02,2023-10-02,normal,stray,field,2023-11-23,adoption,FALSE,"33.7823932, -118.1476971",Yes,1,11,Fall
 dog,black,Male,2023-08-22,2023-11-22,under age/weight,stray,otc,2023-11-24,rescue,FALSE,"33.83507, -118.189",No,1,11,Fall
 cat,gray tabby,Neutered,2023-07-02,2023-10-02,normal,stray,field,2023-11-23,adoption,FALSE,"33.7823932, -118.1476971",Yes,1,11,Fall
-cat,gray,Unknown,2024-03-16,2024-06-16,ill severe,stray,field,2024-06-17,euthanasia,TRUE,"33.7990071, -118.1806692",No,0,06,Summer
+cat,gray,Unknown,2024-03-16,2024-06-16,ill severe,stray,field,2024-06-17,euthanasia,TRUE,"33.7990071, -118.1806692",No,1,06,Summer
 dog,brown,Neutered,2009-10-26,2018-10-26,ill mild,stray,field,2018-11-04,return to owner,FALSE,"33.8283972, -118.1018736",No,15,11,Fall
 dog,tan,Female,2017-11-15,2019-11-15,normal,stray,otc,2019-11-16,return to owner,FALSE,"33.8292612, -118.1846958",No,7,11,Fall
 dog,white,Spayed,2005-11-25,2021-05-14,injured  moderate,stray,otc,2021-05-15,return to owner,FALSE,"33.8338862, -118.1249426",No,19,05,Spring
@@ -10885,7 +10885,7 @@ other,brown,Female,2022-04-08,2022-04-07,normal,stray,field,2022-07-08,rescue,FA
 wild,gray,Unknown,2016-02-08,2020-02-08,ill severe,wildlife,field,2020-02-08,return to wild habitat,FALSE,"33.8624008, -118.1883192",No,9,02,Winter
 dog,tricolor,Male,2021-11-12,2022-02-11,normal,stray,field,2022-02-15,rescue,FALSE,"33.7898537, -118.1458794",No,3,02,Winter
 cat,black,Spayed,2015-08-27,2018-08-27,normal,stray,trap,2018-08-27,"shelter, neuter, return",FALSE,"33.8531568, -118.1882327",No,9,08,Summer
-cat,gray,Spayed,2014-03-19,2017-03-19,normal,owner surrender,otc,2017-04-13,rescue,FALSE,"33.8289361, -118.1879441",No,10,04,Spring
+cat,gray,Spayed,2014-03-19,2017-03-19,normal,owner surrender,otc,2017-04-13,rescue,FALSE,"33.8289361, -118.1879441",No,11,04,Spring
 cat,gray tabby,Female,2022-06-06,2022-07-21,ill moderatete,stray,field,2022-08-26,transfer,FALSE,"33.7898537, -118.1458794",No,2,08,Summer
 cat,tortie,Spayed,2012-11-20,2018-01-19,normal,stray,otc,2018-01-20,return to owner,FALSE,"33.76279, -118.1876435",No,12,01,Winter
 other,brown,Female,2022-04-08,2022-04-07,normal,stray,field,2022-07-08,rescue,FALSE,"33.7898537, -118.1458794",No,2,07,Summer
@@ -11063,7 +11063,7 @@ cat,gray tabby,Neutered,2024-05-04,2024-11-12,normal,welfare seized,owner died,2
 other,gray,Unknown,2021-07-23,2021-10-23,ill severe,wildlife,field,2021-10-23,euthanasia,TRUE,"33.8449959, -118.1978195",No,3,10,Fall
 cat,black,Male,2022-04-27,2022-05-21,under age/weight,stray,otc,2022-06-03,euthanasia,TRUE,"33.830342, -118.1446593",No,2,06,Summer
 cat,orange,Neutered,2011-01-24,2021-01-21,injured  severe,stray,field,2021-02-19,rescue,FALSE,"33.8449959, -118.1978195",No,14,02,Winter
-cat,gray tabby,Spayed,2024-03-16,2024-07-05,fractious,stray,otc,2024-08-04,adoption,FALSE,"33.830342, -118.1446593",Yes,0,08,Summer
+cat,gray tabby,Spayed,2024-03-16,2024-07-05,fractious,stray,otc,2024-08-04,adoption,FALSE,"33.830342, -118.1446593",Yes,1,08,Summer
 dog,brown,Spayed,2021-03-18,2023-03-18,normal,stray,field,2023-07-13,adoption,FALSE,"33.8449643, -118.1968157",Yes,3,07,Summer
 cat,brown  tabby,Male,2020-04-15,2022-04-15,injured  severe,stray,field,2022-04-15,euthanasia,TRUE,"33.8449643, -118.1968157",No,4,04,Spring
 bird,black,Unknown,2018-07-30,2018-08-30,injured  severe,wildlife,field,2018-08-30,euthanasia,TRUE,"33.832421, -118.1409604",No,6,08,Summer
@@ -11180,7 +11180,7 @@ cat,cream tabby,Neutered,2017-06-05,2017-10-05,normal,stray,otc,2018-01-25,adopt
 dog,gray,Spayed,2014-07-26,2017-07-26,ill mild,stray,field,2017-11-09,adoption,FALSE,"33.8743224, -118.1893411",Yes,10,11,Fall
 cat,brown  tabby,Female,2021-09-01,2022-03-01,normal,owner surrender,otc,2022-03-03,rescue,FALSE,"33.8328853, -118.1847999",No,3,03,Spring
 cat,black,Male,2021-09-01,2022-03-01,normal,owner surrender,otc,2022-03-03,rescue,FALSE,"33.8328853, -118.1847999",No,3,03,Spring
-cat,brown  tabby,Neutered,2012-03-19,2017-03-19,feral,owner surrender,otc,2017-04-13,rescue,FALSE,"33.8291312, -118.1873566",No,12,04,Spring
+cat,brown  tabby,Neutered,2012-03-19,2017-03-19,feral,owner surrender,otc,2017-04-13,rescue,FALSE,"33.8291312, -118.1873566",No,13,04,Spring
 dog,white,Neutered,2017-04-10,2019-04-10,normal,stray,field,2019-04-16,transfer,FALSE,"33.8743224, -118.1893411",No,7,04,Spring
 cat,black,Neutered,2021-01-06,2023-07-25,normal,quarantine,NA,2023-09-01,rescue,FALSE,"33.8357311, -118.1884661",No,4,09,Fall
 cat,calico,Spayed,2021-04-28,2021-05-28,normal,stray,otc,2022-02-17,adoption,FALSE,"33.8357311, -118.1884661",Yes,3,02,Winter
@@ -11490,7 +11490,7 @@ dog,white,Male,2021-03-01,2024-03-09,behavior  severe,owner surrender,otc,2024-0
 dog,black,Neutered,2017-12-27,2023-06-09,normal,welfare seized,hospital,2023-06-14,return to owner,FALSE,"33.7867179, -118.139789",No,7,06,Summer
 cat,orange tabby,Neutered,2012-10-10,2018-10-10,normal,stray,otc,2018-10-20,"shelter, neuter, return",FALSE,"33.8475858, -118.1701562",No,12,10,Fall
 cat,ct lynx point,Spayed,2024-08-09,2024-09-13,under age/weight,stray,otc,2024-09-20,rescue,FALSE,"33.8419817, -118.1879386",No,0,09,Fall
-cat,gray,Unknown,2019-03-18,2019-03-18,under age/weight,stray,field,2019-03-21,transfer,FALSE,"33.8475858, -118.1701562",No,5,03,Spring
+cat,gray,Unknown,2019-03-18,2019-03-18,under age/weight,stray,field,2019-03-21,transfer,FALSE,"33.8475858, -118.1701562",No,6,03,Spring
 cat,orange tabby,Neutered,2024-08-09,2024-09-13,under age/weight,stray,otc,2024-09-20,rescue,FALSE,"33.8419817, -118.1879386",No,0,09,Fall
 other,gray,Unknown,2023-01-26,2023-06-26,ill mild,wildlife,field,2023-06-26,transfer,FALSE,"33.8099595, -118.1353803",No,2,06,Summer
 dog,gray,Spayed,2023-05-28,2024-03-01,normal,owner surrender,otc,2024-03-10,adoption,FALSE,"33.8463239, -118.1717798",Yes,1,03,Spring
@@ -11507,7 +11507,7 @@ cat,black,Neutered,2022-03-02,2024-03-02,ill moderatete,stray,otc,2024-06-21,res
 other,brown,Unknown,2022-05-14,2022-05-29,ill severe,wildlife,field,2022-05-29,euthanasia,TRUE,"33.8414127, -118.1368302",No,2,05,Spring
 cat,blue point,Male,2017-05-19,2017-07-19,normal,stray,otc,2017-10-06,adoption,FALSE,"33.8603201, -118.1760537",Yes,7,10,Fall
 cat,black tabby,Spayed,2014-07-19,2017-07-19,normal,stray,otc,2017-07-26,"shelter, neuter, return",FALSE,"33.8603201, -118.1760537",No,10,07,Summer
-dog,white,Male,2015-03-19,2017-03-19,normal,stray,otc,2017-03-25,transfer,FALSE,"33.8518912, -118.1783699",No,9,03,Spring
+dog,white,Male,2015-03-19,2017-03-19,normal,stray,otc,2017-03-25,transfer,FALSE,"33.8518912, -118.1783699",No,10,03,Spring
 cat,cream tabby,Neutered,2021-05-27,2022-02-27,normal,stray,otc,2022-03-25,community cat,FALSE,"33.8413916, -118.1730593",No,3,03,Spring
 cat,brown  tabby,Female,2017-07-29,2017-10-29,normal,stray,otc,2017-11-05,transfer,FALSE,"33.8173788, -118.1337162",No,7,11,Fall
 bird,black,Unknown,2024-06-19,2024-07-19,under age/weight,wildlife,field,2024-07-20,transport,FALSE,"33.7553771, -118.1394758",No,0,07,Summer
@@ -11851,7 +11851,7 @@ cat,orange tabby,Spayed,2023-04-06,2023-12-06,ill moderatete,stray,field,2024-01
 cat,white,Female,2017-06-24,2022-06-24,normal,welfare seized,police,2022-06-29,return to owner,FALSE,"33.7582047, -118.1304136",No,7,06,Summer
 rabbit,tan,Female,2018-10-11,2019-08-11,normal,stray,otc,2019-08-17,adoption,FALSE,"33.8258954, -118.1274256",Yes,6,08,Summer
 dog,white,Spayed,2016-03-03,2021-11-25,normal,stray,field,2021-11-26,return to owner,FALSE,"33.87059929999999, -118.1869776",No,9,11,Fall
-cat,brown  tabby,Neutered,2018-03-18,2021-03-18,normal,stray,otc,2021-03-23,rescue,FALSE,"33.87059929999999, -118.1869776",No,6,03,Spring
+cat,brown  tabby,Neutered,2018-03-18,2021-03-18,normal,stray,otc,2021-03-23,rescue,FALSE,"33.87059929999999, -118.1869776",No,7,03,Spring
 cat,black,Male,2024-08-31,2024-10-04,under age/weight,stray,otc,2024-10-08,rescue,FALSE,"33.8094431, -118.1281791",No,0,10,Fall
 dog,tan,Spayed,2019-01-21,2021-01-21,normal,stray,otc,2021-01-29,adoption,FALSE,"33.8763987, -118.1877434",Yes,6,01,Winter
 cat,brown  tabby,Male,2022-01-07,2023-01-07,ill severe,stray,field,2023-01-07,euthanasia,TRUE,"33.7927191, -118.127888",No,3,01,Winter
@@ -11965,7 +11965,7 @@ dog,black,Male,2020-03-16,2021-04-20,normal,stray,otc,2021-04-21,return to owner
 dog,blonde,Female,2023-03-24,2023-05-24,normal,stray,otc,2023-05-25,transfer,FALSE,"33.8571807, -118.1629143",No,1,05,Spring
 dog,tricolor,Neutered,2011-05-05,2021-12-16,normal,confiscate,police,2021-12-19,return to owner,FALSE,"33.7729471, -118.1760582",No,13,12,Winter
 cat,tortie dilute,Female,2022-03-18,2023-03-18,normal,owner surrender,otc,2023-03-20,rescue,FALSE,"33.8571807, -118.1629143",No,2,03,Spring
-cat,gray,Female,2023-03-17,2023-03-18,under age/weight,owner surrender,otc,2023-03-20,rescue,FALSE,"33.8571807, -118.1629143",No,1,03,Spring
+cat,gray,Female,2023-03-17,2023-03-18,under age/weight,owner surrender,otc,2023-03-20,rescue,FALSE,"33.8571807, -118.1629143",No,2,03,Spring
 cat,cream tabby,Spayed,2014-04-30,2017-04-30,feral,stray,field,2017-05-23,euthanasia,TRUE,"33.7729471, -118.1760582",No,10,05,Spring
 cat,black,Male,2018-04-08,2018-04-06,under age/weight,stray,trap,2018-04-19,euthanasia,TRUE,"33.7729471, -118.1760582",No,6,04,Spring
 cat,brown  tabby,Male,2019-02-03,2019-05-03,normal,stray,otc,2019-05-06,transfer,FALSE,"33.8571807, -118.1629143",No,6,05,Spring
@@ -12185,7 +12185,7 @@ dog,black,Neutered,2020-10-23,2021-02-23,normal,stray,field,2021-03-03,adoption,
 dog,tan,Spayed,2020-03-15,2022-03-09,normal,stray,otc,2022-03-19,adoption,FALSE,"33.8470969, -118.176518",Yes,5,03,Spring
 dog,black,Male,2019-01-03,2019-05-03,normal,stray,field,2019-05-09,transfer,FALSE,"33.858271, -118.1799079",No,6,05,Spring
 cat,brown  tabby,Female,2018-04-30,2018-06-06,under age/weight,stray,otc,2018-06-11,euthanasia,TRUE,"33.8468834, -118.1977944",No,6,06,Summer
-cat,black,Male,2018-03-18,2018-05-18,normal,owner surrender,otc,2018-05-19,rescue,FALSE,"33.858271, -118.1799079",No,6,05,Spring
+cat,black,Male,2018-03-18,2018-05-18,normal,owner surrender,otc,2018-05-19,rescue,FALSE,"33.858271, -118.1799079",No,7,05,Spring
 dog,black,Neutered,2011-11-10,2018-04-01,normal,owner surrender,otc,2018-04-02,transfer,FALSE,"33.8468834, -118.1977944",No,13,04,Spring
 cat,gray,Spayed,2017-05-18,2018-05-18,normal,owner surrender,otc,2018-05-20,return to owner,FALSE,"33.858271, -118.1799079",No,7,05,Spring
 dog,white,Male,2016-06-20,2018-12-12,normal,stray,otc,2018-12-20,return to owner,FALSE,"33.8468834, -118.1977944",No,8,12,Winter
@@ -12373,9 +12373,9 @@ dog,white,Neutered,2009-11-07,2019-11-07,normal,stray,otc,2019-11-17,transfer,FA
 dog,tan,Neutered,2023-09-20,2024-09-21,normal,stray,otc,2024-09-28,adoption,FALSE,"33.7753343, -118.1316241",Yes,1,09,Fall
 dog,blue,Female,2019-02-19,2020-02-19,normal,stray,otc,2020-02-23,transfer,FALSE,"33.7840881, -118.1315713",No,6,02,Winter
 dog,black,Spayed,2020-09-23,2024-09-23,injured  severe,stray,field,2024-11-08,adoption,FALSE,"33.8601183, -118.182027",Yes,4,11,Fall
-cat,gray,Male,2023-03-17,2023-04-26,under age/weight,stray,otc,2023-04-26,transfer,FALSE,"33.8523262, -118.1794801",No,1,04,Spring
+cat,gray,Male,2023-03-17,2023-04-26,under age/weight,stray,otc,2023-04-26,transfer,FALSE,"33.8523262, -118.1794801",No,2,04,Spring
 wild,pink,Unknown,2021-03-20,2021-03-28,under age/weight,wildlife,field,2021-03-28,died,TRUE,"33.8609743, -118.193259",No,3,03,Spring
-cat,black,Female,2023-03-17,2023-04-26,under age/weight,stray,otc,2023-04-26,transfer,FALSE,"33.8523262, -118.1794801",No,1,04,Spring
+cat,black,Female,2023-03-17,2023-04-26,under age/weight,stray,otc,2023-04-26,transfer,FALSE,"33.8523262, -118.1794801",No,2,04,Spring
 cat,gray tabby,Female,2019-05-03,2019-05-17,under age/weight,stray,otc,2019-08-16,adoption,FALSE,"33.8601734, -118.1598534",Yes,5,08,Summer
 dog,brown,Neutered,2022-03-29,2024-03-29,normal,stray,otc,2024-09-05,adoption,FALSE,"33.8505145, -118.1898125",Yes,2,09,Fall
 rabbit,gray,Female,2024-04-26,2024-07-24,normal,owner surrender,otc,2024-10-27,rescue,FALSE,"33.8500611, -118.1771567",No,0,10,Fall
@@ -12422,7 +12422,7 @@ dog,black,Male,2014-05-07,2017-05-07,normal,stray,otc,2017-05-11,return to owner
 dog,tan,Female,2013-08-17,2017-03-16,normal,stray,otc,2017-03-20,return to owner,FALSE,"33.8504698, -118.1951384",No,11,03,Spring
 cat,black,Spayed,2011-08-30,2021-03-09,ill severe,confiscate,hospital,2021-07-04,adoption,FALSE,"33.832138, -118.122597",Yes,13,07,Summer
 dog,gray,Neutered,2010-02-07,2019-02-07,ill mild,stray,field,2019-02-21,adoption,FALSE,"33.8504698, -118.1951384",Yes,15,02,Winter
-cat,calico tabby,Spayed,2007-03-21,2021-03-09,ill severe,confiscate,hospital,2021-04-04,adoption,FALSE,"33.832138, -118.122597",Yes,17,04,Spring
+cat,calico tabby,Spayed,2007-03-21,2021-03-09,ill severe,confiscate,hospital,2021-04-04,adoption,FALSE,"33.832138, -118.122597",Yes,18,04,Spring
 guinea pig,brown,Female,2016-10-20,2018-10-20,normal,owner surrender,otc,2018-11-03,rescue,FALSE,"33.7887625, -118.1859407",No,8,11,Fall
 guinea pig,white,Female,2016-10-20,2018-10-20,normal,owner surrender,otc,2018-11-03,rescue,FALSE,"33.7887625, -118.1859407",No,8,11,Fall
 cat,black,Spayed,2021-07-28,2024-07-28,normal,stray,otc,2024-07-30,community cat,FALSE,"33.8627879, -118.1680059",No,3,07,Summer
@@ -12481,7 +12481,7 @@ other,brown,Unknown,2022-06-26,2022-07-10,under age/weight,wildlife,field,2022-0
 cat,brown  tabby,Female,2019-08-01,2019-09-10,normal,stray,field,2019-11-13,rescue,FALSE,"33.8619835, -118.1715393",No,5,11,Fall
 dog,white,Neutered,2023-05-16,2024-05-15,normal,stray,otc,2024-05-22,adoption,FALSE,"33.8620346, -118.1838029",Yes,1,05,Spring
 dog,tan,Neutered,2022-06-24,2024-01-26,normal,return,adoption,2024-03-22,adoption,FALSE,"33.8620346, -118.1838029",Yes,2,03,Spring
-cat,black,Female,2022-03-17,2022-09-17,ill severe,stray,field,2022-09-17,euthanasia,TRUE,"33.8273649, -118.1294348",No,2,09,Fall
+cat,black,Female,2022-03-17,2022-09-17,ill severe,stray,field,2022-09-17,euthanasia,TRUE,"33.8273649, -118.1294348",No,3,09,Fall
 dog,black,Male,2007-08-29,2022-09-07,aged,stray,otc,2022-09-07,return to owner,FALSE,"33.8620346, -118.1838029",No,17,09,Fall
 dog,brown,Male,2016-10-05,2017-10-05,normal,stray,field,2017-10-11,transfer,FALSE,"33.8620346, -118.1838029",No,8,10,Fall
 cat,black,Unknown,2018-06-16,2018-06-16,under age/weight,stray,field,2018-06-16,euthanasia,TRUE,"33.8607342, -118.1986291",No,6,06,Summer
@@ -12521,7 +12521,7 @@ cat,black,Spayed,2022-04-12,2023-09-27,normal,return,adoption,2024-01-03,adoptio
 cat,black,Spayed,2017-07-24,2019-07-24,normal,stray,otc,2019-12-20,transfer,FALSE,"33.8629327, -118.150841",No,7,12,Winter
 wild,gray,Unknown,2017-05-14,2017-07-14,under age/weight,wildlife,field,2017-07-14,euthanasia,TRUE,"33.85436370000001, -118.180992",No,7,07,Summer
 cat,brown  tabby,Male,2022-03-14,2022-07-14,normal,stray,otc,2022-08-03,transfer,FALSE,"33.8101914, -118.1167941",No,3,08,Summer
-cat,tricolor,Spayed,2021-03-17,2023-03-17,normal,owner surrender,otc,2023-07-15,adoption,FALSE,"33.8243264, -118.1274214",Yes,3,07,Summer
+cat,tricolor,Spayed,2021-03-17,2023-03-17,normal,owner surrender,otc,2023-07-15,adoption,FALSE,"33.8243264, -118.1274214",Yes,4,07,Summer
 cat,white,Female,2022-03-14,2022-07-14,normal,stray,otc,2022-08-03,transfer,FALSE,"33.8101914, -118.1167941",No,3,08,Summer
 dog,white,Male,2012-06-21,2017-06-21,normal,stray,otc,2017-06-28,transfer,FALSE,"33.8101914, -118.1167941",No,12,06,Summer
 cat,brown  tabby,Male,2023-07-22,2023-08-09,ill mild,stray,otc,2023-09-20,adoption,FALSE,"33.8543525, -118.1781879",Yes,1,09,Fall
@@ -12683,7 +12683,7 @@ cat,black,Male,2018-03-08,2018-09-08,normal,stray,otc,2018-09-12,transfer,FALSE,
 dog,brown,Female,2015-02-18,2019-02-18,normal,stray,field,2019-02-24,transfer,FALSE,"33.8562405, -118.1848922",No,10,02,Winter
 wild,brown,Female,2022-01-26,2023-01-26,ill severe,wildlife,field,2023-01-27,died,TRUE,"33.7744728, -118.1133009",No,3,01,Winter
 dog,fawn,Neutered,2014-02-18,2019-02-18,injured  moderate,stray,field,2019-05-02,adoption,FALSE,"33.8562405, -118.1848922",Yes,11,05,Spring
-cat,brown  tabby,Unknown,2023-03-17,2023-05-17,ill moderatete,stray,field,2023-05-17,euthanasia,TRUE,"33.7748425, -118.1718077",No,1,05,Spring
+cat,brown  tabby,Unknown,2023-03-17,2023-05-17,ill moderatete,stray,field,2023-05-17,euthanasia,TRUE,"33.7748425, -118.1718077",No,2,05,Spring
 cat,black,Unknown,2018-09-21,2018-09-21,normal,stray,otc,2018-09-30,euthanasia,TRUE,"33.8562405, -118.1848922",No,6,09,Fall
 cat,brown  tabby,Neutered,2024-03-07,2024-04-13,under age/weight,stray,otc,2024-05-18,adoption,FALSE,"33.773678, -118.1500512",Yes,1,05,Spring
 dog,tan,Female,2015-02-18,2019-02-18,normal,stray,field,2019-02-24,transfer,FALSE,"33.8562405, -118.1848922",No,10,02,Winter
@@ -12732,7 +12732,7 @@ cat,brown  tabby,Male,2022-04-01,2022-04-19,under age/weight,stray,field,2022-05
 dog,gold,Neutered,2018-10-01,2020-10-01,normal,stray,otc,2020-10-18,foster to adopt,FALSE,"33.8639436, -118.1845932",Yes,6,10,Fall
 cat,orange tabby,Male,2022-03-07,2022-04-22,ill moderatete,stray,field,2022-04-27,rescue,FALSE,"33.8639436, -118.1845932",No,3,04,Spring
 cat,gray tabby,Female,2020-05-22,2020-06-22,under age/weight,stray,field,2020-06-24,rescue,FALSE,"33.8563851, -118.1837361",No,4,06,Summer
-cat,torbi,Female,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8639436, -118.1845932",No,0,04,Spring
+cat,torbi,Female,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8639436, -118.1845932",No,1,04,Spring
 dog,black,Male,2013-06-16,2019-06-16,normal,stray,otc,2019-06-22,transfer,FALSE,"33.8563851, -118.1837361",No,11,06,Summer
 dog,white,Spayed,2006-07-07,2023-09-20,ill moderatete,stray,field,2023-09-20,return to owner,FALSE,"33.8562635, -118.1859615",No,18,09,Fall
 cat,gray tabby,Neutered,2024-08-26,2024-10-26,normal,stray,otc,2024-11-09,adoption,FALSE,"33.8642072, -118.1763495",Yes,0,11,Fall
@@ -12868,7 +12868,7 @@ dog,brown brindle,Spayed,2019-06-23,2019-12-23,normal,stray,field,2020-01-15,ado
 cat,orange tabby,Neutered,2019-05-24,2019-07-24,normal,stray,otc,2019-10-23,adoption,FALSE,"33.8640647, -118.1766294",Yes,5,10,Fall
 dog,black,Female,2019-01-10,2019-05-10,normal,stray,otc,2019-05-16,transfer,FALSE,"33.858271, -118.1799079",No,6,05,Spring
 dog,black,Female,2024-06-29,2024-08-02,under age/weight,owner surrender,otc,2024-08-21,transfer,FALSE,"33.863826, -118.1857255",No,0,08,Summer
-cat,black,Male,2018-03-18,2018-05-18,normal,owner surrender,otc,2018-05-19,rescue,FALSE,"33.858271, -118.1799079",No,6,05,Spring
+cat,black,Male,2018-03-18,2018-05-18,normal,owner surrender,otc,2018-05-19,rescue,FALSE,"33.858271, -118.1799079",No,7,05,Spring
 dog,gold,Female,2024-06-29,2024-08-02,under age/weight,owner surrender,otc,2024-08-21,transfer,FALSE,"33.863826, -118.1857255",No,0,08,Summer
 dog,black,Neutered,2010-03-17,2023-06-18,injured  moderate,stray,field,2023-06-21,return to owner,FALSE,"33.8583996, -118.1856923",No,15,06,Summer
 dog,black,Male,2014-08-28,2017-08-28,normal,stray,field,2017-09-03,transfer,FALSE,"33.864244, -118.1685205",No,10,09,Fall
@@ -13608,7 +13608,7 @@ dog,cream,Neutered,2013-04-02,2023-04-02,injured  mild,stray,otc,2023-04-08,resc
 cat,lynx point,Male,2024-03-13,2024-05-03,under age/weight,stray,otc,2024-05-15,rescue,FALSE,"33.8655885, -118.1725081",No,1,05,Spring
 bird,unknown,Male,2024-01-22,2024-05-22,normal,stray,otc,2024-05-26,rescue,FALSE,"33.8657186, -118.1789931",No,1,05,Spring
 dog,tan,Female,2004-08-26,2019-08-26,aged,stray,field,2019-09-01,adoption,FALSE,"33.8778066, -118.1939325",Yes,20,09,Fall
-cat,brown  tabby,Female,2019-03-18,2019-07-18,normal,stray,otc,2019-07-18,transfer,FALSE,"33.8778066, -118.1939325",No,5,07,Summer
+cat,brown  tabby,Female,2019-03-18,2019-07-18,normal,stray,otc,2019-07-18,transfer,FALSE,"33.8778066, -118.1939325",No,6,07,Summer
 rabbit,white,Spayed,2020-12-23,2021-03-23,injured  mild,stray,field,2021-04-03,foster to adopt,FALSE,"33.8778066, -118.1939325",Yes,4,04,Spring
 dog,brown,Female,2011-09-15,2020-09-17,normal,owner surrender,field,2020-09-18,transfer,FALSE,"33.86556180000001, -118.1859598",No,13,09,Fall
 cat,brown  tabby,Spayed,2019-09-06,2020-03-06,fractious,stray,otc,2020-03-11,"shelter, neuter, return",FALSE,"33.8785585, -118.1959352",No,5,03,Spring
@@ -14229,7 +14229,7 @@ dog,white,Female,2018-07-21,2021-11-18,normal,stray,field,2021-11-24,return to o
 dog,gray,Male,2020-08-22,2023-08-22,normal,welfare seized,police,2023-09-20,adoption,FALSE,"33.8776483, -118.1857965",Yes,4,09,Fall
 cat,black,Male,2017-02-24,2022-02-24,ill severe,stray,field,2022-02-24,euthanasia,TRUE,"33.883799, -118.182476",No,8,02,Winter
 dog,brown,Neutered,2012-10-15,2020-10-15,injured  severe,stray,field,2020-11-07,rescue,FALSE,"33.883799, -118.182476",No,12,11,Fall
-cat,brown  tabby,Female,2017-03-18,2017-06-18,normal,stray,field,2017-08-03,transfer,FALSE,"33.8773146, -118.1783287",No,7,08,Summer
+cat,brown  tabby,Female,2017-03-18,2017-06-18,normal,stray,field,2017-08-03,transfer,FALSE,"33.8773146, -118.1783287",No,8,08,Summer
 dog,tan,Female,2016-05-25,2017-05-25,injured  mild,stray,field,2017-06-16,adoption,FALSE,"33.8815637, -118.1774187",Yes,8,06,Summer
 cat,orange,Neutered,2022-04-10,2024-04-10,injured  mild,stray,otc,2024-05-07,community cat,FALSE,"33.8838203, -118.1836169",No,2,05,Spring
 cat,black,Male,2024-08-18,2024-09-18,under age/weight,stray,otc,2024-09-21,euthanasia,TRUE,"33.8770369, -118.1676714",No,0,09,Fall
@@ -14370,7 +14370,7 @@ bird,yellow,Unknown,2017-07-20,2017-07-29,under age/weight,wildlife,otc,2017-07-
 cat,white,Male,2022-05-06,2022-07-06,ill mild,stray,otc,2022-07-10,rescue,FALSE,"33.8782002, -118.1859479",No,2,07,Summer
 bird,black,Unknown,2016-02-17,2017-02-17,injured  severe,wildlife,field,2017-02-17,died,TRUE,"33.8097185, -118.0929813",No,9,02,Winter
 dog,white,Unknown,2016-09-18,2019-09-18,normal,stray,field,2019-09-25,euthanasia,TRUE,"33.8778066, -118.1939325",No,8,09,Fall
-cat,brown  tabby,Male,2019-03-18,2019-07-18,normal,stray,otc,2019-07-18,transfer,FALSE,"33.8778066, -118.1939325",No,5,07,Summer
+cat,brown  tabby,Male,2019-03-18,2019-07-18,normal,stray,otc,2019-07-18,transfer,FALSE,"33.8778066, -118.1939325",No,6,07,Summer
 cat,gray,Neutered,2021-06-07,2021-09-07,normal,stray,field,2021-10-06,adoption,FALSE,"33.8097185, -118.0929813",Yes,3,10,Fall
 cat,brown  tabby,Unknown,2014-02-15,2019-02-15,normal,stray,otc,2019-02-22,transfer,FALSE,"33.8782836, -118.1686501",No,11,02,Winter
 wild,brown,Unknown,2020-04-20,2020-08-20,under age/weight,wildlife,field,2020-08-20,transfer,FALSE,"33.8097185, -118.0929813",No,4,08,Summer
@@ -14463,7 +14463,7 @@ cat,black,Male,2017-07-22,2017-07-30,under age/weight,stray,otc,2018-06-09,adopt
 cat,orange tabby,Male,2021-08-16,2023-05-04,injured  severe,stray,field,2023-05-04,euthanasia,TRUE,"33.7753824, -118.1008648",No,3,05,Spring
 wild,black,Unknown,2023-12-26,2024-12-26,ill severe,wildlife,field,2024-12-26,euthanasia,TRUE,"33.8098294, -118.0844223",No,1,12,Winter
 rabbit,black,Spayed,2020-09-24,2021-09-22,normal,stray,otc,2021-10-05,rescue,FALSE,"33.8098294, -118.0844223",No,4,10,Fall
-cat,gray tabby,Male,2019-03-18,2019-05-18,under age/weight,stray,otc,2019-05-22,rescue,FALSE,"33.8098294, -118.0844223",No,5,05,Spring
+cat,gray tabby,Male,2019-03-18,2019-05-18,under age/weight,stray,otc,2019-05-22,rescue,FALSE,"33.8098294, -118.0844223",No,6,05,Spring
 cat,orange,Neutered,2021-08-29,2021-10-29,normal,stray,otc,2021-11-05,foster to adopt,FALSE,"33.8098294, -118.0844223",Yes,3,11,Fall
 cat,black,Spayed,2017-05-19,2018-05-19,fractious,stray,otc,2018-06-12,"shelter, neuter, return",FALSE,"33.8783551, -118.1534772",No,7,06,Summer
 dog,blue,Neutered,2023-07-12,2024-01-12,normal,stray,otc,2024-01-25,adoption,FALSE,"33.8267376, -118.0841995",Yes,1,01,Winter
@@ -14667,7 +14667,7 @@ dog,gold,Spayed,2024-07-28,2024-10-28,injured  moderate,stray,field,2024-11-07,a
 cat,black,Spayed,2019-02-15,2020-02-15,normal,stray,otc,2020-02-23,adoption,FALSE,"33.7753596, -118.1709049",Yes,6,02,Winter
 rabbit,brown,Spayed,2016-04-30,2018-04-30,ill moderatete,stray,otc,2018-05-26,rescue,FALSE,"33.8096122, -118.0826161",No,8,05,Spring
 cat,black,Female,2017-12-18,2018-03-18,normal,stray,otc,2018-03-21,transfer,FALSE,"33.7754691, -118.1631694",No,7,03,Spring
-cat,gray tabby,Female,2016-03-18,2018-03-18,normal,stray,otc,2018-03-21,transfer,FALSE,"33.7754691, -118.1631694",No,8,03,Spring
+cat,gray tabby,Female,2016-03-18,2018-03-18,normal,stray,otc,2018-03-21,transfer,FALSE,"33.7754691, -118.1631694",No,9,03,Spring
 cat,brown  tabby,Male,2022-08-13,2022-09-03,under age/weight,stray,aban shltr,2022-10-07,euthanasia,TRUE,"33.8096122, -118.0826161",No,2,10,Fall
 dog,black,Female,2020-10-22,2023-10-22,normal,stray,otc,2023-10-28,adoption,FALSE,"33.8664421, -118.1839029",Yes,4,10,Fall
 rabbit,brown,Unknown,2017-05-28,2018-05-28,ill moderatete,wildlife,otc,2018-05-28,euthanasia,TRUE,"33.8096122, -118.0826161",No,7,05,Spring
@@ -14901,7 +14901,7 @@ other,brown,Female,2020-09-17,2021-09-17,normal,stray,field,2021-10-02,transfer,
 other,brown,Unknown,2021-09-14,2021-09-17,normal,stray,field,2021-10-02,transfer,FALSE,"33.7772073, -118.1654975",No,3,10,Fall
 dog,black,Neutered,2017-09-09,2023-09-09,normal,stray,otc,2023-09-13,homefirst,FALSE,"33.8818211, -118.1848995",No,7,09,Fall
 cat,white,Male,2017-05-26,2017-07-26,injured  severe,stray,field,2017-07-26,euthanasia,TRUE,"33.7808329, -118.1828628",No,7,07,Summer
-dog,brown,Male,2016-03-18,2019-01-22,under age/weight,confiscate,cruelty,2019-02-02,transfer,FALSE,"33.7855216, -118.182685",No,8,02,Winter
+dog,brown,Male,2016-03-18,2019-01-22,under age/weight,confiscate,cruelty,2019-02-02,transfer,FALSE,"33.7855216, -118.182685",No,9,02,Winter
 dog,white,Female,2017-04-16,2019-01-22,under age/weight,confiscate,cruelty,2019-02-02,transfer,FALSE,"33.7855216, -118.182685",No,7,02,Winter
 dog,white,Neutered,2019-05-21,2020-05-21,normal,stray,otc,2020-05-27,foster to adopt,FALSE,"33.810379, -118.0992327",Yes,5,05,Spring
 dog,brown,Female,2018-01-22,2019-01-22,normal,confiscate,cruelty,2019-02-02,transfer,FALSE,"33.7855216, -118.182685",No,7,02,Winter
@@ -15399,11 +15399,11 @@ dog,white,Male,2014-02-04,2017-11-05,injured  severe,owner surrender,field,2017-
 cat,black,Male,2022-07-05,2022-09-03,under age/weight,stray,aban shltr,2022-12-06,transfer,FALSE,"33.8096122, -118.0826161",No,2,12,Winter
 dog,white,Male,2013-10-29,2018-10-29,normal,stray,field,2018-11-09,transfer,FALSE,"33.8877553, -118.0683664",No,11,11,Fall
 cat,gray,Neutered,2022-07-27,2022-08-27,normal,stray,born@shelt,2022-09-17,adoption,FALSE,"33.8096122, -118.0826161",Yes,2,09,Fall
-dog,blonde,Male,2013-03-19,2023-03-19,normal,stray,otc,2023-03-19,return to owner,FALSE,"33.7825994, -118.1654798",No,11,03,Spring
+dog,blonde,Male,2013-03-19,2023-03-19,normal,stray,otc,2023-03-19,return to owner,FALSE,"33.7825994, -118.1654798",No,12,03,Spring
 dog,white,Spayed,2017-05-29,2024-05-28,normal,stray,field,2024-05-29,return to owner,FALSE,"33.7826142, -118.1600565",No,7,05,Spring
 wild,black,Unknown,2018-06-30,2019-06-30,normal,wildlife,field,2019-06-30,euthanasia,TRUE,"33.7626973, -118.1868297",No,6,06,Summer
 dog,black,Male,2012-03-22,2017-03-22,normal,stray,otc,2017-04-01,transport,FALSE,"33.7960582, -118.136184",No,12,04,Spring
-cat,white,Male,2022-03-17,2022-03-17,under age/weight,stray,born@shelt,2022-03-19,rescue,FALSE,"33.8096122, -118.0826161",No,2,03,Spring
+cat,white,Male,2022-03-17,2022-03-17,under age/weight,stray,born@shelt,2022-03-19,rescue,FALSE,"33.8096122, -118.0826161",No,3,03,Spring
 dog,black,Neutered,2018-01-19,2023-01-19,normal,stray,otc,2023-02-02,transfer,FALSE,"33.8742137, -118.1969244",No,7,02,Winter
 cat,gray tabby,Unknown,2019-09-29,2019-09-29,under age/weight,stray,otc,2019-10-17,euthanasia,TRUE,"33.8096122, -118.0826161",No,5,10,Fall
 dog,brown,Female,2008-01-10,2017-01-10,normal,stray,field,2017-01-18,transfer,FALSE,"33.8731446, -118.0565406",No,17,01,Winter
@@ -15421,7 +15421,7 @@ dog,black,Neutered,2020-04-27,2022-06-28,normal,return,spcala,2022-09-04,adoptio
 cat,black,Female,2016-03-31,2018-03-31,normal,stray,otc,2018-04-04,transfer,FALSE,"33.8733143, -118.0463936",No,8,04,Spring
 dog,gray,Neutered,2019-04-14,2022-08-04,normal,return,spcala,2022-08-04,adoption,FALSE,"33.8096122, -118.0826161",Yes,5,08,Summer
 dog,black,Male,2016-05-15,2018-05-15,normal,stray,field,2018-05-24,transfer,FALSE,"33.8747449, -118.1599811",No,8,05,Spring
-cat,white,Female,2022-03-17,2022-03-17,under age/weight,stray,born@shelt,2022-03-19,rescue,FALSE,"33.8096122, -118.0826161",No,2,03,Spring
+cat,white,Female,2022-03-17,2022-03-17,under age/weight,stray,born@shelt,2022-03-19,rescue,FALSE,"33.8096122, -118.0826161",No,3,03,Spring
 dog,brown,Spayed,2021-08-01,2021-08-01,ill moderatete,stray,born@shelt,2021-09-30,foster to adopt,FALSE,"33.8096122, -118.0826161",Yes,3,09,Fall
 cat,calico,Spayed,2017-03-29,2018-03-29,normal,stray,field,2018-04-19,adoption,FALSE,"33.874658, -118.1556406",Yes,7,04,Spring
 dog,brown,Neutered,2021-08-01,2021-08-01,normal,stray,born@shelt,2021-09-29,foster to adopt,FALSE,"33.8096122, -118.0826161",Yes,3,09,Fall
@@ -15928,7 +15928,7 @@ dog,tan,Female,2012-11-02,2017-11-02,normal,stray,otc,2017-11-02,euthanasia,TRUE
 cat,brown  tabby,Male,2021-10-28,2023-10-28,injured  severe,stray,otc,2023-10-29,died,TRUE,"33.8240584, -118.0643637",No,3,10,Fall
 dog,white,Spayed,2015-05-27,2024-05-27,injured  moderate,stray,otc,2024-05-30,return to owner,FALSE,"33.8187269, -118.0703682",No,9,05,Spring
 cat,orange tabby,Neutered,2019-05-01,2019-07-01,normal,stray,field,2020-01-09,adoption,FALSE,"33.7641976, -118.1666286",Yes,5,01,Winter
-dog,black,Neutered,2021-03-17,2023-03-03,normal,return,adoption,2023-03-18,adoption,FALSE,"33.8194484, -118.0662159",Yes,3,03,Spring
+dog,black,Neutered,2021-03-17,2023-03-03,normal,return,adoption,2023-03-18,adoption,FALSE,"33.8194484, -118.0662159",Yes,4,03,Spring
 bird,gray,Unknown,2018-05-21,2019-05-21,injured  severe,wildlife,field,2019-05-21,euthanasia,TRUE,"33.7641976, -118.1666286",No,6,05,Spring
 dog,white,Neutered,2016-07-27,2019-07-27,normal,stray,field,2019-07-27,return to owner,FALSE,"33.7670957, -118.1924071",No,8,07,Summer
 dog,black,Male,2011-10-13,2019-05-08,normal,stray,otc,2019-05-18,transfer,FALSE,"33.760989, -118.1526651",No,13,05,Spring
@@ -16293,7 +16293,7 @@ dog,gray,Female,2015-01-04,2017-01-04,normal,stray,otc,2017-01-11,transfer,FALSE
 other,pink,Unknown,2022-03-11,2022-03-13,under age/weight,wildlife,otc,2022-03-13,euthanasia,TRUE,"33.7876107, -118.0718872",No,3,03,Spring
 dog,silver,Male,2012-02-18,2017-02-18,normal,stray,otc,2017-03-01,rescue,FALSE,"33.861878, -118.1850399",No,13,03,Spring
 other,pink,Unknown,2022-03-11,2022-03-13,under age/weight,wildlife,otc,2022-03-13,euthanasia,TRUE,"33.7876107, -118.0718872",No,3,03,Spring
-dog,black,Male,2016-03-18,2018-03-18,normal,stray,otc,2018-03-24,transfer,FALSE,"33.7826086, -118.1850343",No,8,03,Spring
+dog,black,Male,2016-03-18,2018-03-18,normal,stray,otc,2018-03-24,transfer,FALSE,"33.7826086, -118.1850343",No,9,03,Spring
 dog,brown,Female,2018-02-07,2018-09-07,normal,stray,otc,2018-09-13,transfer,FALSE,"33.8744535, -118.1860969",No,7,09,Fall
 dog,brown brindle,Female,2008-12-19,2017-12-19,normal,stray,field,2017-12-20,return to owner,FALSE,"33.7963296, -118.1181199",No,16,12,Winter
 dog,cream,Female,2015-11-06,2018-11-06,normal,stray,field,2018-11-13,transfer,FALSE,"33.7963296, -118.1181199",No,9,11,Fall
@@ -16464,7 +16464,7 @@ cat,black,Spayed,2017-06-14,2018-06-14,normal,stray,trap,2018-06-23,"shelter, ne
 cat,black,Female,2018-08-03,2018-08-18,under age/weight,stray,otc,2018-09-13,euthanasia,TRUE,"33.8810322, -118.1601",No,6,09,Fall
 cat,brown  tabby,Spayed,2010-06-09,2019-06-09,normal,stray,otc,2019-06-17,euthanasia,TRUE,"33.7886221, -118.0992076",No,14,06,Summer
 dog,tan,Male,2010-09-30,2017-09-30,normal,stray,otc,2017-10-18,transfer,FALSE,"33.8324299, -118.1674748",No,14,10,Fall
-dog,brown,Male,2018-03-18,2018-07-18,normal,stray,otc,2018-07-26,return to owner,FALSE,"33.7841702, -118.1015256",No,6,07,Summer
+dog,brown,Male,2018-03-18,2018-07-18,normal,stray,otc,2018-07-26,return to owner,FALSE,"33.7841702, -118.1015256",No,7,07,Summer
 dog,brown,Spayed,2009-07-22,2018-07-22,normal,stray,otc,2018-07-22,return to owner,FALSE,"33.7984063, -118.1028069",No,15,07,Summer
 cat,black,Male,2018-04-23,2018-06-23,normal,stray,otc,2018-09-20,adoption,FALSE,"33.7998123, -118.09928",Yes,6,09,Fall
 dog,tricolor,Male,2008-04-15,2018-04-15,normal,stray,otc,2018-04-21,euthanasia,TRUE,"33.810379, -118.0992327",No,16,04,Spring
@@ -16635,7 +16635,7 @@ dog,black,Male,2016-06-02,2019-06-02,normal,stray,otc,2019-06-08,transfer,FALSE,
 cat,tortie,Female,2018-08-30,2018-09-06,fractious,stray,otc,2018-09-06,euthanasia,TRUE,"33.7989284, -118.1871969",No,6,09,Fall
 cat,gray tabby,Male,2017-10-09,2018-04-09,ill severe,stray,field,2018-04-09,died,TRUE,"33.7934864, -118.1861177",No,7,04,Spring
 cat,orange tabby,Male,2018-08-30,2018-09-06,fractious,stray,otc,2018-09-07,euthanasia,TRUE,"33.7989284, -118.1871969",No,6,09,Fall
-cat,orange tabby,Female,2018-03-18,2018-05-11,under age/weight,stray,field,2018-05-13,rescue,FALSE,"33.7934933, -118.1763167",No,6,05,Spring
+cat,orange tabby,Female,2018-03-18,2018-05-11,under age/weight,stray,field,2018-05-13,rescue,FALSE,"33.7934933, -118.1763167",No,7,05,Spring
 cat,tortie,Spayed,2016-09-06,2018-09-06,fractious,stray,otc,2018-09-18,"shelter, neuter, return",FALSE,"33.7989284, -118.1871969",No,8,09,Fall
 cat,brown  tabby,Male,2018-02-24,2019-02-24,ill severe,stray,field,2019-02-24,euthanasia,TRUE,"33.8398073, -118.187935",No,7,02,Winter
 dog,gold,Neutered,2015-10-30,2018-08-03,normal,stray,field,2018-09-02,adoption,FALSE,"33.7934933, -118.1763167",Yes,9,09,Fall
@@ -16821,7 +16821,7 @@ dog,white,Male,2013-10-29,2021-10-29,aged,stray,field,2021-10-30,transfer,FALSE,
 dog,yellow,Spayed,2007-08-23,2018-06-16,normal,stray,otc,2018-06-17,return to owner,FALSE,"33.7698744, -118.1241773",No,17,06,Summer
 cat,gray,Neutered,2018-05-17,2018-11-17,ill mild,stray,field,2019-01-26,adoption,FALSE,"33.7580102, -118.1111383",Yes,6,01,Winter
 reptile,green,Unknown,2018-04-26,2019-04-26,normal,stray,otc,2019-04-30,rescue,FALSE,"33.7898503, -118.1892521",No,6,04,Spring
-dog,brown,Male,2018-03-18,2018-08-01,normal,stray,otc,2018-08-01,return to owner,FALSE,"33.7673769, -118.1170021",No,6,08,Summer
+dog,brown,Male,2018-03-18,2018-08-01,normal,stray,otc,2018-08-01,return to owner,FALSE,"33.7673769, -118.1170021",No,7,08,Summer
 dog,white,Male,2017-10-12,2018-10-12,normal,stray,field,2018-10-18,transfer,FALSE,"33.77895720000001, -118.1980407",No,7,10,Fall
 dog,white,Male,2015-04-09,2018-04-09,normal,stray,otc,2018-04-15,transfer,FALSE,"33.7898585, -118.1806444",No,9,04,Spring
 cat,seal point,Female,2017-04-05,2017-05-05,ill mild,stray,field,2017-05-07,rescue,FALSE,"33.7789749, -118.1937427",No,7,05,Spring
@@ -17428,7 +17428,7 @@ cat,white,Female,2015-08-14,2017-08-14,normal,stray,field,2017-08-14,return to o
 dog,black,Spayed,2018-02-15,2024-02-15,normal,stray,otc,2024-03-20,adoption,FALSE,"33.79893120000001, -118.192562",Yes,7,03,Spring
 cat,gray tabby,Female,2023-05-15,2023-06-04,under age/weight,stray,otc,2023-06-14,rescue,FALSE,"33.8099414, -118.190922",No,1,06,Summer
 dog,brown,Spayed,2020-06-09,2021-04-10,normal,owner surrender,otc,2021-04-22,transfer,FALSE,"33.7677623, -118.1825071",No,4,04,Spring
-bird,gray,Unknown,2020-03-17,2021-03-17,ill severe,wildlife,field,2021-03-18,euthanasia,TRUE,"33.7621679, -118.196966",No,4,03,Spring
+bird,gray,Unknown,2020-03-17,2021-03-17,ill severe,wildlife,field,2021-03-18,euthanasia,TRUE,"33.7621679, -118.196966",No,5,03,Spring
 cat,brown  tabby,Male,2017-02-19,2017-10-19,normal,stray,otc,2017-10-25,transfer,FALSE,"33.7621679, -118.196966",No,8,10,Fall
 dog,blue,Male,2016-12-30,2018-12-30,normal,stray,field,2019-01-05,transfer,FALSE,"33.7580316, -118.1385367",No,8,01,Winter
 dog,blue,Male,2018-05-23,2019-07-23,behavior  severe,quarantine,NA,2019-08-01,return to owner,FALSE,"33.7684106, -118.1846501",No,6,08,Summer
@@ -17599,7 +17599,7 @@ dog,white,Neutered,2015-06-02,2024-06-02,normal,stray,otc,2024-06-02,return to o
 cat,cream,Unknown,2024-05-18,2024-05-22,under age/weight,stray,otc,2024-05-22,euthanasia,TRUE,"33.8502533, -118.1981314",No,0,05,Spring
 dog,brown,Spayed,2023-03-26,2023-09-20,normal,stray,otc,2023-09-27,adoption,FALSE,"33.8767505, -118.2037218",Yes,1,09,Fall
 cat,orange tabby,Neutered,2009-02-09,2019-02-09,normal,owner surrender,otc,2019-02-11,transfer,FALSE,"33.79893120000001, -118.192562",No,16,02,Winter
-dog,white,Male,2014-03-19,2017-03-19,normal,stray,otc,2017-03-19,return to owner,FALSE,"33.85754960000001, -118.1954039",No,10,03,Spring
+dog,white,Male,2014-03-19,2017-03-19,normal,stray,otc,2017-03-19,return to owner,FALSE,"33.85754960000001, -118.1954039",No,11,03,Spring
 cat,black,Female,2020-06-26,2020-08-02,under age/weight,stray,otc,2020-08-05,rescue,FALSE,"33.8581828, -118.1953974",No,4,08,Summer
 cat,brown  tabby,Spayed,2020-03-23,2020-06-23,normal,stray,trap,2020-07-30,adoption,FALSE,"33.8627431, -118.1943384",Yes,4,07,Summer
 cat,orange tabby,Neutered,2009-05-16,2023-03-30,injured  mild,stray,otc,2024-01-16,adoption,FALSE,"33.8775178, -118.2025528",Yes,15,01,Winter
@@ -17869,7 +17869,7 @@ dog,black,Female,2016-06-16,2017-06-16,normal,stray,field,2017-06-25,rescue,FALS
 cat,orange,Male,2012-02-03,2024-02-03,injured  severe,stray,otc,2024-02-03,euthanasia,TRUE,"33.8432094, -118.1818686",No,13,02,Winter
 cat,gray,Male,2021-08-28,2021-10-28,under age/weight,stray,otc,2021-11-09,rescue,FALSE,"33.7789829, -118.1879927",No,3,11,Fall
 bird,black,Unknown,2019-02-08,2021-02-08,ill moderatete,wildlife,field,2021-02-08,transfer,FALSE,"33.778962, -118.1502333",No,6,02,Winter
-dog,brown,Neutered,2020-03-17,2021-12-19,normal,owner surrender,otc,2022-06-11,adoption,FALSE,"33.77897910000001, -118.1892889",Yes,4,06,Summer
+dog,brown,Neutered,2020-03-17,2021-12-19,normal,owner surrender,otc,2022-06-11,adoption,FALSE,"33.77897910000001, -118.1892889",Yes,5,06,Summer
 cat,gray,Spayed,2019-06-20,2022-04-21,normal,stray,otc,2023-01-17,rescue,FALSE,"33.7789712, -118.1745633",No,5,01,Winter
 cat,gray,Male,2023-09-05,2023-09-08,under age/weight,stray,otc,2023-09-08,euthanasia,TRUE,"33.7789718, -118.1817845",No,1,09,Fall
 cat,black,Female,2023-09-05,2023-09-08,under age/weight,stray,otc,2023-09-08,euthanasia,TRUE,"33.7789718, -118.1817845",No,1,09,Fall
@@ -17936,8 +17936,8 @@ dog,brown,Female,2020-05-30,2023-05-30,normal,welfare seized,hospital,2023-06-03
 dog,black,Male,2015-03-04,2017-03-04,normal,owner surrender,otc,2017-03-04,return to owner,FALSE,"33.8087643, -118.0728159",No,10,03,Spring
 cat,black,Male,2018-02-23,2018-06-23,normal,stray,otc,2018-07-04,transfer,FALSE,"33.808574, -118.0757121",No,7,07,Summer
 cat,orange tabby,Neutered,2015-05-15,2024-05-15,ill severe,stray,field,2024-06-07,community cat,FALSE,"33.807897, -118.0658768",No,9,06,Summer
-cat,tortie dilute,Female,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8839422, -118.1067168",No,0,04,Spring
-cat,tortie dilute,Female,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8839422, -118.1067168",No,0,04,Spring
+cat,tortie dilute,Female,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8839422, -118.1067168",No,1,04,Spring
+cat,tortie dilute,Female,2024-03-16,2024-04-25,under age/weight,stray,otc,2024-04-26,rescue,FALSE,"33.8839422, -118.1067168",No,1,04,Spring
 cat,seal point,Female,2019-04-27,2019-06-27,normal,stray,otc,2019-06-30,adoption,FALSE,"33.8797998, -118.1020948",Yes,5,06,Summer
 cat,black,Female,2017-05-28,2017-06-28,under age/weight,stray,otc,2017-07-01,rescue,FALSE,"33.8085049, -118.0760312",No,7,07,Summer
 cat,black,Male,2018-06-30,2018-07-06,under age/weight,stray,otc,2018-07-06,rescue,FALSE,"33.7802306, -118.1554677",No,6,07,Summer
@@ -18277,8 +18277,8 @@ dog,tan,Male,2024-03-27,2024-05-08,under age/weight,stray,otc,2024-05-09,rescue,
 dog,tan,Female,2022-05-08,2024-05-08,normal,stray,otc,2024-05-12,rescue,FALSE,"33.7815311, -118.1977281",No,2,05,Spring
 cat,black,Male,2017-10-20,2017-12-20,ill severe,stray,field,2018-02-08,rescue,FALSE,"33.7815311, -118.1977281",No,7,02,Winter
 cat,gray,Female,2018-10-25,2018-11-25,under age/weight,stray,field,2018-11-27,transfer,FALSE,"33.781816, -118.17468",No,6,11,Fall
-cat,black,Male,2019-03-18,2019-03-30,fractious,stray,trap,2019-05-11,rescue,FALSE,"33.781816, -118.17468",No,5,05,Spring
-cat,gray tabby,Female,2019-03-18,2019-03-30,fractious,stray,trap,2019-05-11,rescue,FALSE,"33.781816, -118.17468",No,5,05,Spring
+cat,black,Male,2019-03-18,2019-03-30,fractious,stray,trap,2019-05-11,rescue,FALSE,"33.781816, -118.17468",No,6,05,Spring
+cat,gray tabby,Female,2019-03-18,2019-03-30,fractious,stray,trap,2019-05-11,rescue,FALSE,"33.781816, -118.17468",No,6,05,Spring
 cat,calico,Female,2017-08-26,2017-09-26,under age/weight,stray,field,2017-10-20,rescue,FALSE,"33.781816, -118.17468",No,7,10,Fall
 cat,orange tabby,Neutered,2023-07-10,2023-08-25,under age/weight,stray,otc,2023-08-26,rescue,FALSE,"33.7816743, -118.1806992",No,1,08,Summer
 dog,brown,Neutered,2020-03-03,2020-09-02,normal,welfare seized,police,2020-09-23,adoption,FALSE,"33.7816743, -118.1806992",Yes,5,09,Fall
@@ -18454,7 +18454,7 @@ dog,white,Male,2016-02-15,2017-02-24,normal,confiscate,police,2017-03-01,return 
 cat,brown  tabby,Spayed,2017-08-28,2018-03-28,normal,stray,trap,2018-05-03,died,TRUE,"33.7464417, -118.1920306",No,7,05,Spring
 cat,gray,Male,2017-08-15,2017-10-15,normal,stray,otc,2017-11-19,adoption,FALSE,"33.8618635, -118.057257",Yes,7,11,Fall
 dog,black,Spayed,2023-07-01,2023-12-01,normal,stray,otc,2023-12-07,adoption,FALSE,"33.8731398, -118.0580159",Yes,1,12,Winter
-cat,black,Unknown,2017-03-18,2017-03-22,under age/weight,stray,field,2017-03-22,rescue,FALSE,"33.863295, -118.0565802",No,7,03,Spring
+cat,black,Unknown,2017-03-18,2017-03-22,under age/weight,stray,field,2017-03-22,rescue,FALSE,"33.863295, -118.0565802",No,8,03,Spring
 cat,black,Unknown,2017-05-07,2017-05-11,under age/weight,stray,field,2017-05-11,euthanasia,TRUE,"33.863295, -118.0565802",No,7,05,Spring
 cat,white,Unknown,2017-05-07,2017-05-11,under age/weight,stray,field,2017-05-11,euthanasia,TRUE,"33.863295, -118.0565802",No,7,05,Spring
 cat,black,Neutered,2016-05-11,2017-05-11,feral,stray,field,2017-05-18,"shelter, neuter, return",FALSE,"33.863295, -118.0565802",No,8,05,Spring
@@ -18896,7 +18896,7 @@ cat,brown  tabby,Male,2024-07-15,2024-07-26,under age/weight,stray,otc,2024-07-2
 cat,black,Neutered,2009-02-15,2023-02-15,injured  severe,stray,field,2023-02-15,euthanasia,TRUE,"33.7845585, -118.1369873",No,16,02,Winter
 cat,black,Neutered,2014-07-15,2023-08-13,injured  severe,stray,otc,2023-08-13,euthanasia,TRUE,"33.7845827, -118.1587358",No,10,08,Summer
 bird,gray,Unknown,2018-05-21,2019-05-21,injured  moderate,wildlife,field,2019-05-21,euthanasia,TRUE,"33.784032, -118.2134117",No,6,05,Spring
-dog,brown,Male,2024-03-16,2024-07-16,normal,stray,otc,2024-07-17,return to owner,FALSE,"33.7839237, -118.1993959",No,0,07,Summer
+dog,brown,Male,2024-03-16,2024-07-16,normal,stray,otc,2024-07-17,return to owner,FALSE,"33.7839237, -118.1993959",No,1,07,Summer
 cat,calico,Female,2019-07-08,2019-09-08,normal,stray,otc,2019-09-16,rescue,FALSE,"33.7880565, -118.1741938",No,5,09,Fall
 cat,gray,Neutered,2016-04-27,2019-04-27,fractious,stray,trap,2019-05-07,"shelter, neuter, return",FALSE,"33.7930829, -118.1737958",No,8,05,Spring
 cat,black,Female,2017-05-28,2017-07-28,normal,stray,otc,2017-08-11,adoption,FALSE,"33.8503079, -118.1747327",Yes,7,08,Summer
@@ -19161,7 +19161,7 @@ cat,black,Neutered,2023-07-29,2024-07-29,injured  mild,stray,field,2024-08-03,co
 cat,black,Neutered,2023-10-04,2024-12-14,normal,owner surrender,otc,2024-12-18,adoption,FALSE,"33.7869216, -118.167336",Yes,1,12,Winter
 dog,fawn,Spayed,2016-08-09,2023-08-09,normal,stray,otc,2023-08-26,adoption,FALSE,"33.8673834, -118.1735275",Yes,8,08,Summer
 cat,gray,Female,2024-06-09,2024-06-24,ill mild,stray,field,2024-07-31,rescue,FALSE,"33.787219, -118.176166",No,0,07,Summer
-rabbit,black,Spayed,2023-03-17,2024-05-17,normal,owner surrender,otc,2024-05-17,rescue,FALSE,"33.7106594, -117.8301865",No,1,05,Spring
+rabbit,black,Spayed,2023-03-17,2024-05-17,normal,owner surrender,otc,2024-05-17,rescue,FALSE,"33.7106594, -117.8301865",No,2,05,Spring
 rabbit,white,Neutered,2023-02-18,2024-05-17,normal,owner surrender,otc,2024-05-18,rescue,FALSE,"33.7106594, -117.8301865",No,2,05,Spring
 cat,gray tabby,Neutered,2023-06-14,2023-07-06,under age/weight,stray,otc,2023-08-09,adoption,FALSE,"33.7800888, -118.2140039",Yes,1,08,Summer
 wild,pink,Unknown,2019-03-16,2019-03-16,under age/weight,wildlife,field,2019-03-16,euthanasia,TRUE,"33.7869216, -118.167336",No,6,03,Spring
@@ -19437,7 +19437,7 @@ dog,tan,Female,2020-02-08,2020-05-08,normal,stray,field,2020-05-14,adoption,FALS
 dog,gray,Female,2021-03-04,2023-03-04,normal,stray,field,2023-03-08,return to owner,FALSE,"33.7883474, -118.1452645",No,4,03,Spring
 cat,black,Neutered,2018-03-26,2018-08-22,normal,stray,trap,2018-08-27,return to rescue,FALSE,"33.7875828, -118.1030354",No,6,08,Summer
 dog,black,Neutered,2008-10-30,2018-10-30,normal,stray,field,2018-11-07,return to owner,FALSE,"33.7824214, -118.2161996",No,16,11,Fall
-cat,gray,Male,2023-03-17,2023-04-23,normal,stray,otc,2023-04-29,rescue,FALSE,"33.81080120000001, -118.2155321",No,1,04,Spring
+cat,gray,Male,2023-03-17,2023-04-23,normal,stray,otc,2023-04-29,rescue,FALSE,"33.81080120000001, -118.2155321",No,2,04,Spring
 cat,gray,Unknown,2020-07-29,2020-07-31,under age/weight,stray,field,2020-07-31,rescue,FALSE,"33.8193312, -118.2155407",No,4,07,Summer
 dog,brown,Neutered,2012-12-22,2020-12-06,injured  moderate,stray,field,2020-12-06,return to owner,FALSE,"33.7881471, -118.1718914",No,12,12,Winter
 dog,tan,Spayed,2004-07-15,2017-01-11,normal,owner surrender,otc,2017-02-11,transport,FALSE,"33.8744104, -118.0781883",No,20,02,Winter
@@ -19680,7 +19680,7 @@ bird,brown,Unknown,2020-09-08,2022-09-08,injured  mild,wildlife,field,2022-09-08
 dog,brown,Female,2018-10-15,2019-10-15,normal,stray,field,2019-10-23,transfer,FALSE,"33.8659087, -118.0637991",No,6,10,Fall
 dog,brown,Neutered,2003-09-01,2019-05-08,aged,stray,field,2019-05-09,return to owner,FALSE,"33.8648938, -118.0542072",No,21,05,Spring
 dog,tan,Male,2014-04-13,2017-04-13,normal,stray,otc,2017-04-19,transfer,FALSE,"33.8639065, -118.0914538",No,10,04,Spring
-cat,black,Spayed,2001-03-22,2017-03-22,normal,owner surrender,otc,2017-04-06,adoption,FALSE,"33.8640043, -118.1014941",Yes,23,04,Spring
+cat,black,Spayed,2001-03-22,2017-03-22,normal,owner surrender,otc,2017-04-06,adoption,FALSE,"33.8640043, -118.1014941",Yes,24,04,Spring
 dog,white,Female,2016-04-12,2018-04-12,normal,stray,field,2018-04-19,transfer,FALSE,"33.8636461, -118.10464",No,8,04,Spring
 cat,seal point,Neutered,2023-04-16,2023-07-16,normal,stray,field,2023-07-22,rescue,FALSE,"33.8631745, -118.0614887",No,1,07,Summer
 cat,black,Female,2017-06-22,2017-12-22,ill severe,stray,field,2017-12-22,euthanasia,TRUE,"33.8618217, -118.0610146",No,7,12,Winter
@@ -19870,7 +19870,7 @@ cat,calico,Female,2019-05-10,2019-05-18,under age/weight,stray,trap,2019-06-09,d
 cat,tortie,Female,2019-06-10,2019-08-10,normal,stray,otc,2019-09-06,rescue,FALSE,"33.8529966, -118.0815098",No,5,09,Fall
 cat,brown  tabby,Male,2019-03-16,2019-07-16,normal,stray,otc,2019-07-19,transfer,FALSE,"33.85819499999999, -118.0908586",No,6,07,Summer
 cat,orange tabby,Neutered,2024-04-01,2024-05-12,under age/weight,stray,otc,2024-06-11,rescue,FALSE,"33.858243, -118.0747467",No,0,06,Summer
-cat,brown  tabby,Female,2017-03-18,2017-05-18,normal,stray,otc,2017-05-26,adoption,FALSE,"33.8582345, -118.0738803",Yes,7,05,Spring
+cat,brown  tabby,Female,2017-03-18,2017-05-18,normal,stray,otc,2017-05-26,adoption,FALSE,"33.8582345, -118.0738803",Yes,8,05,Spring
 cat,black,Male,2018-09-15,2018-10-31,under age/weight,owner surrender,otc,2018-11-03,rescue,FALSE,"33.8543616, -118.0682701",No,6,11,Fall
 cat,white,Male,2018-09-15,2018-10-31,under age/weight,owner surrender,otc,2018-11-03,rescue,FALSE,"33.8543616, -118.0682701",No,6,11,Fall
 cat,white,Male,2023-04-15,2023-06-03,normal,stray,otc,2023-06-10,adoption,FALSE,"33.8566503, -118.0878275",Yes,1,06,Summer
@@ -20260,7 +20260,7 @@ rabbit,white,Neutered,2023-06-27,2024-06-27,normal,stray,otc,2024-07-20,rescue,F
 cat,brown  tabby,Unknown,2023-07-06,2023-07-12,under age/weight,stray,field,2023-07-12,euthanasia,TRUE,"33.7935031, -118.1828539",No,1,07,Summer
 cat,gray,Neutered,2023-11-07,2024-01-25,normal,stray,otc,2024-01-31,adoption,FALSE,"33.7935031, -118.1828539",Yes,1,01,Winter
 dog,red,Neutered,2022-11-08,2024-05-08,normal,stray,otc,2024-06-18,rescue,FALSE,"33.7935031, -118.1828539",No,2,06,Summer
-cat,brown  tabby,Male,2016-03-18,2024-03-18,ill severe,stray,field,2024-03-18,euthanasia,TRUE,"33.7935031, -118.1828539",No,8,03,Spring
+cat,brown  tabby,Male,2016-03-18,2024-03-18,ill severe,stray,field,2024-03-18,euthanasia,TRUE,"33.7935031, -118.1828539",No,9,03,Spring
 cat,orange tabby,Neutered,2024-05-01,2024-07-31,ill moderatete,stray,otc,2024-09-18,adoption,FALSE,"33.7935031, -118.1828539",Yes,0,09,Fall
 cat,black,Spayed,2024-08-29,2024-09-29,i/i report,stray,field,2024-12-26,adoption,FALSE,"33.7935031, -118.1828539",Yes,0,12,Winter
 dog,white,Spayed,2021-02-15,2021-06-15,normal,stray,field,2021-06-26,adoption,FALSE,"33.7935031, -118.1828539",Yes,4,06,Summer
@@ -21161,7 +21161,7 @@ dog,gray,Male,2015-11-27,2017-05-27,normal,owner surrender,otc,2017-06-10,adopti
 cat,calico,Spayed,2014-11-22,2019-11-22,normal,stray,otc,2020-01-02,transfer,FALSE,"33.7905378, -118.1600115",No,10,01,Winter
 dog,brown,Spayed,2009-10-23,2018-01-12,normal,owner surrender,otc,2018-01-13,transfer,FALSE,"33.8053202, -118.1158011",No,15,01,Winter
 cat,black smoke,Male,2017-04-09,2017-06-03,under age/weight,stray,otc,2017-06-09,rescue,FALSE,"33.804991, -118.1218397",No,7,06,Summer
-cat,orange tabby,Neutered,2021-03-17,2023-03-15,normal,stray,otc,2023-03-23,adoption,FALSE,"33.8063744, -118.2020748",Yes,3,03,Spring
+cat,orange tabby,Neutered,2021-03-17,2023-03-15,normal,stray,otc,2023-03-23,adoption,FALSE,"33.8063744, -118.2020748",Yes,4,03,Spring
 dog,black,Female,2022-04-10,2023-04-10,normal,stray,otc,2023-04-26,rescue,FALSE,"33.8052063, -118.0990898",No,2,04,Spring
 rabbit,brown,Unknown,2020-03-31,2021-03-31,injured  severe,wildlife,otc,2021-03-31,euthanasia,TRUE,"33.8052063, -118.0990898",No,4,03,Spring
 dog,black,Female,2012-09-13,2017-09-13,normal,stray,otc,2017-09-20,transfer,FALSE,"33.806198, -118.193705",No,12,09,Fall
@@ -21474,7 +21474,7 @@ cat,black,Male,2017-10-10,2017-11-16,under age/weight,stray,field,2017-11-29,res
 dog,black,Spayed,2022-12-21,2023-12-21,normal,stray,otc,2023-12-28,adoption,FALSE,"33.7837074, -118.1950823",Yes,2,12,Winter
 dog,gray,Male,2016-08-16,2020-08-16,normal,owner surrender,field,2020-08-17,euthanasia,TRUE,"33.7837074, -118.1950823",No,8,08,Summer
 dog,black,Neutered,2023-11-03,2024-08-08,i/i report,stray,field,2024-10-12,adoption,FALSE,"33.7861145, -118.1952221",Yes,1,10,Fall
-dog,white,Neutered,2015-03-19,2021-08-18,normal,welfare seized,eviction,2021-08-19,return to owner,FALSE,"33.7880509, -118.1950967",No,9,08,Summer
+dog,white,Neutered,2015-03-19,2021-08-18,normal,welfare seized,eviction,2021-08-19,return to owner,FALSE,"33.7880509, -118.1950967",No,10,08,Summer
 dog,gray,Male,2019-05-07,2020-05-07,normal,stray,field,2020-05-14,rescue,FALSE,"33.7934772, -118.1950871",No,5,05,Spring
 dog,black,Male,2019-09-09,2021-09-09,normal,stray,otc,2021-09-10,return to owner,FALSE,"33.7989405, -118.1953136",No,5,09,Fall
 dog,brown,Male,2017-07-10,2020-01-10,normal,owner surrender,otc,2020-01-11,transfer,FALSE,"33.7717154, -118.1950828",No,7,01,Winter
@@ -21540,7 +21540,7 @@ cat,tan,Spayed,2014-03-11,2017-03-11,normal,stray,otc,2017-04-30,adoption,FALSE,
 dog,white,Male,2018-11-01,2019-11-01,normal,stray,field,2019-11-02,return to owner,FALSE,"33.7670817, -118.1136623",No,6,11,Fall
 bird,black,Unknown,2019-06-22,2020-06-22,injured  severe,wildlife,field,2020-06-22,transfer,FALSE,"33.7680881, -118.1567774",No,5,06,Summer
 dog,tan,Female,2015-04-13,2018-04-13,injured  mild,stray,field,2018-04-18,return to owner,FALSE,"33.769888, -118.1306913",No,9,04,Spring
-other,pink,Unknown,2019-03-18,2019-03-18,under age/weight,wildlife,field,2019-03-18,euthanasia,TRUE,"33.7680942, -118.1372048",No,5,03,Spring
+other,pink,Unknown,2019-03-18,2019-03-18,under age/weight,wildlife,field,2019-03-18,euthanasia,TRUE,"33.7680942, -118.1372048",No,6,03,Spring
 cat,orange,Neutered,2012-05-12,2019-05-12,ill moderatete,stray,field,2019-07-03,adoption,FALSE,"33.7680909, -118.1404846",Yes,12,07,Summer
 dog,black,Male,2012-02-19,2017-02-19,normal,stray,field,2017-03-16,rescue,FALSE,"33.7682329, -118.1586802",No,13,03,Spring
 cat,red,Female,2011-04-12,2017-04-12,normal,owner surrender,otc,2017-04-29,transfer,FALSE,"33.7682376, -118.1465474",No,13,04,Spring
@@ -22236,7 +22236,7 @@ cat,black,Neutered,2014-01-11,2023-01-12,normal,owner surrender,otc,2023-02-09,a
 cat,orange tabby,Neutered,2022-05-11,2022-06-22,normal,stray,otc,2022-11-02,adoption,FALSE,"33.8242212, -118.1943313",Yes,2,11,Fall
 cat,brown  tabby,Female,2022-05-11,2022-06-22,normal,stray,otc,2023-03-24,adoption,FALSE,"33.8242212, -118.1943313",Yes,2,03,Spring
 cat,blue,Spayed,2014-09-11,2021-09-11,normal,owner surrender,otc,2021-10-08,adoption,FALSE,"33.8250363, -118.1138571",Yes,10,10,Fall
-wild,gray,Unknown,2022-03-17,2022-04-01,ill severe,wildlife,field,2022-04-01,euthanasia,TRUE,"33.8250363, -118.1138571",No,2,04,Spring
+wild,gray,Unknown,2022-03-17,2022-04-01,ill severe,wildlife,field,2022-04-01,euthanasia,TRUE,"33.8250363, -118.1138571",No,3,04,Spring
 cat,brown  tabby,Unknown,2019-09-23,2019-09-26,under age/weight,stray,otc,2019-10-05,rescue,FALSE,"33.8250322, -118.1112956",No,5,10,Fall
 cat,white,Unknown,2019-09-23,2019-09-26,under age/weight,stray,otc,2019-10-05,rescue,FALSE,"33.8250322, -118.1112956",No,5,10,Fall
 cat,orange tabby,Neutered,2022-10-26,2022-10-26,normal,stray,otc,2023-01-04,adoption,FALSE,"33.8596883, -118.1482913",Yes,2,01,Winter
@@ -22721,7 +22721,7 @@ dog,black,Spayed,2015-12-20,2020-12-20,normal,owner surrender,otc,2021-01-17,ado
 dog,black,Male,2018-08-19,2019-08-19,normal,stray,field,2019-08-19,return to owner,FALSE,"33.8017193, -118.0592868",No,6,08,Summer
 cat,orange tabby,Neutered,2021-09-01,2022-03-01,normal,owner surrender,otc,2022-06-30,euthanasia,TRUE,"33.8328853, -118.1847999",No,3,06,Summer
 cat,black,Male,2021-09-01,2022-03-01,normal,owner surrender,otc,2022-03-03,rescue,FALSE,"33.8328853, -118.1847999",No,3,03,Spring
-cat,gray,Neutered,2012-03-19,2017-03-19,feral,owner surrender,otc,2017-04-13,rescue,FALSE,"33.8291312, -118.1873566",No,12,04,Spring
+cat,gray,Neutered,2012-03-19,2017-03-19,feral,owner surrender,otc,2017-04-13,rescue,FALSE,"33.8291312, -118.1873566",No,13,04,Spring
 dog,black,Female,2017-03-10,2018-03-10,normal,owner surrender,otc,2018-03-10,transfer,FALSE,"33.834476, -118.1846659",No,8,03,Spring
 dog,white,Neutered,2014-02-24,2017-02-24,normal,owner surrender,otc,2017-03-08,rescue,FALSE,"33.8360293, -118.17455",No,11,03,Spring
 cat,gray tabby,Male,2017-04-09,2017-06-09,normal,owner surrender,otc,2017-06-17,return to owner,FALSE,"33.8361372, -118.133837",No,7,06,Summer
@@ -22744,7 +22744,7 @@ cat,orange,Male,2018-06-22,2018-07-22,ill severe,stray,field,2018-07-22,euthanas
 bird,brown,Unknown,2020-10-11,2021-01-11,injured  moderate,wildlife,field,2021-01-11,transfer,FALSE,"33.757014, -118.143047",No,4,01,Winter
 cat,brown,Female,2007-02-24,2017-02-24,normal,owner surrender,otc,2017-02-24,disposal,FALSE,"33.7705437, -118.142476",No,18,02,Winter
 cat,calico tabby,Spayed,2019-10-18,2020-10-20,normal,return,rtf,2020-10-26,"shelter, neuter, return",FALSE,"33.83616689999999, -118.1382272",No,5,10,Fall
-dog,white,Neutered,2021-03-17,2022-03-17,normal,owner surrender,otc,2022-03-17,transfer,FALSE,"33.8361439, -118.1736079",No,3,03,Spring
+dog,white,Neutered,2021-03-17,2022-03-17,normal,owner surrender,otc,2022-03-17,transfer,FALSE,"33.8361439, -118.1736079",No,4,03,Spring
 dog,blue,Neutered,2014-03-05,2019-01-05,normal,owner surrender,otc,2019-12-22,rescue,FALSE,"33.8361324, -118.1262791",No,11,12,Winter
 dog,brown,Neutered,2019-04-20,2020-01-26,behavior  moderate,return,adoption,2020-04-15,rescue,FALSE,"33.8361286, -118.1183401",No,5,04,Spring
 cat,orange tabby,Male,2020-07-06,2021-01-02,normal,stray,otc,2021-01-07,rescue,FALSE,"33.7721394, -118.1973428",No,4,01,Winter
@@ -23219,8 +23219,8 @@ cat,calico dilute,Female,2020-03-21,2021-03-24,normal,stray,otc,2021-03-24,rescu
 rabbit,black,Neutered,2016-11-25,2018-11-25,normal,stray,otc,2019-01-02,adoption,FALSE,"33.8470969, -118.176518",Yes,8,01,Winter
 cat,point,Male,2020-05-24,2020-10-24,injured  severe,stray,otc,2020-10-24,euthanasia,TRUE,"33.8470969, -118.176518",No,4,10,Fall
 dog,tan,Female,2021-12-09,2022-03-09,normal,stray,otc,2022-03-16,adoption,FALSE,"33.8470969, -118.176518",Yes,3,03,Spring
-cat,white,Unknown,2019-03-18,2019-03-18,under age/weight,stray,field,2019-03-21,transfer,FALSE,"33.8475858, -118.1701562",No,5,03,Spring
-cat,brown  tabby,Female,2018-03-18,2019-03-18,normal,stray,field,2019-03-21,transfer,FALSE,"33.8475858, -118.1701562",No,6,03,Spring
+cat,white,Unknown,2019-03-18,2019-03-18,under age/weight,stray,field,2019-03-21,transfer,FALSE,"33.8475858, -118.1701562",No,6,03,Spring
+cat,brown  tabby,Female,2018-03-18,2019-03-18,normal,stray,field,2019-03-21,transfer,FALSE,"33.8475858, -118.1701562",No,7,03,Spring
 dog,tan,Spayed,2008-03-05,2020-03-05,aged,stray,otc,2020-03-18,foster to adopt,FALSE,"33.84682650000001, -118.1967125",Yes,17,03,Spring
 dog,gray,Neutered,2023-05-28,2024-03-01,normal,owner surrender,otc,2024-03-13,adoption,FALSE,"33.8463239, -118.1717798",Yes,1,03,Spring
 cat,white,Neutered,2019-09-05,2019-10-05,under age/weight,stray,otc,2020-01-18,adoption,FALSE,"33.8480235, -118.1716295",Yes,5,01,Winter
@@ -23384,7 +23384,7 @@ cat,gray tabby,Male,2019-01-10,2019-07-10,normal,stray,otc,2019-07-13,transfer,F
 wild,gray,Unknown,2017-05-14,2017-07-14,under age/weight,wildlife,field,2017-07-14,euthanasia,TRUE,"33.85436370000001, -118.180992",No,7,07,Summer
 dog,black,Neutered,2009-04-01,2019-01-09,injured  severe,stray,field,2019-01-09,return to owner,FALSE,"33.85436370000001, -118.180992",No,15,01,Winter
 dog,black,Female,2013-11-01,2020-11-01,normal,owner surrender,otc,2020-12-04,rescue,FALSE,"33.85436370000001, -118.180992",No,11,12,Winter
-cat,black,Spayed,2022-03-17,2023-03-17,normal,owner surrender,otc,2023-06-10,adoption,FALSE,"33.8243264, -118.1274214",Yes,2,06,Summer
+cat,black,Spayed,2022-03-17,2023-03-17,normal,owner surrender,otc,2023-06-10,adoption,FALSE,"33.8243264, -118.1274214",Yes,3,06,Summer
 dog,black,Female,2021-03-27,2023-03-27,normal,stray,field,2023-04-13,adoption,FALSE,"33.8546916, -118.1668488",Yes,3,04,Spring
 cat,orange,Male,2016-11-28,2018-11-28,normal,stray,field,2018-12-07,transfer,FALSE,"33.8542884, -118.194809",No,8,12,Winter
 dog,white,Female,2010-08-09,2018-08-09,ill moderatete,stray,field,2018-08-09,euthanasia,TRUE,"33.8088798, -118.1283178",No,14,08,Summer
@@ -23558,8 +23558,8 @@ cat,brown  tabby,Female,2023-04-09,2023-04-05,under age/weight,stray,otc,2023-04
 cat,brown  tabby,Female,2023-04-09,2023-04-05,under age/weight,stray,otc,2023-04-10,rescue,FALSE,"33.85811899999999, -118.1976086",No,1,04,Spring
 cat,brown  tabby,Male,2023-04-09,2023-04-05,under age/weight,stray,otc,2023-04-10,rescue,FALSE,"33.85811899999999, -118.1976086",No,1,04,Spring
 dog,black,Female,2019-01-03,2019-05-03,normal,stray,field,2019-05-09,transfer,FALSE,"33.858271, -118.1799079",No,6,05,Spring
-cat,black,Male,2018-03-18,2018-05-18,normal,owner surrender,otc,2018-05-19,rescue,FALSE,"33.858271, -118.1799079",No,6,05,Spring
-cat,black,Male,2018-03-18,2018-05-18,normal,owner surrender,otc,2018-05-19,rescue,FALSE,"33.858271, -118.1799079",No,6,05,Spring
+cat,black,Male,2018-03-18,2018-05-18,normal,owner surrender,otc,2018-05-19,rescue,FALSE,"33.858271, -118.1799079",No,7,05,Spring
+cat,black,Male,2018-03-18,2018-05-18,normal,owner surrender,otc,2018-05-19,rescue,FALSE,"33.858271, -118.1799079",No,7,05,Spring
 cat,tortie,Spayed,2022-07-21,2022-08-05,ill mild,stray,otc,2022-08-06,rescue,FALSE,"33.8583996, -118.1856923",No,2,08,Summer
 dog,black,Spayed,2023-07-07,2023-11-20,under age/weight,welfare seized,eviction,2023-12-13,adoption,FALSE,"33.8579948, -118.1617754",Yes,1,12,Winter
 dog,tan,Male,2013-01-29,2017-01-29,normal,owner surrender,otc,2017-02-07,euthanasia,TRUE,"33.8593577, -118.1807901",No,12,02,Winter
@@ -24342,7 +24342,7 @@ cat,black,Neutered,2022-05-04,2022-08-04,normal,stray,otc,2022-11-02,adoption,FA
 cat,black,Spayed,2020-08-04,2022-08-04,normal,stray,otc,2023-06-11,rescue,FALSE,"33.8782002, -118.1859479",No,4,06,Summer
 cat,black,Spayed,2022-05-04,2022-08-04,normal,stray,otc,2022-12-02,adoption,FALSE,"33.8782002, -118.1859479",Yes,2,12,Winter
 rabbit,white,Spayed,2020-12-23,2021-09-15,normal,owner surrender,field,2021-11-05,rescue,FALSE,"33.8778066, -118.1939325",No,4,11,Fall
-cat,brown  tabby,Female,2019-03-18,2019-07-19,normal,stray,otc,2019-07-19,transfer,FALSE,"33.8778066, -118.1939325",No,5,07,Summer
+cat,brown  tabby,Female,2019-03-18,2019-07-19,normal,stray,otc,2019-07-19,transfer,FALSE,"33.8778066, -118.1939325",No,6,07,Summer
 cat,orange tabby,Unknown,2023-05-21,2024-05-21,injured  severe,stray,field,2024-05-21,euthanasia,TRUE,"33.8785585, -118.1959352",No,1,05,Spring
 dog,blue brindle,Female,2022-02-09,2024-05-15,injured  severe,stray,field,2024-05-17,return to owner,FALSE,"33.877728, -118.1969591",No,3,05,Spring
 dog,gray,Spayed,2022-10-11,2023-01-11,normal,stray,otc,2023-01-15,adoption,FALSE,"33.8640647, -118.1766294",Yes,2,01,Winter
@@ -24568,7 +24568,7 @@ cat,tortie,Female,2018-07-19,2018-10-19,normal,stray,otc,2018-11-02,transfer,FAL
 dog,tan,Female,2017-08-17,2018-08-17,normal,stray,field,2018-08-19,return to owner,FALSE,"33.7754929, -118.1283023",No,7,08,Summer
 cat,calico tabby,Female,2017-06-18,2017-07-02,under age/weight,stray,otc,2017-07-15,rescue,FALSE,"33.8820082, -118.1855641",No,7,07,Summer
 cat,calico tabby,Female,2017-06-18,2017-07-02,under age/weight,stray,otc,2017-07-15,rescue,FALSE,"33.8820082, -118.1855641",No,7,07,Summer
-cat,brown  tabby,Neutered,2019-03-18,2019-10-18,ill severe,stray,field,2020-02-14,adoption,FALSE,"33.8820082, -118.1855641",Yes,5,02,Winter
+cat,brown  tabby,Neutered,2019-03-18,2019-10-18,ill severe,stray,field,2020-02-14,adoption,FALSE,"33.8820082, -118.1855641",Yes,6,02,Winter
 dog,black,Spayed,2016-02-13,2024-04-21,normal,return,adoption,2024-04-27,adoption,FALSE,"33.8577894, -117.9971962",Yes,9,04,Spring
 cat,cream tabby,Male,2020-10-04,2020-10-25,under age/weight,stray,otc,2020-10-26,rescue,FALSE,"33.8288416, -118.0896661",No,4,10,Fall
 cat,blue lynx point,Neutered,2019-06-05,2019-07-05,under age/weight,stray,otc,2019-08-24,foster to adopt,FALSE,"33.8288416, -118.0896661",Yes,5,08,Summer
@@ -24740,7 +24740,7 @@ dog,brown,Male,2016-03-29,2019-03-29,normal,stray,otc,2019-04-04,transfer,FALSE,
 dog,brown brindle,Female,2022-11-27,2024-11-23,normal,stray,field,2024-11-27,return to owner,FALSE,"33.8267376, -118.0841995",No,2,11,Fall
 dog,tan,Neutered,2022-12-25,2024-06-25,normal,stray,field,2024-07-12,adoption,FALSE,"33.8267376, -118.0841995",Yes,2,07,Summer
 dog,white,Male,2022-09-29,2023-09-29,normal,stray,otc,2023-09-29,return to owner,FALSE,"33.8267376, -118.0841995",No,2,09,Fall
-cat,brown  tabby,Male,2019-03-18,2019-05-18,under age/weight,stray,otc,2019-05-22,rescue,FALSE,"33.8098294, -118.0844223",No,5,05,Spring
+cat,brown  tabby,Male,2019-03-18,2019-05-18,under age/weight,stray,otc,2019-05-22,rescue,FALSE,"33.8098294, -118.0844223",No,6,05,Spring
 cat,gray,Neutered,2022-04-23,2022-09-23,ill moderatete,stray,otc,2022-10-07,community cat,FALSE,"33.8098294, -118.0844223",No,2,10,Fall
 rabbit,white,Neutered,2020-09-24,2021-09-22,normal,stray,otc,2021-10-05,rescue,FALSE,"33.8098294, -118.0844223",No,4,10,Fall
 cat,seal point,Spayed,2016-05-23,2019-05-23,injured  mild,stray,otc,2019-07-18,transfer,FALSE,"33.8098294, -118.0844223",No,8,07,Summer
@@ -24856,7 +24856,7 @@ bird,white,Unknown,2021-08-01,2022-08-20,normal,stray,otc,2022-08-25,missing,FAL
 dog,black,Neutered,2021-08-01,2021-08-01,ill moderatete,stray,born@shelt,2021-09-30,adoption,FALSE,"33.8096122, -118.0826161",Yes,3,09,Fall
 cat,gray tabby,Neutered,2021-07-29,2022-01-15,normal,return,spcala,2022-01-19,adoption,FALSE,"33.8096122, -118.0826161",Yes,3,01,Winter
 rabbit,black,Male,2020-07-10,2020-10-07,normal,stray,otc,2020-11-23,died,TRUE,"33.8096122, -118.0826161",No,4,11,Fall
-cat,black,Male,2022-03-17,2022-03-17,under age/weight,stray,born@shelt,2022-03-19,rescue,FALSE,"33.8096122, -118.0826161",No,2,03,Spring
+cat,black,Male,2022-03-17,2022-03-17,under age/weight,stray,born@shelt,2022-03-19,rescue,FALSE,"33.8096122, -118.0826161",No,3,03,Spring
 bird,gray,Unknown,2024-07-24,2024-08-04,injured  mild,wildlife,field,2024-08-04,euthanasia,TRUE,"33.8096122, -118.0826161",No,0,08,Summer
 cat,gray,Male,2021-03-30,2021-04-21,under age/weight,stray,otc,2021-04-21,rescue,FALSE,"33.8096122, -118.0826161",No,3,04,Spring
 cat,orange,Male,2024-01-27,2024-05-10,normal,confiscate,NA,2024-05-15,return to owner,FALSE,"33.8096122, -118.0826161",No,1,05,Spring
@@ -25202,7 +25202,7 @@ cat,black,Neutered,2019-04-24,2019-06-05,under age/weight,stray,otc,2019-09-01,a
 cat,gray,Female,2017-01-17,2018-01-17,normal,owner surrender,otc,2018-01-18,transfer,FALSE,"33.8487131, -118.1809574",No,8,01,Winter
 cat,black,Male,2017-08-23,2017-10-23,normal,stray,field,2017-10-29,transfer,FALSE,"33.7777601, -118.1876672",No,7,10,Fall
 dog,brown,Female,2014-05-12,2021-05-12,normal,stray,otc,2021-05-30,adoption,FALSE,"33.7779436, -118.1978639",Yes,10,05,Spring
-cat,black,Female,2018-03-18,2018-09-18,normal,stray,field,2018-09-18,transfer,FALSE,"33.7422093, -118.1042003",No,6,09,Fall
+cat,black,Female,2018-03-18,2018-09-18,normal,stray,field,2018-09-18,transfer,FALSE,"33.7422093, -118.1042003",No,7,09,Fall
 wild,brown,Unknown,2018-02-09,2018-03-09,under age/weight,wildlife,field,2018-03-09,transfer,FALSE,"33.7782564, -118.1608626",No,7,03,Spring
 cat,black,Spayed,2017-04-25,2019-04-25,normal,stray,otc,2019-05-24,"shelter, neuter, return",FALSE,"33.7774409, -118.2028305",No,7,05,Spring
 cat,calico,Spayed,2015-12-10,2017-12-10,normal,stray,field,2018-01-06,adoption,FALSE,"33.7774409, -118.2028305",Yes,9,01,Winter
@@ -25681,7 +25681,7 @@ cat,gray,Male,2019-07-19,2019-08-25,under age/weight,stray,field,2019-09-04,resc
 cat,black,Female,2019-07-19,2019-08-25,under age/weight,stray,field,2019-09-04,rescue,FALSE,"33.7753437, -118.19108",No,5,09,Fall
 dog,white,Female,2016-01-18,2018-01-29,normal,stray,otc,2018-01-31,return to owner,FALSE,"33.8543014, -118.189831",No,9,01,Winter
 dog,black,Male,2016-06-07,2019-06-07,normal,stray,otc,2019-06-15,adoption,FALSE,"33.7898494, -118.1910811",Yes,8,06,Summer
-dog,white,Male,2012-03-19,2017-03-19,normal,stray,otc,2017-03-22,return to owner,FALSE,"33.8511525, -118.1898151",No,12,03,Spring
+dog,white,Male,2012-03-19,2017-03-19,normal,stray,otc,2017-03-22,return to owner,FALSE,"33.8511525, -118.1898151",No,13,03,Spring
 dog,black,Male,2015-09-22,2017-09-22,normal,stray,otc,2017-09-28,transfer,FALSE,"33.8134489, -118.1886401",No,9,09,Fall
 cat,black,Male,2023-03-13,2023-04-13,under age/weight,stray,otc,2023-04-13,transfer,FALSE,"33.8065036, -118.1912538",No,2,04,Spring
 dog,brown,Male,2009-05-12,2017-11-19,normal,stray,otc,2017-11-25,return to owner,FALSE,"33.782259, -118.1502323",No,15,11,Fall
