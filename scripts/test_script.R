@@ -1,1 +1,0 @@
-print("R script is running successfully!")
