@@ -1,3 +1,11 @@
+# =======================
+# Makefile for Animal Adoption Analysis
+# This Makefile automates the entire data analysis pipeline.
+# Usage:
+#   - `make all`    : Runs the full pipeline from data download to report generation.
+#   - `make clean`  : Removes generated files to reset the project.
+# =======================
+
 # PHONY targets
 .PHONY: all clean data eda report
 

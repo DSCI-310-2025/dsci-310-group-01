@@ -24,6 +24,8 @@ Our Random Forest classification model achieved an relative high accuracy in pre
 
 
 ## How to Run the Analysis
+
+### Usage
 This project uses a **Docker container** to ensure a reproducible computational environment.
 
 - Clone the Repository and navigate to the root of this project repository and run
@@ -32,7 +34,7 @@ git clone https://github.com/DSCI-310-2025/dsci-310-group-01.git
 cd dsci-310-group-01
 ```
 
-### Option 1:
+#### Option 1:
 - Start the Docker Container
 Ensure Docker Desktop is installed and running. Then, in your terminal run:
 ```sh
@@ -54,7 +56,7 @@ To stop and remove the container, run:
 docker-compose down
 ```
 
-### Option 2:
+#### Option 2:
 - Build the Docker Image after clone the repository
 ```sh
 docker build -t dsci-310-analysis .
@@ -69,7 +71,7 @@ docker run --rm -it -p 8888:8888 -v $(pwd):/home/jovyan/work dsci-310-analysis
 
 - Once in Jupyter Lab, navigate to `analysis.ipynb` and run the notebook to execute the analysis.
 
-### Option 3:
+#### Option 3:
 - After clone the repository, pull from DockerHub:
 ```sh
 docker pull yuwen07/dsci-310-group-01
@@ -78,6 +80,21 @@ docker pull yuwen07/dsci-310-group-01
 docker run --rm -it -p 8888:8888 -v $(pwd):/home/jovyan/work yuwen07/dsci-310-group-01
 ```
 - Then, open a browser and go to http://localhost:8888. to access the Jupyter Lab.
+ ---
+
+### To run the full pipeline
+
+ This project uses a **Makefile** to automate the full analysis pipeline.
+```bash
+make all
+```
+This will: Download the dataset, Clean and preprocess the data, Perform exploratory data analysis (EDA), Train the model, Generate the final report (HTML and PDF)
+
+ ### To clean all generated files
+ ```bash
+ make clean
+ ```
+ This will delete all intermediate and final outputs, resetting the project.
 
 
 ## Dependencies
