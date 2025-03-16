@@ -5,6 +5,7 @@
 all: data/raw/longbeach.csv \
 	data/processed/longbeach_cleaned.csv data/processed/longbeach_transformed.csv \
 	results/tables results/figures \
+	models/longbeach_model.rds \
 	reports/animal_adoption_analysis.html reports/animal_adoption_analysis.pdf
 
 # Step 1: Download raw data
@@ -27,9 +28,9 @@ results/tables results/figures: scripts/03_eda.R data/processed/longbeach_cleane
 
 
 # Step 4: Train model and save results
-models/longbeach_model.rds results/metrics.csv results/figures/feature_importance.png results/figures/confusion_matrix.png: scripts/04_modeling.R data/processed/longbeach_transformed.csv
+models/longbeach_model.rds results/tables/metrics.csv results/figures/feature_importance.png results/figures/confusion_matrix.png: scripts/04_modeling.R data/processed/longbeach_transformed.csv
 	@mkdir -p models results/figures
-	Rscript scripts/04_modeling.R --input=data/processed/longbeach_transformed.csv --output_model=models/longbeach_model.rds --metrics=results/metrics.csv --figures_dir=results/figures
+	Rscript scripts/04_modeling.R --input=data/processed/longbeach_transformed.csv --output_model=models/longbeach_model.rds --metrics=results/tables/metrics.csv --figures_dir=results/figures
 
 # Step 5: Render final report (HTML and PDF)
 reports/animal_adoption_analysis.html reports/animal_adoption_analysis.pdf: reports/animal_adoption_analysis.qmd results/tables results/figures
