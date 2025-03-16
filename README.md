@@ -20,8 +20,7 @@ Our goal is to build a **predictive model** that helps shelters understand what 
 <!-- - **Source:** [City of Long Beach Animal Care Services](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-03-04) -->
 
 ### Key Insights
-The analysis applied a **Random Forest classification model** and found that **age, and sex** are the most influential factors in predicting whether an animal will be adopted. 
-These findings suggest that animal shelters could improve adoption rates by focusing on younger and healthier animals, promoting adoption events during peak seasons, and providing more visibility for animals with medical needs.
+Our Random Forest classification model achieved an relative high accuracy in predicting animal adoption outcomes. The analysis revealed that sex/reproductive status, age, and intake type are the most influential factors in determining whether an animal will be adopted.
 
 
 ## How to Run the Analysis

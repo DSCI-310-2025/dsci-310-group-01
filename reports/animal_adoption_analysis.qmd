@@ -81,7 +81,7 @@ The original dataset consists of `r format(nrow(longbeach), big.mark=",")` recor
 
 #### Key Variables
 
-Below are some of the key variables from the original dataset and are relevant to predicting adoption outcomes:
+Below are some of the key variables from the original dataset that are relevant to predicting adoption outcomes (after removing variables with limited analytical value):
 
 ```{r}
 #| label: tbl-key-variables
@@ -278,43 +278,74 @@ These transformations resulted in a clean, structured dataset with `r nrow(trans
 
 To predict animal adoption outcomes, we developed a classification model following these steps:
 
-#### Data Splitting
+#### Random Forest Classifier
 
-First, we divided our preprocessed dataset into training (80%) and testing (20%) sets using stratified sampling to maintain the same class distribution in both sets:
+We selected a Random Forest model due to its robustness with categorical features and ability to handle non-linear relationships. The model was trained using the following approach:
+
+1. **Train-Test Split**: The dataset was split into 80% training and 20% testing sets using stratified sampling to maintain the same class distribution in both sets.
+2. **Class Balance**: As showns in @fig-adoption-distribution, with only `r round(100 - non_adopted_percentage, 3)`% of animals being adopted. To prevent the model from biasing toward the majority class, we applied downsampling to the training data:
+
+  - The majority class (non-adopted animals) was randomly downsampled to match the number of adopted animals.
+  - This resulted in a balanced training dataset with equal representation of both classes.
+  - The test set was kept in its original distribution to reflect real-world conditions.
+  - This approach ensures the model learns equally from both classes while being evaluated on a realistic data distribution.
+
+3. **Model Parameters**: We used 100 trees (`ntree=100`) and 2 variables sampled at each split (`mtry=2`)
+
+#### Model Performance Evaluation
+
+```{r}
+model_metrics <- read_csv("../results/tables/metrics.csv")
+accuracy <- round(model_metrics$Accuracy * 100, 1)
+sensitivity <- round(model_metrics$Sensitivity * 100, 1)
+specificity <- round(model_metrics$Specificity * 100, 1)
+```
+
+![Confusion matrix showing prediction results for animal adoption](../results/figures/confusion_matrix.png){#fig-confusion-matrix width=75%}
+
+The confusion matrix (@fig-confusion-matrix) visualizes our model's performance on the test dataset. Our Random Forest classifier achieved an overall accuracy of `r accuracy`%. The model demonstrates a sensitivity (true positive rate) of `r sensitivity`%, indicating its ability to correctly identify animals that were actually adopted. The specificity (true negative rate) of `r specificity`% shows the model's effectiveness in identifying animals that were not adopted.
 
 ```{r}
 #| echo: false
-train_test_split <- "The dataset was split with 80% (XX,XXX observations) used for training and 20% (X,XXX observations) for testing."
+# Load confusion matrix summary directly from saved CSV
+conf_matrix_summary <- read_csv("../results/tables/confusion_matrix_summary.csv")
+
+# Extract values from the CSV
+true_positive <- conf_matrix_summary$Count[conf_matrix_summary$Metric == "True Positives"]
+false_negative <- conf_matrix_summary$Count[conf_matrix_summary$Metric == "False Negatives"]
+false_positive <- conf_matrix_summary$Count[conf_matrix_summary$Metric == "False Positives"]
+true_negative <- conf_matrix_summary$Count[conf_matrix_summary$Metric == "True Negatives"]
 ```
 
-#### Handling Class Imbalance Problem
+Looking at the raw counts in the confusion matrix, we can see that out of animals actually adopted (Yes), the model correctly identified `r true_positive` cases while misclassifying `r false_negative` as not adopted. For animals that were not adopted (No), the model correctly identified `r true_negative` cases while misclassifying `r false_positive` as adopted. These results suggest the model performs slightly better at identifying non-adopted animals, which aligns with the class distribution in our original dataset.
 
-Our exploratory analysis revealed a significant class imbalance, as showns in @fig-adoption-distribution, with only `r round(100 - non_adopted_percentage, 3)`% of animals being adopted. To prevent the model from biasing toward the majority class, we applied downsampling to the training data:
+#### Feature Importance
 
-The majority class (non-adopted animals) was randomly downsampled to match the number of adopted animals
-This resulted in a balanced training dataset with equal representation of both classes
-The test set was kept in its original distribution to reflect real-world conditions
+![Feature importance for the Random Forest model](../results/figures/feature_importance.png){#fig-feature-importance width=70%}
 
-This approach ensures the model learns equally from both classes while being evaluated on a realistic data distribution.
+@fig-feature-importance reveals the relative importance of each feature in predicting adoption outcomes. The most influential factors in determining whether an animal will be adopted are:
 
+1. Sex - The animal's sex and reproductive status (neutered/spayed) emerged as the most important predictor.
+2. Age - Younger animals show significantly higher adoption rates.
+3. Intake type - How an animal arrived at the shelter (stray, owner surrender, etc.) substantially affects adoption outcomes.
+4. Animal type - Different species have varying adoption rates.
+5. Season - Time of year shows a modest effect on adoption probability.
+6. Intake condition - The animal's health status when entering the shelter influences adoption likelihood.
 
+This feature ranking provides valuable insights for shelter management, suggesting that factors like **sex** and **age** are particularly important considerations when developing targeted adoption strategies.
 
-### **Random Forest Classifier**
-
-....
-
-#### 
 
 ### Discussion
 
-Our analysis of the Long Beach Animal Shelter data provides several key insights into factors influencing animal adoption:
-
-...
+Our analysis of the Long Beach Animal Shelter data revealed that sex/reproductive status, age, and intake type are the most influential factors in animal adoption outcomes. The strong influence of sex suggests that spay/neuter status significantly impacts adoption decisions, while the consistent preference for younger animals presents an ongoing challenge for shelters placing older pets. Additionally, the manner in which animals enter the shelter affects their adoption prospects, with owner-surrendered animals generally finding homes more easily than strays or confiscated animals.
 
 
 ## Conclusion
 
-...
+This study successfully developed a predictive model for animal adoption outcomes at the Long Beach Animal Shelter. Our Random Forest classifier identified key factors influencing adoption, with the model achieving an accuracy of r accuracy%. The analysis demonstrated that animal sex/reproductive status, age, and intake type are the strongest predictors of whether an animal will be adopted, providing valuable insights for shelter management decision-making.
+
+These findings contribute to the growing body of research on animal welfare and shelter management, providing data-driven insights to support evidence-based practices in animal sheltering and adoption.
+
 
 ## References
 ::: {#refs}
