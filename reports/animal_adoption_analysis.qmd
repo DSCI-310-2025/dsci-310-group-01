@@ -342,7 +342,7 @@ Our analysis of the Long Beach Animal Shelter data revealed that sex/reproductiv
 
 ## Conclusion
 
-This study successfully developed a predictive model for animal adoption outcomes at the Long Beach Animal Shelter. Our Random Forest classifier identified key factors influencing adoption, with the model achieving an accuracy of r accuracy%. The analysis demonstrated that animal sex/reproductive status, age, and intake type are the strongest predictors of whether an animal will be adopted, providing valuable insights for shelter management decision-making.
+This study successfully developed a predictive model for animal adoption outcomes at the Long Beach Animal Shelter. Our Random Forest classifier identified key factors influencing adoption, with the model achieving an accuracy of `r accuracy`%. The analysis demonstrated that animal sex/reproductive status, age, and intake type are the strongest predictors of whether an animal will be adopted, providing valuable insights for shelter management decision-making.
 
 These findings contribute to the growing body of research on animal welfare and shelter management, providing data-driven insights to support evidence-based practices in animal sheltering and adoption.
 

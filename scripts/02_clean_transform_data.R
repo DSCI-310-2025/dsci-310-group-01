@@ -78,19 +78,6 @@ cat("Starting data transformation and feature engineering. \n")
 longbeach_transformed <- longbeach_cleaned %>% filter(age <= 30)
 cat("After removing ages > 30:", dim(longbeach_cleaned)[1], "rows\n")
 
-# # Count frequency of each animal type and intake condition 
-# animal_counts <- longbeach_transformed %>% count(animal_type, sort = TRUE)
-# cat("Animal type distribution:", "\n")
-# print(animal_counts)
-
-# intake_counts <- longbeach_transformed %>% count(intake_condition, sort = TRUE)
-# cat("Intake condition distribution:", "\n")
-# print(intake_counts)
-
-# # count frequency of each intake type
-# intake_type_counts <- longbeach_transformed %>% count(intake_type, sort = TRUE)
-# cat("Intake type distribution:", "\n")
-# print(intake_type_counts)
 
 # Group rare animal types (less than 200 instances)
 rare_animal_types <- c("reptile", "guinea pig", "livestock", "amphibian")
