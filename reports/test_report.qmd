@@ -1,8 +1,0 @@
----
-title: "Test Quarto Report"
-format: html
----
-
-```{r}
-print("Quarto is working successfully!")
-```

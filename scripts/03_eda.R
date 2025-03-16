@@ -55,7 +55,7 @@ plot1 <- ggplot(data, aes(x = adopted)) +
   geom_bar(fill = "steelblue") +
   geom_text(stat = 'count', aes(label = after_stat(count)), vjust = -0.5, size = 6) +
   labs(title = "Adoption Rate Distribution", x = "Adopted", y = "Count") +
-  theme_minimal(base_size = 20)
+  theme_minimal(base_size = 16)
 ggsave(filename = file.path(opt$output_prefix, "adoption_rate.png"), plot = plot1, width = 7, height = 7)
 
 # 2. Adoption rate by animal type plot
@@ -67,35 +67,48 @@ plot2 <- ggplot(data, aes(x = animal_type, fill = adopted)) +
 ggsave(filename = file.path(opt$output_prefix, "adoption_by_animal_type.png"), plot = plot2, width = 10, height = 8)
 
 # 3. Adoption rate by intake condition plot 
-plot4 <- ggplot(data, aes(x = intake_condition, fill = adopted)) +
+plot3 <- ggplot(data, aes(x = intake_condition, fill = adopted)) +
     geom_bar(position = "dodge") +
     labs(title = "Adoption Rate by Intake Condition", x = "Intake Condition", y = "Count") +
-    theme_minimal(base_size = 16) +
-    theme(axis.text.x = element_text(angle = 45, hjust = 1))
-ggsave(filename = file.path(opt$output_prefix, "adoption_by_intake_condition.png"), plot = plot4, width = 16, height = 13)
+    theme_minimal(base_size = 20) +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 18),
+          axis.text.y = element_text(size = 18),
+          legend.text = element_text(size = 18),  # Increase legend text
+          legend.title = element_text(size = 18),
+          plot.title = element_text(size = 24, face = "bold"))
+ggsave(filename = file.path(opt$output_prefix, "adoption_by_intake_condition.png"), plot = plot3, width = 16, height = 13)
 
 # 4. Adoption rate by intake type plot
-plot6 <- ggplot(data, aes(x = intake_type, fill = adopted)) +
+plot4 <- ggplot(data, aes(x = intake_type, fill = adopted)) +
     geom_bar(position = "dodge") +
     labs(title = "Adoption Rate by Intake Type", x = "Intake Type", y = "Count") +
-    theme_minimal(base_size = 16) +
-    theme(axis.text.x = element_text(angle = 45, hjust = 1))
-  ggsave(filename = file.path(opt$output_prefix, "adoption_by_intake_type.png"), plot = plot6, width = 15, height = 14)
+    theme_minimal(base_size = 20) +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 18),
+          axis.text.y = element_text(size = 18),
+          legend.text = element_text(size = 18),  # Increase legend text
+          legend.title = element_text(size = 18),
+          plot.title = element_text(size = 24, face = "bold"))
+  ggsave(filename = file.path(opt$output_prefix, "adoption_by_intake_type.png"), plot = plot4, width = 15, height = 14)
 
 # 5. Age distribution plot by adoption status
-plot3 <- ggplot(data, aes(x = age, fill = adopted)) +
+plot5 <- ggplot(data, aes(x = age, fill = adopted)) +
   geom_histogram(bins = 30, alpha = 0.7, position = "identity", color = "black") +
   labs(title = "Age Distribution by Adoption Status", x = "Age (years)", y = "Count") +
-  theme_minimal(base_size = 15)
-ggsave(filename = file.path(opt$output_prefix, "age_distribution.png"), plot = plot3, width = 15, height = 10)
+  theme_minimal(base_size = 20) +
+  theme(axis.text.x = element_text(size = 22),
+        axis.text.y = element_text(size = 20),
+        legend.text = element_text(size = 20),
+        legend.title = element_text(size = 20),
+        plot.title = element_text(size = 22, face = "bold"))
+ggsave(filename = file.path(opt$output_prefix, "age_distribution.png"), plot = plot5, width = 15, height = 10)
 
 # 6. Monthly adoption trend plot
-plot5 <- ggplot(data, aes(x = month, fill = adopted)) +
+plot6 <- ggplot(data, aes(x = month, fill = adopted)) +
     geom_bar() +
     labs(title = "Monthly Adoption Trend", x = "Month", y = "Count") +
     theme_minimal(base_size = 17) +
     theme(axis.text.x = element_text(angle = 90, hjust = 1))
-  ggsave(filename = file.path(opt$output_prefix, "monthly_trends.png"), plot = plot5, width = 25, height = 10)
+  ggsave(filename = file.path(opt$output_prefix, "monthly_trends.png"), plot = plot6, width = 25, height = 10)
 
 
 # Additional EDA: Boxplot Analysis for "AGE" outliers and Seasonal Trends
@@ -103,15 +116,23 @@ plot5 <- ggplot(data, aes(x = month, fill = adopted)) +
 # Boxplot of Age Distribution by Adoption Status to finder outliers in "Age"
 p_box <- ggplot(data, aes(y = age, x = adopted)) +
   geom_boxplot() +
-  labs(title = "Age Distribution by Adoption Status", x = "Adopted", y = "Age (Years)") +
-  theme_minimal(base_size = 14)
+  labs(title = "(Boxplot) Age Distribution by Adoption Status", x = "Adopted", y = "Age (Years)") +
+  theme_minimal(base_size = 18) +
+  theme(axis.text.x = element_text(size = 15), 
+        axis.text.y = element_text(size = 15),
+        plot.title = element_text(size = 16, face = "bold"))
 ggsave(filename = file.path(opt$output_prefix, "age_boxplot_additional.png"), plot = p_box, width = 8, height = 6)
 
 # Re-run the trend plot: Seasonal adoption trend plot
 p_season <- ggplot(data, aes(x = season, fill = adopted)) +
   geom_bar() +
   labs(title = "Adoption Trends by Season", x = "Season", y = "Count") +
-  theme_minimal(base_size = 14)
+  theme_minimal(base_size = 18) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 18),  
+        axis.text.y = element_text(size = 18),
+        legend.text = element_text(size = 18),
+        legend.title = element_text(size = 18),
+        plot.title = element_text(size = 20, face = "bold"))
 ggsave(filename = file.path(opt$output_prefix, "adoption_trends_by_season_updated.png"), plot = p_season, width = 10, height = 8)
 
 cat("All EDA plots and tables are generated and saved.\n")

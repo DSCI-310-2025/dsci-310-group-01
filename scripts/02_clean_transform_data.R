@@ -30,7 +30,7 @@ longbeach_cleaned <- longbeach %>%
   filter(!is.na(outcome_type)) %>%  # Remove rows with missing outcome_type (target variable)
   filter(!is.na(dob)) %>%  # Remove rows with missing DOB
   filter(as.Date(dob) <= as.Date("2024-12-31")) %>% # Remove rows with future dates
-  select(-animal_id, -animal_name, -secondary_color, -jurisdiction, -latitude, -longitude, -was_outcome_alive, -outcome_subtype, -reason_for_intake) 
+  select(-animal_id, -animal_name, -secondary_color, -jurisdiction, -latitude, -longitude, -was_outcome_alive, -outcome_subtype, -reason_for_intake, -crossing) 
   # Drop unimportant columns 
 
 cat("After initial cleaning:", dim(longbeach_cleaned)[1], "rows\n")
@@ -78,19 +78,6 @@ cat("Starting data transformation and feature engineering. \n")
 longbeach_transformed <- longbeach_cleaned %>% filter(age <= 30)
 cat("After removing ages > 30:", dim(longbeach_cleaned)[1], "rows\n")
 
-# # Count frequency of each animal type and intake condition 
-# animal_counts <- longbeach_transformed %>% count(animal_type, sort = TRUE)
-# cat("Animal type distribution:", "\n")
-# print(animal_counts)
-
-# intake_counts <- longbeach_transformed %>% count(intake_condition, sort = TRUE)
-# cat("Intake condition distribution:", "\n")
-# print(intake_counts)
-
-# # count frequency of each intake type
-# intake_type_counts <- longbeach_transformed %>% count(intake_type, sort = TRUE)
-# cat("Intake type distribution:", "\n")
-# print(intake_type_counts)
 
 # Group rare animal types (less than 200 instances)
 rare_animal_types <- c("reptile", "guinea pig", "livestock", "amphibian")
@@ -133,23 +120,6 @@ print(missing_values)
 write_csv(longbeach_transformed, opt$output_transform)
 cat("Saving transformed dataset to:", opt$output_transform, "\n")
 
-# # save summary tables if `table_dir` is provided
-# if (!is.null(opt$table_dir)) {
-#   # Create table directory if it doesn't exist
-#   dir.create(opt$table_dir, recursive = TRUE, showWarnings = FALSE)
-  
-#   # Save animal type and intake condition tables, and intake type counts
-#   write_csv(animal_counts, file.path(opt$table_dir, "animal_type_counts.csv"))
-#   write_csv(intake_counts, file.path(opt$table_dir, "intake_condition_counts.csv"))
-#   write_csv(intake_type_counts, file.path(opt$table_dir, "intake_type_counts.csv"))
-  
-#   # Save adoption outcomes distribution
-#   adopted_summary <- as.data.frame(table(longbeach_cleaned$adopted))
-#   names(adopted_summary) <- c("adopted", "count")
-#   write_csv(adopted_summary, file.path(opt$table_dir, "adopted_distribution.csv"))
-  
-#   cat("Adoption_Distribution & Counts saved to:", opt$table_dir, "\n")
-# }
 
 # run the script in terminal (the root directory)
 # Rscript scripts/02_clean_transform_data.R --input="data/raw/longbeach.csv" --output_clean="data/processed/longbeach_cleaned.csv" --output_transform="data/processed/longbeach_transformed.csv" --table_dir="results/tables"
