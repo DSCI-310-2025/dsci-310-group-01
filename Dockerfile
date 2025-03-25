@@ -34,7 +34,8 @@ RUN Rscript -e "install.packages('remotes', repos='https://cloud.r-project.org')
                 remotes::install_version('e1071', version='1.7-14', repos='https://cloud.r-project.org'); \
                 remotes::install_version('pROC', version='1.18.5', repos='https://cloud.r-project.org'); \
                 remotes::install_version('docopt', version='0.7.1', repos='https://cloud.r-project.org'); \
-                remotes::install_version('rmarkdown', version='2.22', repos='https://cloud.r-project.org')"
+                remotes::install_version('rmarkdown', version='2.22', repos='https://cloud.r-project.org'); \
+                remotes::install_version('testthat', version='3.1.10', repos='https://cloud.r-project.org')"
 
 
 # Register IRKernel in Jupyter

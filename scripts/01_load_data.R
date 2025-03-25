@@ -2,6 +2,8 @@
 library(tidyverse)
 library(docopt)
 
+source("R/data_loading.R")  # Load the functions
+
 # Define command-line interface
 "This script loads raw longbeach data.
 
@@ -16,10 +18,7 @@ Options:
 opt <- docopt(doc)
 
 # Ensure the output directory exists
-data_dir <- dirname(opt$output_path)
-if (!dir.exists(data_dir)) {
-  dir.create(data_dir, recursive = TRUE)
-}
+ensure_dir_exists(dirname(opt$output_path))
 
 # Download the dataset
 download.file(opt$url, destfile = opt$output_path, mode = "wb")

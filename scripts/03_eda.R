@@ -1,6 +1,8 @@
 library(docopt)
 library(tidyverse)
 
+source("R/data_loading.R")  # Load the functions
+
 "
 This script computes exploratory data analysis (EDA) on the cleaned longbeach dataset,
 which generates various plots to help understand the data distribution and trends, and saves the figures.
@@ -25,13 +27,11 @@ if (interactive()) {
 }
 
 # Load the cleaned dataset
-cat("Loading cleaned dataset from:", opt$input, "\n")
-data <- read_csv(opt$input)
-cat("Dataset dimensions:", dim(data)[1], "rows,", dim(data)[2], "columns\n")
+data <- load_data(opt$input)
 
 # Ensure tables & figures directories exist before saving outputs
-dir.create(opt$table_dir, recursive = TRUE, showWarnings = FALSE)
-dir.create(opt$output_prefix, recursive = TRUE, showWarnings = FALSE)
+ensure_dir_exists(opt$table_dir)
+ensure_dir_exists(opt$output_prefix)
 
 
 # Table: Save adoption outcomes distribution as a CSV
