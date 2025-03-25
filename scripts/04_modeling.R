@@ -24,7 +24,7 @@ opt <- docopt(doc)
 
 # Load the dataset
 data <- load_data(opt$input)
-data$adopted <- factor(data$adopted, levels = c("Yes", "No"))  # Ensure adopted is a factor
+data$adopted <- factor(data$adopted, levels = c("Yes", "No"))  # Ensure adopted is a factor, "Yes" = positive class
 
 # Ensure output directories exist
 ensure_dir_exists(dirname(opt$output_model))
@@ -61,8 +61,6 @@ predictions <- predict(rf_model, test_data)
 # predictions <- factor(predictions, levels = levels(test_data$adopted))
 predictions <- factor(predictions, levels = c("Yes", "No")) # Ensure factor levels are consistent
 
-conf_matrix <- confusionMatrix(predictions, test_data$adopted)
-print(conf_matrix)
 
 # Compute confusion matrix
 conf_matrix <- confusionMatrix(predictions, test_data$adopted)
