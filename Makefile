@@ -25,7 +25,7 @@ data/raw/longbeach.csv: scripts/01_load_data.R
 # Step 2: Clean and transform data
 data/processed/longbeach_cleaned.csv data/processed/longbeach_transformed.csv: scripts/02_clean_transform_data.R data/raw/longbeach.csv
 	@mkdir -p data/processed results/tables
-	Rscript scripts/02_clean_transform_data.R --input=data/raw/longbeach.csv --output_clean=data/processed/longbeach_cleaned.csv --output_transform=data/processed/longbeach_transformed.csv --table_dir=results/tables
+	Rscript scripts/02_clean_transform_data.R --input=data/raw/longbeach.csv --output_clean=data/processed/longbeach_cleaned.csv --output_transform=data/processed/longbeach_transformed.csv 
 	echo "02_clean_transform_data.R done."
 
 # Step 3: Generate EDA tables and plots

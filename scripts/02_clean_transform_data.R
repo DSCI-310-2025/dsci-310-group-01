@@ -1,29 +1,28 @@
 library(tidyverse)
 library(docopt)
 
+source("R/data_loading.R")  # Load the functions
+
 "This script cleans the raw longbeach dataset, performs preprocessing, 
 transforming and feature engineering to prepare data for EDA and modeling.
 
 Usage:
-  02_clean_transform_data.R --input=<input> --output_clean=<output_clean> --output_transform=<output_transform> [--table_dir=<table_dir>]
+  02_clean_transform_data.R --input=<input> --output_clean=<output_clean> --output_transform=<output_transform> 
 
 Options:
   --input=<input>                 Path to the raw dataset (CSV file).
   --output_clean=<output_clean>   Path to save the cleaned dataset.
   --output_transform=<output_transform>  Path to save the transformed dataset.
-  --table_dir=<table_dir>         Directory to save summary tables. [Optional argument]
 " -> doc
 
 opt <- docopt(doc)
 
 # Check if output directories exist, create if needed
-dir.create(dirname(opt$output_clean), recursive = TRUE, showWarnings = FALSE)
-dir.create(dirname(opt$output_transform), recursive = TRUE, showWarnings = FALSE)
+ensure_dir_exists(dirname(opt$output_clean))
+ensure_dir_exists(dirname(opt$output_transform))
 
 # Load dataset
-cat("Loading dataset from:", opt$input, "\n")
-longbeach <- read_csv(opt$input)
-cat("Original dataset dimensions:", dim(longbeach)[1], "rows,", dim(longbeach)[2], "columns\n")
+longbeach <- load_data(opt$input)
 
 # Part 1: Data Cleaning & Preprocessing
 longbeach_cleaned <- longbeach %>%

@@ -4,6 +4,8 @@ library(randomForest)  # Load Random Forest for modeling
 library(pROC)
 library(docopt)
 
+source("R/data_loading.R")  # Load the functions
+
 "
 This script trains a Random Forest model to predict animal adoption.
 It performs downsampling to balance classes, fits a model, evaluates performance, and saves the results.
@@ -21,14 +23,13 @@ Options:
 opt <- docopt(doc)
 
 # Load the dataset
-cat("Loading transformed dataset from:", opt$input, "\n")
-data <- read_csv(opt$input)
+data <- load_data(opt$input)
 data$adopted <- factor(data$adopted, levels = c("Yes", "No"))  # Ensure adopted is a factor
 
 # Ensure output directories exist
-dir.create(dirname(opt$output_model), recursive = TRUE, showWarnings = FALSE)
-dir.create(dirname(opt$metrics), recursive = TRUE, showWarnings = FALSE)
-dir.create(opt$figures_dir, recursive = TRUE, showWarnings = FALSE)
+ensure_dir_exists(dirname(opt$output_model))
+ensure_dir_exists(dirname(opt$metrics))
+ensure_dir_exists(opt$figures_dir)
 
 # Split into training and testing sets
 set.seed(123)
