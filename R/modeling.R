@@ -15,11 +15,24 @@ train_rf_model <- function(d,
                           ntree = 100,
                           mtry = 2,
                           seed = 123) {
-  # Check for required columns
-  required_cols <- all.vars(formula)
-  missing_cols <- required_cols[!required_cols %in% names(d)]
-  if (length(missing_cols) > 0) {
-    stop("Missing required columns: ", paste(missing_cols, collapse = ", "))
+
+  # Check if response variable exists
+  response_var <- all.vars(formula)[1]
+  if (!(response_var %in% names(d))) {
+    stop("Response variable '", response_var, "' not found in data")
+  }
+
+  # Check for dot notation in formula
+  formula_str <- paste(deparse(formula), collapse = "")
+  using_dot_notation <- grepl("\\.", formula_str)
+  
+  # If NOT using dot notation, check individual predictors
+  if (!using_dot_notation) {
+    predictor_vars <- all.vars(formula)[-1]
+    missing_cols <- predictor_vars[!predictor_vars %in% names(d)]
+    if (length(missing_cols) > 0) {
+      stop("Missing required columns: ", paste(missing_cols, collapse = ", "))
+    }
   }
   
   # Set seed for reproducibility
@@ -49,14 +62,14 @@ train_rf_model <- function(d,
 #' @param negative_level The negative class level. Default: "No"
 #' @return A list containing: confusion_matrix (the caret confusionMatrix object),
 #'   metrics (dataframe with performance metrics), and cm_summary (confusion matrix summary)
+#' @export
 #' @examples
 #' # Defult usage
-#' results <- evaluate_model(rf_model, test_data)
-#' 
+#' results <- evaluate_rf_model(rf_model, test_data)
 #' # Access components
 #' metrics_df <- results$metrics
 #' conf_matrix <- results$confusion_matrix
-evaluate_model <- function(model, test_d, target_col = "adopted", 
+evaluate_rf_model <- function(model, test_d, target_col = "adopted", 
                            positive_level = "Yes", negative_level = "No") {
                             
   # Validate inputs
@@ -113,7 +126,8 @@ evaluate_model <- function(model, test_d, target_col = "adopted",
 #' @param title Plot title. Default: "Confusion Matrix Heatmap"
 #' @param width Plot width in inches when saving. Default: 8
 #' @param height Plot height in inches when saving. Default: 7
-#' @return The ggplot object
+#' @return The ggplot object (invisibly). The plot is saved to the specified path if path_saved is provided.
+#' @export
 plot_confusion_matrix <- function(cm, path_saved = NULL, 
                                  color_low = "#f1f1f1", 
                                  color_high = "#1f77b4",
@@ -158,9 +172,8 @@ plot_confusion_matrix <- function(cm, path_saved = NULL,
     cat("Confusion Matrix Heatmap saved in:", path_saved, "\n")
   }
   
-
-  # Return the plot
-  return(p)
+  # return(p)
+  invisible(p) # Return the plot without displaying
 }
 
 #' Plot feature importance from a random forest model
@@ -172,7 +185,8 @@ plot_confusion_matrix <- function(cm, path_saved = NULL,
 #' @param title Plot title. Default: "Feature Importance"
 #' @param width Plot width in inches when saving. Default: 10
 #' @param height Plot height in inches when saving. Default: 8
-#' @return The ggplot object
+#' @return The ggplot object (invisibly). The plot is saved to the specified path if path_saved is provided.
+#' @export
 plot_feature_importance <- function(model, path_saved = NULL,
                                    fill_color = "steelblue",
                                    importance_type = 1,
@@ -224,7 +238,7 @@ plot_feature_importance <- function(model, path_saved = NULL,
     cat("Feature Importance Plot saved in:", path_saved, "\n")
   }
   
-  # Return the plot
-  return(p)
+  # return(p)
+  invisible(p) # Return the plot without displaying
 }
 
