@@ -6,7 +6,7 @@
 #' @param recursive Logical. Should parent directories be created? Default TRUE
 #' @param show_warnings Logical. Should warnings be shown? Default FALSE
 #' @return Nothing, creates directory if it doesn't exist
-#' ensure_directory("data/processed")
+#' @export
 ensure_dir_exists <- function(dir_path, recursive = TRUE, show_warnings = FALSE) {
   if (!dir.exists(dir_path)) {
     dir.create(dir_path, recursive = recursive, showWarnings = show_warnings)
@@ -19,6 +19,7 @@ ensure_dir_exists <- function(dir_path, recursive = TRUE, show_warnings = FALSE)
 #' @param path A string specifying the path to the CSV file
 #' @param verbose logical: show information be printed to console (Default TRUE)
 #' @return A tibble (data.frame) loaded from the file and print dimensions of the dataset if verbose is TRUE
+#' @export
 load_data <- function(path, verbose = TRUE) {
   # Check if file exists
   if (!file.exists(path)) {
