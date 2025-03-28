@@ -49,7 +49,7 @@ colnames(train_data_downsampled)[ncol(train_data_downsampled)] <- "adopted"  # R
 
 # Train model using function
 formula <- adopted ~ animal_type + age + sex + intake_condition + intake_type + season
-rf_model <- train_rf_model(train_data_downsampled, formula = formula)
+rf_model <- train_rf_model(train_data_downsampled, formula = formula, seed = 123)
 print(rf_model)
 
 # Save model 
