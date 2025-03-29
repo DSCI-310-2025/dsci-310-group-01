@@ -102,6 +102,3 @@ test_that("convert_to_factors correctly converts columns to factors", {
   result <- convert_to_factors(test_data, character(0))
   expect_equal(result, test_data)
 })
-
-# run test in terminal: 
-# Rscript -e "testthat::test_file('tests/testthat/test-data_prep.R')"

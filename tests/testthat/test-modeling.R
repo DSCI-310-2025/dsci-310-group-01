@@ -159,6 +159,3 @@ test_that("plot_feature_importance creates and optionally saves plot", {
   # Test error with invalid importance_type
   expect_error(plot_feature_importance(model, importance_type = 3), "must be either 1")
 })
-
-# run test in terminal: 
-# Rscript -e "testthat::test_file('tests/testthat/test-modeling.R')"

@@ -48,12 +48,10 @@ print(table(longbeach_cleaned$adopted))
 # Convert DOB to Ages (integer)
 longbeach_cleaned$age <- calculate_age_years(longbeach_cleaned$dob)
 
-
 # Create month and season features
 longbeach_cleaned <- longbeach_cleaned %>%
   mutate(month = format(as.Date(outcome_date, format = "%Y-%m-%d"), "%m"),
          season = assign_season(month))
-
 
 # Save cleaned dataset
 write_csv(longbeach_cleaned, opt$output_clean)
@@ -88,8 +86,6 @@ longbeach_transformed <- longbeach_transformed %>%
   group_rare_categories("intake_type", rare_intake_types)
 
 
-
-
 # Convert categorical variables to factors
 columns_to_convert <- c("animal_type", "sex", "intake_condition", 
                         "intake_type", "season", "adopted")
@@ -111,5 +107,5 @@ cat("Saving transformed dataset to:", opt$output_transform, "\n")
 
 
 # run the script in terminal (the root directory)
-# Rscript scripts/02_clean_transform_data.R --input="data/raw/longbeach.csv" --output_clean="data/processed/longbeach_cleaned.csv" --output_transform="data/processed/longbeach_transformed.csv" --table_dir="results/tables"
 # Rscript scripts/02_clean_transform_data.R --input="data/raw/longbeach.csv"     --output_clean="data/processed/longbeach_cleaned.csv"     --output_transform="data/processed/longbeach_transformed.csv"
+

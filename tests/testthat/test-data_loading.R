@@ -56,6 +56,3 @@ test_that("load_data correctly loads CSV files", {
 test_that("load_data errors when file doesn't exist", {
   expect_error(load_data("non_existent_file.csv"), "File does not exist")
 })
-
-# run test in terminal: 
-# Rscript -e "testthat::test_file('tests/testthat/test-data_loading.R')"
