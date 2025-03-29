@@ -45,30 +45,11 @@ longbeach_cleaned <- longbeach_cleaned %>%
 cat("Target variable 'adopted' distribution:", "\n")
 print(table(longbeach_cleaned$adopted))
 
-# ////////////
 # Convert DOB to Ages (integer)
-# longbeach_cleaned$age <- as.numeric(difftime(Sys.Date(), 
-#                                              as.Date(longbeach_cleaned$dob, format="%Y-%m-%d"), 
-#                                              units="days")) / 365
-# # Convert Age to Integer
-# longbeach_cleaned$age <- as.integer(longbeach_cleaned$age)
-# ////////////
 longbeach_cleaned$age <- calculate_age_years(longbeach_cleaned$dob)
 
-# ////////////
-# Create month and season features
-# longbeach_cleaned <- longbeach_cleaned %>%
-#   mutate(month = format(as.Date(outcome_date, format="%Y-%m-%d"), "%m"))
 
-# longbeach_cleaned <- longbeach_cleaned %>%
-#   mutate(season = case_when(
-#     month %in% c("12", "01", "02") ~ "Winter",
-#     month %in% c("03", "04", "05") ~ "Spring",
-#     month %in% c("06", "07", "08") ~ "Summer",
-#     month %in% c("09", "10", "11") ~ "Fall",
-#     TRUE ~ "Unknown"
-#   ))
-# ////////////
+# Create month and season features
 longbeach_cleaned <- longbeach_cleaned %>%
   mutate(month = format(as.Date(outcome_date, format = "%Y-%m-%d"), "%m"),
          season = assign_season(month))
@@ -86,26 +67,19 @@ cat("Starting data transformation and feature engineering. \n")
 longbeach_transformed <- longbeach_cleaned %>% filter(age <= 30)
 cat("After removing ages > 30:", dim(longbeach_cleaned)[1], "rows\n")
 
-# ////////////
+
 # Group rare animal types (less than 200 instances)
 rare_animal_types <- c("reptile", "guinea pig", "livestock", "amphibian")
-# longbeach_transformed <- longbeach_transformed %>%
-#   mutate(animal_type = ifelse(animal_type %in% rare_animal_types, "Other", animal_type))
-# cat("Group rare animal type\n")
+
 
 # Group rare intake conditions (less than 200 instances)
 rare_intake_conditions <- c("aged", "behavior moderate", "behavior mild", 
                            "behavior severe", "welfare seizures", "intakeexam")
-# longbeach_transformed <- longbeach_transformed %>%
-#   mutate(intake_condition = ifelse(intake_condition %in% rare_intake_conditions, "Other", intake_condition))
-# cat("Group rare intake conditions\n")
+
 
 # Group rare intake types (with fewer than 200 instances)
 rare_intake_types <- c("foster", "adopted animal return", "euthanasia required", "trap, neuter, return", "safe keep", "quarantine")
-# longbeach_transformed <- longbeach_transformed %>%
-#   mutate(intake_type = ifelse(intake_type %in% rare_intake_types, "Other", intake_type))
-# cat("Group rare intake types\n")
-# ////////////
+
 
 # Group rare categories using the function
 longbeach_transformed <- longbeach_transformed %>%
@@ -115,15 +89,6 @@ longbeach_transformed <- longbeach_transformed %>%
 
 
 
-# ////////////
-# # Convert categorical variables to factors
-# longbeach_transformed$animal_type <- as.factor(longbeach_transformed$animal_type)
-# longbeach_transformed$sex <- as.factor(longbeach_transformed$sex)
-# longbeach_transformed$intake_condition <- as.factor(longbeach_transformed$intake_condition)
-# longbeach_transformed$intake_type <- as.factor(longbeach_transformed$intake_type)
-# longbeach_transformed$season <- as.factor(longbeach_transformed$season)
-# longbeach_transformed$adopted <- as.factor(longbeach_transformed$adopted)
-# ////////////
 
 # Convert categorical variables to factors
 columns_to_convert <- c("animal_type", "sex", "intake_condition", 
