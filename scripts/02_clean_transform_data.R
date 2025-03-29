@@ -48,7 +48,7 @@ print(table(longbeach_cleaned$adopted))
 # Convert DOB to Ages (integer)
 longbeach_cleaned$age <- calculate_age_years(longbeach_cleaned$dob)
 
-
+# Create month and season features
 longbeach_cleaned <- longbeach_cleaned %>%
   mutate(month = format(as.Date(outcome_date, format = "%Y-%m-%d"), "%m"),
          season = assign_season(month))
@@ -69,18 +69,22 @@ cat("After removing ages > 30:", dim(longbeach_cleaned)[1], "rows\n")
 # Group rare animal types (less than 200 instances)
 rare_animal_types <- c("reptile", "guinea pig", "livestock", "amphibian")
 
+
 # Group rare intake conditions (less than 200 instances)
 rare_intake_conditions <- c("aged", "behavior moderate", "behavior mild", 
                            "behavior severe", "welfare seizures", "intakeexam")
 
+
 # Group rare intake types (with fewer than 200 instances)
 rare_intake_types <- c("foster", "adopted animal return", "euthanasia required", "trap, neuter, return", "safe keep", "quarantine")
+
 
 # Group rare categories using the function
 longbeach_transformed <- longbeach_transformed %>%
   group_rare_categories("animal_type", rare_animal_types) %>%
   group_rare_categories("intake_condition", rare_intake_conditions) %>%
   group_rare_categories("intake_type", rare_intake_types)
+
 
 # Convert categorical variables to factors
 columns_to_convert <- c("animal_type", "sex", "intake_condition", 
@@ -104,3 +108,4 @@ cat("Saving transformed dataset to:", opt$output_transform, "\n")
 
 # run the script in terminal (the root directory)
 # Rscript scripts/02_clean_transform_data.R --input="data/raw/longbeach.csv"     --output_clean="data/processed/longbeach_cleaned.csv"     --output_transform="data/processed/longbeach_transformed.csv"
+
