@@ -1,3 +1,20 @@
+# test-eda.R
+# ----------
+# Unit tests for EDA (exploratory data analysis) functions in `eda.R`.
+#
+# Functions tested:
+# - `save_count_table()`: saves frequency table to CSV
+# - `plot_adoption_distribution()`: creates a ggplot bar chart of adoption labels
+# - `plot_grouped_adoption()`: generates and saves bar plot grouped by variable
+# - `plot_age_distribution()`: creates and saves age histogram
+#
+# This test that file includes:
+# - Output format checks (ggplot object, file existence)
+# - Validation of saved table structure
+# - Basic functionality tests on small test data
+
+
+
 library(testthat)
 library(tidyverse)
 library(ggplot2)
