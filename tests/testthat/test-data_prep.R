@@ -35,9 +35,11 @@ test_that("calculate_age_years works correctly", {
   expected_with_na <- c(10, NA_integer_, 2)
   expect_equal(calculate_age_years(dates_with_na, ref_date), expected_with_na)
   
-  # Test with single NA
-  expect_equal(calculate_age_years(NA, ref_date), NA_integer_)
-  
+  # Test with single character NA
+  expect_equal(calculate_age_years(NA_character_, ref_date), NA_integer_)
+  # Test with Date NA
+  expect_equal(calculate_age_years(as.Date(NA), ref_date), NA_integer_)
+
   # Test with empty vector
   expect_equal(length(calculate_age_years(character(0), ref_date)), 0)
 })
