@@ -130,13 +130,21 @@ outcome_df <- data.frame(
   count = as.numeric(outcome_counts)
 )
 outcome_df <- outcome_df[order(-outcome_df$count), ]
+rescue_match <- outcome_df$count[which(tolower(outcome_df$outcome_type) == "rescue")]
+rescue_count <- na.omit(rescue_match)[1]
+adoption_match <- outcome_df$count[which(tolower(outcome_df$outcome_type) == "adoption")]
+adoption_count <- na.omit(adoption_match)[1]
+
+
 
 # Display the table
 knitr::kable(head(outcome_df, 12),
              col.names = c("Outcome Type", "Count"),
              row.names = FALSE)
 ```
-As shown in the table above, the original dataset contains a variety of outcome types. "Rescue" is the most common outcome (6,680 animals), followed closely by "adoption" (6,290 animals). The dataset also contains 187 records with missing outcome types ("NA"), which will be addressed during data preprocessing below.
+"Rescue" is the most common outcome (`r format(rescue_count, big.mark = ",")` animals), 
+followed closely by "adoption" (`r format(adoption_count, big.mark = ",")` animals).
+
 
 For our predictive modeling task, we simplified these diverse outcomes into a binary target variable called `adopted`:
 

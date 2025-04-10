@@ -1,3 +1,19 @@
+# test-data_prep.R
+# ----------------
+# Unit tests for preprocessing functions in `data_prep.R`.
+#
+# Functions tested:
+# - `calculate_age_years()`: converts DOB to age in years, handles NA and empty inputs
+# - `assign_season()`: maps month values to seasonal categories, supports numeric and string input
+# - `group_rare_categories()`: replaces rare values in a categorical column with a default label
+# - `convert_to_factors()`: coerces specified columns to factor type
+#
+# This testthat file includes:
+# - Normal usage tests
+# - Edge cases (e.g., empty vectors, invalid column names)
+# - Error handling tests
+
+
 library(testthat)
 library(tidyverse)
 

@@ -1,3 +1,14 @@
+# test-data_loading.R
+# --------------------
+# Unit tests for functions in `data_loading.R`:
+# - `ensure_dir_exists()`: checks whether the directory is created or skipped
+# - `load_data()`: tests proper loading of a CSV file, including error handling
+#
+# This testthat file includes:
+# - Normal use cases (file exists, valid directory)
+# - Error handling (nonexistent files)
+# - Temporary file and directory creation to isolate test environment
+
 library(testthat)
 source("../../R/data_loading.R")  # Load the functions
 

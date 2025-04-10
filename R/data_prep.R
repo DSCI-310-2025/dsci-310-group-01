@@ -14,7 +14,17 @@
 #' # With custom reference date
 #' calculate_age_years("2015-01-01", reference_date = "2020-01-01")
 #' @export
-calculate_age_years <- function(dob, reference_date = Sys.Date()) {
+calculate_age_years <- function(dob, reference_date = Sys.Date()) { 
+
+  if (is.null(dob)) stop("`dob` cannot be NULL.")
+  if (!is.character(dob) && !inherits(dob, "Date")) {
+    stop("`dob` must be a character vector or Date object.")
+  }
+  if (!inherits(reference_date, "Date") && !is.character(reference_date)) {
+    stop("`reference_date` must be a Date object or character string.")
+  }
+
+
   # Return NA for one NA inputs
   if (length(dob) == 1 && is.na(dob)) {
     return(NA_integer_)
@@ -60,18 +70,31 @@ calculate_age_years <- function(dob, reference_date = Sys.Date()) {
   return(age_in_years)
 }
 
+
+
+########=================##########
+
+
+
 #' Assign season based on month
+#' Maps numeric or character month values to seasons (Winter, Spring, Summer, Fall).
+#'
 #'
 #' @param month A character or numeric vector of months (1-12 or "01"-"12")
 #' @return A character vector of corresponding seasons (Winter, Spring, Summer, Fall, or Unknown)
 #' @examples
 #' assign_season(c("01", "04", "07", "10"))
+#' assign_season(c(1, 3, 8))
 #' @export
 assign_season <- function(month) {
-    # Handle empty input
-    if (length(month) == 0) {
-        return(character(0))
-    }
+  if (!is.character(month) && !is.numeric(month)) {
+    stop("`month` must be a character or numeric vector.")  
+  }
+
+  # Handle empty input
+  if (length(month) == 0) {
+    return(character(0))
+  }
 
   # Ensure month is in character format & ensure two digits
   month <- as.character(month)
@@ -87,13 +110,14 @@ assign_season <- function(month) {
   return(seasons)
 }
 
-#' Group rare categories for a variable in a data frame
+#' Group rare categories in a column
+#' Replaces specified rare categories in a column with a custom label (e.g., "Other").
 #'
 #' @param data A data frame
 #' @param column_name The name of the column to process
 #' @param rare_categories A vector of category names to group
 #' @param other_name The name to assign to grouped categories, defaults to "Other"
-#' @return A data frame with the specified column modified
+#' @return A modified data frame with the specified column modified
 #' @examples
 #' group_rare_categories(data, "animal_type", c("reptile", "guinea pig"))
 #' @export
@@ -101,6 +125,14 @@ group_rare_categories <- function(data, column_name, rare_categories, other_name
   if (!column_name %in% names(data)) {
     stop(paste("Column", column_name, "not found in the data frame"))
   }
+
+  if (!is.character(rare_categories)) {
+    stop("`rare_categories` must be a character vector.")
+  }
+  if (!is.character(other_name) || length(other_name) != 1) {
+    stop("`other_name` must be a single character string.")
+  }
+
   
   result <- data %>%
     mutate(!!sym(column_name) := ifelse(!!sym(column_name) %in% rare_categories, 
@@ -110,7 +142,14 @@ group_rare_categories <- function(data, column_name, rare_categories, other_name
     return(result)
 }
 
-#' Convert multiple columns to factors
+
+
+
+
+
+
+
+#' Convert multiple columns to factors + Converts specified columns in a data frame to factor type.
 #'
 #' @param data A data frame
 #' @param columns A character vector of column names to convert to factors
@@ -119,6 +158,10 @@ group_rare_categories <- function(data, column_name, rare_categories, other_name
 #' convert_to_factors(df, c("animal_type", "sex", "adopted"))
 #' @export
 convert_to_factors <- function(data, columns) {
+  if (!is.character(columns)) {
+    stop("`columns` must be a character vector.")
+  }
+
   # Check if all columns exist in the data frame
   missing_cols <- columns[!columns %in% names(data)]
   if (length(missing_cols) > 0) {
@@ -133,3 +176,4 @@ convert_to_factors <- function(data, columns) {
   
   return(data)
 }
+

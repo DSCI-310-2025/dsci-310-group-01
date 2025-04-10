@@ -3,18 +3,38 @@ source("R/data_loading.R")
 
 #' Train a Random Forest model
 #'
+#' Trains a Random Forest model using the provided formula and data. Handles both standard
+#' and dot notation in formula. Checks for missing variables and ensures reproducibility via seed.
+#'
 #' @param d A data frame containing the training data
 #' @param formula Model formula to use for training (required)
 #' @param ntree Number of trees to grow. Default: 100
 #' @param mtry Number of variables randomly sampled at each split. Default: 2
 #' @param seed Random seed for reproducibility. Default: 123
 #' @return A trained randomForest model object
+#' @examples
+#' model <- train_rf_model(df, adopted ~ age + sex)
+#'
 #' @export
 train_rf_model <- function(d, 
                           formula,
                           ntree = 100,
                           mtry = 2,
                           seed = 123) {
+                            
+
+  if (!is.data.frame(d)) {
+    stop("`d` must be a data frame.")
+  }
+  if (!inherits(formula, "formula")) {
+    stop("`formula` must be a valid formula object (e.g., adopted ~ age + sex).")
+  }
+  if (!is.numeric(ntree) || length(ntree) != 1 || ntree <= 0) {
+    stop("`ntree` must be a single positive number.")
+  }
+  if (!is.numeric(mtry) || length(mtry) != 1 || mtry <= 0) {
+    stop("`mtry` must be a single positive number.")
+  }
 
   # Check if response variable exists
   response_var <- all.vars(formula)[1]
@@ -50,6 +70,11 @@ train_rf_model <- function(d,
   return(model)
 }
 
+
+
+
+
+
 #' Evaluate a classification model
 #'
 #' This function evaluates a trained model on test data, computing confusion
@@ -71,7 +96,16 @@ train_rf_model <- function(d,
 #' conf_matrix <- results$confusion_matrix
 evaluate_rf_model <- function(model, test_d, target_col = "adopted", 
                            positive_level = "Yes", negative_level = "No") {
-                            
+  if (!inherits(model, "randomForest")) {
+    stop("`model` must be a randomForest object.")
+  }
+  if (!is.data.frame(test_d)) {
+    stop("`test_d` must be a data frame.")
+  }
+  if (!is.character(target_col) || length(target_col) != 1) {
+    stop("`target_col` must be a single character string.")
+  }
+                          
   # Validate inputs
   if (!target_col %in% names(test_d)) {
     stop("Target column '", target_col, "' not found in test data")
@@ -115,7 +149,12 @@ evaluate_rf_model <- function(model, test_d, target_col = "adopted",
   ))
 }
 
+
+
+
+
 #' Plot confusion matrix as a heatmap
+#' Creates a heatmap visualization of a confusion matrix. Optionally saves the plot to a file.
 #'
 #' @param cm A caret confusionMatrix object
 #' @param path_saved File path to save the plot. If NULL, plot is only returned but not saved.
@@ -126,7 +165,12 @@ evaluate_rf_model <- function(model, test_d, target_col = "adopted",
 #' @param title Plot title. Default: "Confusion Matrix Heatmap"
 #' @param width Plot width in inches when saving. Default: 8
 #' @param height Plot height in inches when saving. Default: 7
-#' @return The ggplot object (invisibly). The plot is saved to the specified path if path_saved is provided.
+#' @return Invisibly returns the ggplot object.
+#'
+#' @examples
+#' plot_confusion_matrix(cm)
+#' plot_confusion_matrix(cm, path_saved = "cm_plot.png")
+#'
 #' @export
 plot_confusion_matrix <- function(cm, path_saved = NULL, 
                                  color_low = "#f1f1f1", 
@@ -176,7 +220,14 @@ plot_confusion_matrix <- function(cm, path_saved = NULL,
   invisible(p) # Return the plot without displaying
 }
 
+
+
+
+
+
 #' Plot feature importance from a random forest model
+#' Plots variable importance scores from a trained Random Forest model.
+#' Optionally saves the plot to a file.
 #'
 #' @param model Trained random forest model
 #' @param path_saved File path to save the plot. If NULL, plot is only returned but not saved.
@@ -185,7 +236,11 @@ plot_confusion_matrix <- function(cm, path_saved = NULL,
 #' @param title Plot title. Default: "Feature Importance"
 #' @param width Plot width in inches when saving. Default: 10
 #' @param height Plot height in inches when saving. Default: 8
-#' @return The ggplot object (invisibly). The plot is saved to the specified path if path_saved is provided.
+#' @return Invisibly returns the ggplot object.
+#'
+#' @examples
+#' plot_feature_importance(model)
+#' plot_feature_importance(model, path_saved = "importance.png", importance_type = 2)
 #' @export
 plot_feature_importance <- function(model, path_saved = NULL,
                                    fill_color = "steelblue",
