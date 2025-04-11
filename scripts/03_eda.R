@@ -114,4 +114,23 @@ p_season <- ggplot(data, aes(x = season, fill = adopted)) +
   )
 ggsave(filename = file.path(opt$output_prefix, "adoption_trends_by_season_updated.png"), plot = p_season, width = 10, height = 8)
 
+
+# Correlation Matrix Check (added for Milestone 4)
+library(corrplot)
+
+# Encode factor variables as numeric for correlation analysis
+df_numeric <- data %>%
+  mutate(across(where(is.factor), ~ as.numeric(as.factor(.))))
+
+# Calculate correlation matrix
+cor_matrix <- cor(df_numeric, use = "pairwise.complete.obs")
+
+# Save correlation plot
+corrplot_path <- file.path(opt$output_prefix, "correlation_heatmap.png")
+png(corrplot_path, width = 1000, height = 900)
+corrplot(cor_matrix, method = "color", tl.cex = 0.9, number.cex = 0.8, addCoef.col = "black")
+dev.off()
+
+cat("Correlation heatmap saved to:", corrplot_path, "\n")
+
 cat("All EDA plots and tables are generated and saved.\n")

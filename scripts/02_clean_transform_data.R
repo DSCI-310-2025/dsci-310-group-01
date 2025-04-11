@@ -52,6 +52,19 @@ longbeach_cleaned <- longbeach_cleaned %>%
 cat("Target variable 'adopted' distribution:", "\n")
 print(table(longbeach_cleaned$adopted))
 
+
+# Remove duplicate observations
+before_dedup <- nrow(longbeach_cleaned)
+longbeach_cleaned <- longbeach_cleaned[!duplicated(longbeach_cleaned), ]
+after_dedup <- nrow(longbeach_cleaned)
+
+if (before_dedup > after_dedup) {
+  cat("Removed", before_dedup - after_dedup, "duplicate rows from cleaned dataset.\n")
+} else {
+  cat("No duplicate rows found in cleaned dataset.\n")
+}
+
+
 # Convert DOB to Ages (integer)
 longbeach_cleaned$age <- calculate_age_years(longbeach_cleaned$dob)
 
