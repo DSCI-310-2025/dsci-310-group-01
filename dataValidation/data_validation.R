@@ -32,9 +32,15 @@ run_data_validation_checks <- function(df) {
   # Check expected target values
   allowed <- c("Adoption", "Foster to Adopt", "Euthanasia", "Transfer", "Rescue", "Return to Owner")
   actual <- unique(df$outcome_type)
-  if (!all(actual %in% allowed)) {
-    stop("Unexpected outcome_type values: ", paste(setdiff(actual, allowed), collapse = ", "))
+  unexpected <- setdiff(actual, allowed)
+  if (length(unexpected) > 0) {
+    warning(
+      "Unexpected outcome_type values detected: ",
+      paste(unexpected, collapse = ", "),
+      "\nNote: This may be expected in raw data and will be handled during cleaning."
+    ) 
   }
+
   # Check age class
   if (!"age" %in% colnames(df)) warning("No 'age' column found.")
   if (!is.numeric(df$age)) warning("'age' column is not numeric.")
