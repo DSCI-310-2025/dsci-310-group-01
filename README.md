@@ -36,7 +36,7 @@ git clone https://github.com/DSCI-310-2025/dsci-310-group-01.git
 cd dsci-310-group-01
 ```
 
-### Option 1: Run with Docker Compose (Recommended)
+### Option 1: Run with Docker Compose
 
 **Start the Docker container**  
    Ensure Docker Desktop is installed and running. Then run:
