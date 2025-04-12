@@ -40,8 +40,9 @@ cd dsci-310-group-01
 
 **Start the Docker container**  
    Ensure Docker Desktop is installed and running. Then run:
-   ```bash
+   ```sh
    docker-compose up -d
+   ```
 - Once the container has launched, retrieve the Jupyter Lab URL with the access token by running:
   ```sh
   docker logs dsci-310-group-01-analysis-1
