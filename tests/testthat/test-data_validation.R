@@ -11,6 +11,9 @@
 #
 # The test ensure that the validation function can gracefully detect and report potential problems.
 
+library(tidyverse)
+
+source("../../R/data_validation.R")
 
 test_that("Validation runs on example data", {
   df <- tibble(

@@ -21,7 +21,7 @@ Our goal is to build a **predictive model** that helps shelters understand what 
 - [Long Beach Animal Shelter Data (TidyTuesday, 2025-03-04)](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-03-04/readme.md)
 <!-- - **Source:** [City of Long Beach Animal Care Services](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-03-04) -->
 
-## ✨Key Insights
+## Key Insights
 Our Random Forest classification model achieved an relative high accuracy in predicting animal adoption outcomes. The analysis revealed that sex/reproductive status, age, and intake type are the most influential factors in determining whether an animal will be adopted.
 
 
@@ -36,9 +36,9 @@ git clone https://github.com/DSCI-310-2025/dsci-310-group-01.git
 cd dsci-310-group-01
 ```
 
-### 🚀 Option 1: Run with Docker Compose (Recommended)
+### Option 1: Run with Docker Compose (Recommended)
 
-1. **Start the Docker container**  
+**Start the Docker container**  
    Ensure Docker Desktop is installed and running. Then run:
    ```bash
    docker-compose up -d
@@ -84,7 +84,7 @@ To stop and remove the container, run:
  ---
 
 
-## ⚙️ Makefile Workflow
+## Makefile Workflow
 
 We use a `Makefile` to automate the entire data analysis pipeline.
 
@@ -116,7 +116,7 @@ We use a `Makefile` to automate the entire data analysis pipeline.
 
 All dependencies are installed automatically when running the Docker container.
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please follow the [CONTRIBUTING.md](./CONTRIBUTING.md) file to get started.
 
