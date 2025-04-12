@@ -3,7 +3,9 @@ library(docopt)
 
 source("R/data_loading.R")  # Load the functions
 source("R/data_prep.R")
-source("R/data_validation.R")  
+# source("R/data_validation.R")  
+source("dataValidation/data_validation.R")
+
 
 raw_data <- read_csv("data/raw/longbeach.csv")
 
