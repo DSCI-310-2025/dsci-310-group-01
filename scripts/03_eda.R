@@ -1,8 +1,9 @@
 library(docopt)
 library(tidyverse)
+library(animalAdoptR)
 
-source("R/data_loading.R")  # Load the data loading function
-source("R/eda.R")           # Load EDA helper functions
+# source("R/data_loading.R")  # Load the data loading function
+# source("R/eda.R")           # Load EDA helper functions
 
 "
 This script performs exploratory data analysis (EDA) on the cleaned longbeach dataset,
@@ -120,7 +121,8 @@ library(corrplot)
 
 # Encode factor variables as numeric for correlation analysis
 df_numeric <- data %>%
-  mutate(across(where(is.factor), ~ as.numeric(as.factor(.))))
+  mutate(across(where(is.factor), ~ as.numeric(as.factor(.)))) %>%
+  select(where(is.numeric))
 
 # Calculate correlation matrix
 cor_matrix <- cor(df_numeric, use = "pairwise.complete.obs")
