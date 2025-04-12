@@ -2,8 +2,6 @@ library(docopt)
 library(tidyverse)
 library(animalAdoptR)
 
-# source("R/data_loading.R")  # Load the data loading function
-# source("R/eda.R")           # Load EDA helper functions
 
 "
 This script performs exploratory data analysis (EDA) on the cleaned longbeach dataset,
