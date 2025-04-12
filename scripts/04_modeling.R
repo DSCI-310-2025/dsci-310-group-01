@@ -38,6 +38,17 @@ train_index <- createDataPartition(data$adopted, p = 0.8, list = FALSE)
 train_data <- data[train_index, ]
 test_data <- data[-train_index, ]
 
+
+# Check for data leakage (duplicate IDs across train/test) (FOR DATA VALIDATION)
+if ("animal_id" %in% names(train_data) && "animal_id" %in% names(test_data)) {
+  overlap <- intersect(train_data$animal_id, test_data$animal_id)
+  if (length(overlap) > 0) {
+    stop("⚠️ Data leakage detected: Overlapping IDs between train and test sets:\n", paste(overlap, collapse = ", "))
+  }
+}
+
+
+
 # test_data$adopted <- factor(test_data$adopted, levels = levels(train_data$adopted))
 test_data$adopted <- factor(test_data$adopted, levels = c("Yes", "No")) # Explicitly reorder factor levels
 

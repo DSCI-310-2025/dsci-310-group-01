@@ -3,6 +3,15 @@ library(docopt)
 
 source("R/data_loading.R")  # Load the functions
 source("R/data_prep.R")
+# source("R/data_validation.R")  
+source("dataValidation/data_validation.R")
+
+
+raw_data <- read_csv("data/raw/longbeach.csv")
+
+# Call the validation function
+run_data_validation_checks(raw_data)
+
 
 "This script cleans the raw longbeach dataset, performs preprocessing, 
 transforming and feature engineering to prepare data for EDA and modeling.
@@ -44,6 +53,19 @@ longbeach_cleaned <- longbeach_cleaned %>%
   mutate(adopted = ifelse(outcome_type %in% c("adoption", "foster to adopt"), "Yes", "No"))
 cat("Target variable 'adopted' distribution:", "\n")
 print(table(longbeach_cleaned$adopted))
+
+
+# Remove duplicate observations
+before_dedup <- nrow(longbeach_cleaned)
+longbeach_cleaned <- longbeach_cleaned[!duplicated(longbeach_cleaned), ]
+after_dedup <- nrow(longbeach_cleaned)
+
+if (before_dedup > after_dedup) {
+  cat("Removed", before_dedup - after_dedup, "duplicate rows from cleaned dataset.\n")
+} else {
+  cat("No duplicate rows found in cleaned dataset.\n")
+}
+
 
 # Convert DOB to Ages (integer)
 longbeach_cleaned$age <- calculate_age_years(longbeach_cleaned$dob)
