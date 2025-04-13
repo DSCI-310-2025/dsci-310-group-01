@@ -37,7 +37,7 @@ RUN Rscript -e "install.packages('remotes', repos='https://cloud.r-project.org')
                 remotes::install_version('rmarkdown', version='2.22', repos='https://cloud.r-project.org'); \
                 remotes::install_version('testthat', version='3.1.10', repos='https://cloud.r-project.org'); \
                 remotes::install_version('corrplot', version='0.92', repos='https://cloud.r-project.org'); \
-                devtools::install_github('DSCI-310-2025/animalAdoptR')"
+                devtools::install_github('DSCI-310-2025/animalAdoptR@v0.1.0')"
 
 
 # Register IRKernel in Jupyter

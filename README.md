@@ -24,6 +24,19 @@ Our goal is to build a **predictive model** that helps shelters understand what 
 ## Key Insights
 Our Random Forest classification model achieved an relative high accuracy in predicting animal adoption outcomes. The analysis revealed that sex/reproductive status, age, and intake type are the most influential factors in determining whether an animal will be adopted.
 
+## Project Structure and Design
+
+This project follows a modular design pattern:
+
+- Core data analysis functions have been abstracted into the [`animalAdoptR`](https://github.com/DSCI-310-2025/animalAdoptR) package
+- Analysis workflow is organized into discrete steps:
+  - `scripts/`: Contains the individual R scripts for each analysis stage
+  - `data/`: Stores raw and processed datasets
+  - `models/`: Contains trained models
+  - `results/`: Holds generated figures and tables
+  - `dataValidation/`: Contains scripts for data validation checks
+  - `reports/`: Holds the final analysis report in multiple formats
+- `Makefile` orchestrates the entire analysis pipeline, ensuring reproducibility
 
 ## How to Run the Analysis
 
@@ -109,11 +122,17 @@ We use a `Makefile` to automate the entire data analysis pipeline.
 - **R version:** 4.3.1 (installed inside Docker)
 - **Jupyter Lab** (included in the Docker container)
 - **Installed R packages:**
-  - `IRkernel` 
-  - `tidyverse` 
-  - `caret` 
-  - `randomForest` 
-  - `e1071` 
+  - `IRkernel` (v1.3.0)
+  - `tidyverse` (v2.0.0)
+  - `caret` (v6.0-94)
+  - `randomForest` (v4.7-1.1)
+  - `e1071` (v1.7-14)
+  - `pROC` (v1.18.5)
+  - `docopt` (v0.7.1)
+  - `rmarkdown` (v2.22)
+  - `testthat` (v3.1.10)
+  - `corrplot` (v0.92)
+  - `animalAdoptR` (v0.1.0) - Custom package for animal shelter data analysis
 
 All dependencies are installed automatically when running the Docker container.
 
