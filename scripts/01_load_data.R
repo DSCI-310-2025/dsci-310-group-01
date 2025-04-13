@@ -1,8 +1,8 @@
 # Load necessary libraries
 library(tidyverse)
 library(docopt)
+library(animalAdoptR)
 
-source("R/data_loading.R")  # Load the functions
 
 # Define command-line interface
 "This script loads raw longbeach data.

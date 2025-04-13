@@ -3,9 +3,8 @@ library(caret)
 library(randomForest)  # Load Random Forest for modeling
 library(pROC)
 library(docopt)
+library(animalAdoptR)
 
-source("R/data_loading.R")  # Load the functions
-source("R/modeling.R")
 
 "
 This script trains a Random Forest model to predict animal adoption.

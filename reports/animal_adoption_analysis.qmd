@@ -62,6 +62,7 @@ This dataset is publicly available and can be accessed here:
 ```{r}
 # Load necessary libraries
 library(tidyverse)
+library(animalAdoptR)  # Now using our custom package for all core analysis functions
 # Load processed data for inline code references
 longbeach <- read_csv("../data/raw/longbeach.csv")
 cleaned_data <- read_csv("../data/processed/longbeach_cleaned.csv")

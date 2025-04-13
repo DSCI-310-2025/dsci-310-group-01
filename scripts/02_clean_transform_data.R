@@ -1,16 +1,14 @@
 library(tidyverse)
 library(docopt)
+library(animalAdoptR)
 
-source("R/data_loading.R")  # Load the functions
-source("R/data_prep.R")
-# source("R/data_validation.R")  
 source("dataValidation/data_validation.R")
 
 
 raw_data <- read_csv("data/raw/longbeach.csv")
 
 # Call the validation function
-run_data_validation_checks(raw_data)
+# run_data_validation_checks(raw_data)
 
 
 "This script cleans the raw longbeach dataset, performs preprocessing, 
